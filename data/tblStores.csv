@@ -1,0 +1,51 @@
+store_id,store_name,city,state,region,store_type,store_size_sqft,employee_count,open_date,store_manager,monthly_rent,remodel_year
+101,Walmart Supercenter #101 - New York,New York,NY,Northeast,Supercenter,149000,245,2002-08-11,Angela Martin,186300.0,2016
+102,Walmart Supercenter #102 - Los Angeles,Los Angeles,CA,West,Supercenter,167000,207,2012-06-15,David Miller,167000.0,2017
+103,Walmart Supercenter #103 - Chicago,Chicago,IL,Midwest,Supercenter,181000,219,1996-03-20,Daniel Jones,301700.0,2015
+104,Walmart Supercenter #104 - Houston,Houston,TX,South,Supercenter,167000,270,2008-04-03,Jason Davis,222700.0,2020
+105,Walmart Supercenter #105 - Phoenix,Phoenix,AZ,West,Supercenter,166000,222,2012-09-23,Lisa Miller,290500.0,2016
+106,Walmart Supercenter #106 - Philadelphia,Philadelphia,PA,Northeast,Supercenter,144000,190,1999-07-01,Deborah Moore,120000.0,2019
+107,Walmart Supercenter #107 - San Antonio,San Antonio,TX,South,Supercenter,184000,296,2006-04-24,Michael Moore,168700.0,2022
+108,Walmart Supercenter #108 - San Diego,San Diego,CA,West,Supercenter,151000,242,2001-09-17,Michael Taylor,276800.0,2023
+109,Walmart Supercenter #109 - Dallas,Dallas,TX,South,Supercenter,184000,266,1998-01-04,James Miller,138000.0,2022
+110,Walmart Supercenter #110 - Jacksonville,Jacksonville,FL,South,Supercenter,175000,303,2010-02-07,Susan Lopez,277100.0,2022
+111,Walmart Supercenter #111 - Austin,Austin,TX,South,Supercenter,184000,311,2010-06-13,Robert Anderson,138000.0,2023
+112,Walmart Supercenter #112 - Fort Worth,Fort Worth,TX,South,Supercenter,154000,189,2003-12-04,Carlos Jones,115500.0,2019
+113,Walmart Supercenter #113 - San Jose,San Jose,CA,West,Supercenter,176000,225,2006-02-22,Jennifer Thomas,249300.0,2017
+114,Walmart Supercenter #114 - Columbus,Columbus,OH,Midwest,Supercenter,165000,202,2014-09-12,Jason Smith,206300.0,2015
+115,Walmart Supercenter #115 - Charlotte,Charlotte,NC,South,Supercenter,160000,206,2012-05-12,Anthony Jackson,293300.0,2023
+116,Walmart Supercenter #116 - Indianapolis,Indianapolis,IN,Midwest,Supercenter,195000,261,2015-01-12,Michael Davis,178800.0,2020
+117,Walmart Supercenter #117 - San Francisco,San Francisco,CA,West,Supercenter,185000,299,2002-10-15,Jason Moore,169600.0,2019
+118,Walmart Supercenter #118 - Seattle,Seattle,WA,West,Supercenter,154000,274,2003-11-13,James Johnson,154000.0,2015
+119,Walmart Supercenter #119 - Denver,Denver,CO,West,Supercenter,152000,268,1998-03-08,Linda Lopez,266000.0,2023
+120,Walmart Supercenter #120 - Oklahoma City,Oklahoma City,OK,South,Supercenter,183000,302,2008-05-23,Jason Martinez,289800.0,2019
+121,Walmart Supercenter #121 - Nashville,Nashville,TN,South,Supercenter,189000,296,2006-12-23,Michael Smith,267800.0,2023
+122,Walmart Supercenter #122 - Washington,Washington,DC,Northeast,Supercenter,184000,291,2017-06-11,Kevin Martin,230000.0,2024
+123,Walmart Supercenter #123 - El Paso,El Paso,TX,South,Supercenter,175000,239,2004-01-12,Robert Martinez,233300.0,2015
+124,Walmart Supercenter #124 - Las Vegas,Las Vegas,NV,West,Supercenter,148000,199,2008-11-13,Robert Thomas,209700.0,2021
+125,Walmart Supercenter #125 - Boston,Boston,MA,Northeast,Supercenter,147000,222,1996-12-18,Maria Garcia,159300.0,2022
+126,Walmart Supercenter #126 - Detroit,Detroit,MI,Midwest,Supercenter,160000,255,1995-02-14,Brian Hernandez,133300.0,2017
+127,Walmart Neighborhood Market #127 - Portland,Portland,OR,West,Neighborhood Market,42000,62,2003-08-17,Patricia Thomas,70000.0,2017
+128,Walmart Supercenter #128 - Louisville,Louisville,KY,South,Supercenter,167000,285,2016-05-11,Linda Martin,180900.0,2023
+129,Walmart Discount Store #129 - Memphis,Memphis,TN,South,Discount Store,77000,104,2003-11-27,Nancy Jones,70600.0,2019
+130,Walmart Discount Store #130 - Baltimore,Baltimore,MD,Northeast,Discount Store,97000,167,1995-03-15,Michael Johnson,177800.0,2016
+131,Walmart Neighborhood Market #131 - Milwaukee,Milwaukee,WI,Midwest,Neighborhood Market,29000,38,1999-11-06,James Brown,31400.0,2022
+132,Walmart Discount Store #132 - Albuquerque,Albuquerque,NM,West,Discount Store,97000,131,1998-10-04,Karen Hernandez,161700.0,2024
+133,Walmart Neighborhood Market #133 - Tucson,Tucson,AZ,West,Neighborhood Market,31000,43,2005-07-26,Carlos Wilson,33600.0,2020
+134,Walmart Neighborhood Market #134 - Fresno,Fresno,CA,West,Neighborhood Market,44000,70,1998-01-04,Brian Taylor,58700.0,2019
+135,Walmart Neighborhood Market #135 - Sacramento,Sacramento,CA,West,Neighborhood Market,28000,39,1998-12-01,James Johnson,35000.0,2016
+136,Walmart Supercenter #136 - Mesa,Mesa,AZ,West,Supercenter,173000,224,1998-11-12,Carlos Martin,273900.0,2021
+137,Walmart Discount Store #137 - Atlanta,Atlanta,GA,South,Discount Store,82000,99,2005-07-16,Angela Davis,109300.0,2021
+138,Walmart Discount Store #138 - Kansas City,Kansas City,MO,Midwest,Discount Store,89000,134,2006-12-20,Nancy Rodriguez,133500.0,2017
+139,Walmart Neighborhood Market #139 - Colorado Springs,Colorado Springs,CO,West,Neighborhood Market,38000,46,2020-03-09,James Jones,63300.0,2021
+140,Walmart Neighborhood Market #140 - Omaha,Omaha,NE,Midwest,Neighborhood Market,33000,52,2005-01-18,Nancy Davis,24800.0,2023
+141,Walmart Neighborhood Market #141 - Raleigh,Raleigh,NC,South,Neighborhood Market,29000,44,2019-03-13,Jason Lee,36300.0,2020
+142,Walmart Supercenter #142 - Virginia Beach,Virginia Beach,VA,South,Supercenter,186000,323,2019-01-19,Michael Anderson,139500.0,2021
+143,Walmart Discount Store #143 - Miami,Miami,FL,South,Discount Store,113000,180,1999-12-22,Nancy Garcia,122400.0,2016
+144,Walmart Discount Store #144 - Oakland,Oakland,CA,West,Discount Store,101000,168,2006-11-12,Susan Rodriguez,143100.0,2021
+145,Walmart Discount Store #145 - Minneapolis,Minneapolis,MN,Midwest,Discount Store,76000,112,1996-07-11,Anthony Martin,101300.0,2019
+146,Walmart Discount Store #146 - Tulsa,Tulsa,OK,South,Discount Store,74000,107,2000-08-17,Jason Lopez,98700.0,2022
+147,Walmart Supercenter #147 - Tampa,Tampa,FL,South,Supercenter,172000,269,2015-10-28,Jason Garcia,172000.0,2018
+148,Walmart Neighborhood Market #148 - New Orleans,New Orleans,LA,South,Neighborhood Market,45000,57,2008-01-04,Anthony Taylor,56300.0,2019
+149,Walmart Supercenter #149 - Wichita,Wichita,KS,Midwest,Supercenter,186000,259,2013-05-03,Nancy Smith,248000.0,2015
+150,Walmart Discount Store #150 - Cleveland,Cleveland,OH,Midwest,Discount Store,93000,113,2011-10-16,Lisa Johnson,85300.0,2024

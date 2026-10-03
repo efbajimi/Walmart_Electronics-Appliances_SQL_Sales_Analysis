@@ -1,0 +1,1201 @@
+customer_id,first_name,last_name,age,gender,annual_income,household_size,loyalty_level,loyalty_points,customer_segment,preferred_channel,home_store_id,city,state,region,signup_date,email_opt_in
+20001,Angela,Martinez,37.0,Female,178900.0,1,Platinum,46042,Tech Enthusiast,Mobile App,129,Memphis,TN,South,2020-12-22,True
+20002,Lisa,Jackson,36.0,Female,36000.0,5,Platinum,47561,Young Professional,Curbside Pickup,126,Detroit,MI,Midwest,2017-04-11,True
+20003,Robert,Baker,33.0,Male,107900.0,5,None,100,Bulk Buyer,In-Store,122,Washington,DC,Northeast,2022-06-08,False
+20004,Jason,Rodriguez,40.0,Male,36800.0,5,Platinum,46819,Budget Shopper,Online,124,Las Vegas,NV,West,2020-12-25,False
+20005,Alex,Taylor,20.0,Prefer Not to Say,155000.0,4,Gold,17303,Retiree,Curbside Pickup,130,Baltimore,MD,Northeast,2019-12-28,False
+20006,Wei,Hernandez,81.0,Male,129700.0,2,Gold,17616,Family Household,Curbside Pickup,150,Cleveland,OH,Midwest,2020-04-05,False
+20007,Karen,Hernandez,22.0,Female,81400.0,4,Platinum,44172,Tech Enthusiast,Online,124,Las Vegas,NV,West,2016-02-25,False
+20008,Nicole,Martin,41.0,Female,64000.0,6,Silver,9470,Family Household,Online,137,Atlanta,GA,South,2021-04-18,True
+20009,Andrew,Nguyen,21.0,Male,124900.0,2,Gold,17623,Family Household,Curbside Pickup,136,Mesa,AZ,West,2017-10-17,True
+20010,Priya,Lopez,66.0,Female,109000.0,6,Platinum,39757,Tech Enthusiast,Curbside Pickup,126,Detroit,MI,Midwest,2023-04-24,False
+20011,Anthony,Perez,32.0,Male,158300.0,5,Gold,23625,Budget Shopper,Online,111,Austin,TX,South,2023-01-12,True
+20012,Susan,Williams,52.0,Female,133100.0,4,Gold,23869,Tech Enthusiast,Mobile App,142,Virginia Beach,VA,South,2022-08-06,False
+20013,Taylor,Davis,31.0,Prefer Not to Say,169100.0,4,Gold,18885,Budget Shopper,In-Store,110,Jacksonville,FL,South,2019-09-08,False
+20014,Wei,Patel,51.0,Male,62600.0,3,Platinum,41229,Retiree,In-Store,106,Philadelphia,PA,Northeast,2021-05-06,True
+20015,Daniel,Jackson,44.0,Male,81700.0,4,Bronze,888,Tech Enthusiast,Mobile App,141,Raleigh,NC,South,2023-05-26,True
+20016,Angela,Rodriguez,61.0,Female,91200.0,6,Silver,8544,Tech Enthusiast,Curbside Pickup,108,San Diego,CA,West,2018-05-25,False
+20017,Andrew,Martin,31.0,Male,117600.0,1,Platinum,41800,Budget Shopper,Curbside Pickup,130,Baltimore,MD,Northeast,2019-07-08,True
+20018,Linda,Gonzalez,23.0,Female,120500.0,1,Silver,10325,Family Household,Mobile App,130,Baltimore,MD,Northeast,2021-01-14,True
+20019,Karen,Gonzalez,64.0,Female,40500.0,6,Silver,8206,Family Household,In-Store,109,Dallas,TX,South,2017-01-03,True
+20020,Maria,Brown,49.0,Female,74900.0,1,Gold,29342,Family Household,Mobile App,149,Wichita,KS,Midwest,2022-07-09,True
+20021,Steven,Phillips,40.0,Male,36700.0,6,Bronze,2724,Budget Shopper,Mobile App,131,Milwaukee,WI,Midwest,2023-06-20,True
+20022,Nicole,Baker,32.0,Female,145700.0,5,Platinum,45943,Family Household,Online,122,Washington,DC,Northeast,2019-04-27,True
+20023,Eric,Jackson,58.0,Male,136200.0,2,Gold,27817,Tech Enthusiast,Mobile App,143,Miami,FL,South,2019-11-14,True
+20024,Robert,Patel,45.0,Male,163200.0,3,Gold,22690,Bulk Buyer,In-Store,135,Sacramento,CA,West,2019-06-21,True
+20025,Robert,Kim,31.0,Male,112900.0,5,Gold,21530,Budget Shopper,Mobile App,112,Fort Worth,TX,South,2020-02-11,False
+20026,Carlos,Anderson,22.0,Male,127300.0,5,Silver,12534,Tech Enthusiast,Curbside Pickup,113,San Jose,CA,West,2019-07-09,False
+20027,Taylor,Collins,22.0,Non-Binary,168700.0,4,Gold,22352,Budget Shopper,Mobile App,147,Tampa,FL,South,2022-11-28,True
+20028,Susan,Mitchell,76.0,Female,22600.0,5,Platinum,38600,Young Professional,Curbside Pickup,147,Tampa,FL,South,2023-06-18,True
+20029,Amy,Roberts,20.0,Female,135300.0,3,Silver,11420,Family Household,Mobile App,126,Detroit,MI,Midwest,2019-11-24,True
+20030,Luis,Nelson,53.0,Male,170700.0,4,Bronze,4972,Tech Enthusiast,In-Store,135,Sacramento,CA,West,2019-11-19,True
+20031,Brian,Roberts,77.0,Male,29000.0,6,Gold,27864,Bulk Buyer,In-Store,135,Sacramento,CA,West,2019-10-16,True
+20032,Grace,Brown,23.0,Female,92400.0,1,Platinum,32059,Family Household,Curbside Pickup,101,New York,NY,Northeast,2019-06-16,True
+20033,Maria,Kim,72.0,Female,149000.0,2,Platinum,39877,Retiree,Curbside Pickup,135,Sacramento,CA,West,2017-04-10,False
+20034,Morgan,Jones,60.0,Prefer Not to Say,85400.0,3,Platinum,46677,Young Professional,Mobile App,110,Jacksonville,FL,South,2019-07-05,True
+20035,Sofia,Adams,24.0,Female,41700.0,4,Platinum,46458,Young Professional,Curbside Pickup,140,Omaha,NE,Midwest,2022-02-25,False
+20036,Patricia,Miller,61.0,Female,39400.0,5,Gold,16674,Family Household,Online,127,Portland,OR,West,2016-07-14,False
+20037,Sofia,Perez,38.0,Female,183800.0,4,Platinum,35909,Family Household,In-Store,101,New York,NY,Northeast,2018-07-13,True
+20038,Angela,Lopez,79.0,Female,105600.0,1,Gold,22287,Retiree,In-Store,125,Boston,MA,Northeast,2022-09-07,True
+20039,James,Adams,63.0,Male,49300.0,2,Bronze,4520,Tech Enthusiast,In-Store,139,Colorado Springs,CO,West,2020-07-08,False
+20040,Maria,Adams,70.0,Female,130300.0,6,Platinum,33115,Retiree,In-Store,109,Dallas,TX,South,2020-07-19,True
+20041,Rachel,Kim,37.0,Female,144600.0,5,Silver,10879,Retiree,Online,123,El Paso,TX,South,2021-04-02,False
+20042,Luis,Martinez,47.0,Male,105300.0,1,Gold,16458,Budget Shopper,Online,143,Miami,FL,South,2017-07-17,True
+20043,Ryan,Nguyen,59.0,Male,116500.0,6,Platinum,42042,Bulk Buyer,In-Store,150,Cleveland,OH,Midwest,2016-03-08,True
+20044,Maria,Brown,79.0,Female,85600.0,6,Gold,24840,Bulk Buyer,Online,114,Columbus,OH,Midwest,2016-03-21,True
+20045,David,Miller,45.0,Male,147600.0,5,Platinum,43143,Young Professional,Mobile App,116,Indianapolis,IN,Midwest,2023-03-16,True
+20046,Kevin,Hernandez,31.0,Male,170200.0,4,Gold,21331,Bulk Buyer,Mobile App,127,Portland,OR,West,2023-07-26,True
+20047,Susan,Davis,64.0,Female,65700.0,1,Platinum,35639,Budget Shopper,Curbside Pickup,106,Philadelphia,PA,Northeast,2020-09-02,True
+20048,Robert,Perez,80.0,Male,183700.0,2,Silver,8473,Bulk Buyer,Mobile App,148,New Orleans,LA,South,2020-11-24,True
+20049,Angela,Carter,26.0,Female,101100.0,4,Platinum,38879,Bulk Buyer,Curbside Pickup,123,El Paso,TX,South,2018-03-10,False
+20050,Patricia,Anderson,75.0,Female,160900.0,6,Platinum,39280,Retiree,Mobile App,114,Columbus,OH,Midwest,2024-08-21,False
+20051,Quinn,Smith,41.0,Prefer Not to Say,103300.0,6,Platinum,46691,Family Household,Online,128,Louisville,KY,South,2018-10-14,False
+20052,Steven,Adams,42.0,Male,64300.0,1,Gold,16353,Budget Shopper,Online,132,Albuquerque,NM,West,2019-01-14,True
+20053,Nicole,Turner,40.0,Female,166700.0,1,Silver,12205,Tech Enthusiast,Online,137,Atlanta,GA,South,2021-10-13,False
+20054,Deborah,Wright,84.0,Female,30100.0,3,Gold,19160,Bulk Buyer,Online,141,Raleigh,NC,South,2016-06-02,True
+20055,Wei,Chen,46.0,Male,47700.0,3,Platinum,44758,Tech Enthusiast,In-Store,107,San Antonio,TX,South,2018-05-13,True
+20056,Omar,Patel,60.0,Male,35900.0,6,Platinum,32046,Bulk Buyer,Online,122,Washington,DC,Northeast,2020-09-07,False
+20057,Deborah,Smith,23.0,Female,183200.0,1,Gold,20402,Family Household,Online,143,Miami,FL,South,2023-02-09,True
+20058,Raj,Campbell,19.0,Male,65700.0,1,Gold,17409,Budget Shopper,Curbside Pickup,123,El Paso,TX,South,2023-09-07,True
+20059,Deborah,Nelson,66.0,Female,165800.0,3,Silver,9751,Family Household,Curbside Pickup,125,Boston,MA,Northeast,2019-12-27,False
+20060,Morgan,Johnson,49.0,Non-Binary,140500.0,6,Platinum,32864,Budget Shopper,Curbside Pickup,150,Cleveland,OH,Midwest,2020-07-11,False
+20061,Rachel,Davis,77.0,Female,149300.0,6,Gold,26516,Bulk Buyer,Curbside Pickup,107,San Antonio,TX,South,2016-04-28,True
+20062,Patricia,Martin,75.0,Female,158200.0,1,Gold,16052,Young Professional,Online,142,Virginia Beach,VA,South,2022-12-13,False
+20063,Riley,Kim,40.0,Non-Binary,116900.0,2,Silver,7451,Retiree,Online,106,Philadelphia,PA,Northeast,2019-04-25,False
+20064,Aisha,Jackson,37.0,Female,44400.0,5,Platinum,46237,Retiree,Curbside Pickup,119,Denver,CO,West,2018-02-20,False
+20065,Mei,Brown,63.0,Female,188900.0,5,Silver,10842,Budget Shopper,Mobile App,119,Denver,CO,West,2017-05-27,True
+20066,Marcus,Hernandez,25.0,Male,74300.0,4,Bronze,3976,Family Household,Curbside Pickup,123,El Paso,TX,South,2019-10-09,True
+20067,Grace,Martinez,74.0,Female,73600.0,6,Gold,16852,Bulk Buyer,In-Store,114,Columbus,OH,Midwest,2023-04-02,True
+20068,Jason,Evans,28.0,Male,132100.0,5,Platinum,44251,Budget Shopper,Online,103,Chicago,IL,Midwest,2023-08-10,True
+20069,Daniel,Carter,68.0,Male,89500.0,4,Gold,22481,Young Professional,Curbside Pickup,104,Houston,TX,South,2021-10-26,False
+20070,Taylor,Rodriguez,34.0,Non-Binary,150200.0,3,Silver,15831,Budget Shopper,Curbside Pickup,140,Omaha,NE,Midwest,2019-03-04,False
+20071,Marcus,Martinez,71.0,Male,169700.0,3,Gold,22753,Tech Enthusiast,Curbside Pickup,126,Detroit,MI,Midwest,2016-01-20,False
+20072,Nancy,Scott,82.0,Female,92100.0,1,Platinum,35073,Retiree,Mobile App,102,Los Angeles,CA,West,2020-09-21,True
+20073,Raj,Evans,49.0,Male,140800.0,1,Silver,7752,Family Household,Online,116,Indianapolis,IN,Midwest,2018-02-17,False
+20074,Linda,Wright,39.0,Female,134200.0,3,Platinum,41583,Retiree,Online,126,Detroit,MI,Midwest,2021-10-17,True
+20075,Kevin,Smith,79.0,Male,56100.0,6,Bronze,2680,Tech Enthusiast,In-Store,114,Columbus,OH,Midwest,2020-09-04,True
+20076,Rachel,Williams,43.0,Female,24100.0,4,Gold,22225,Tech Enthusiast,In-Store,123,El Paso,TX,South,2018-11-02,True
+20077,Michelle,Miller,46.0,Female,181400.0,4,Platinum,40374,Budget Shopper,In-Store,143,Miami,FL,South,2019-08-24,True
+20078,Ryan,Johnson,57.0,Male,132800.0,6,Bronze,5782,Budget Shopper,Mobile App,119,Denver,CO,West,2024-03-10,True
+20079,Amy,Carter,79.0,Female,166300.0,1,Silver,6075,Family Household,In-Store,102,Los Angeles,CA,West,2018-07-05,True
+20080,Daniel,Kim,72.0,Male,44600.0,6,Platinum,43154,Young Professional,Online,135,Sacramento,CA,West,2017-01-07,True
+20081,Brian,Edwards,65.0,Male,176200.0,6,Platinum,38311,Retiree,Online,132,Albuquerque,NM,West,2022-04-15,True
+20082,Alex,Martinez,84.0,Non-Binary,102200.0,3,Platinum,36644,Retiree,Mobile App,131,Milwaukee,WI,Midwest,2017-04-18,True
+20083,Morgan,Hernandez,49.0,Prefer Not to Say,82700.0,6,Platinum,42121,Young Professional,Online,145,Minneapolis,MN,Midwest,2023-09-26,False
+20084,Kevin,Kim,84.0,Male,125700.0,4,Platinum,44896,Bulk Buyer,In-Store,140,Omaha,NE,Midwest,2016-09-13,True
+20085,Michelle,Martinez,71.0,Female,70300.0,5,Gold,20409,Bulk Buyer,Online,136,Mesa,AZ,West,2020-09-07,False
+20086,Michelle,Lopez,66.0,Female,91200.0,3,Gold,18166,Tech Enthusiast,Curbside Pickup,123,El Paso,TX,South,2017-12-14,True
+20087,Daniel,Gonzalez,78.0,Male,95100.0,1,Platinum,30524,Young Professional,Curbside Pickup,139,Colorado Springs,CO,West,2019-08-18,False
+20088,Michelle,Phillips,79.0,Female,144300.0,5,Bronze,3364,Young Professional,In-Store,107,San Antonio,TX,South,2018-01-28,True
+20089,Amy,Collins,55.0,Female,109400.0,5,Silver,13069,Budget Shopper,Online,132,Albuquerque,NM,West,2016-02-20,False
+20090,Maria,Martinez,47.0,Female,186500.0,5,Gold,24063,Tech Enthusiast,Online,111,Austin,TX,South,2018-03-05,False
+20091,Daniel,Turner,78.0,Male,116100.0,6,Gold,22535,Retiree,Mobile App,117,San Francisco,CA,West,2021-10-24,False
+20092,Riley,Hernandez,68.0,Non-Binary,127100.0,5,Silver,6755,Tech Enthusiast,Curbside Pickup,135,Sacramento,CA,West,2016-06-24,True
+20093,James,Turner,50.0,Male,74300.0,5,Gold,28934,Young Professional,In-Store,118,Seattle,WA,West,2020-09-09,True
+20094,Karen,Baker,53.0,Female,104200.0,6,Bronze,558,Family Household,Mobile App,131,Milwaukee,WI,Midwest,2019-02-20,False
+20095,Susan,Miller,75.0,Female,113100.0,1,Bronze,5435,Retiree,In-Store,112,Fort Worth,TX,South,2021-12-07,True
+20096,Grace,Garcia,80.0,Female,119800.0,4,Bronze,4482,Bulk Buyer,Online,105,Phoenix,AZ,West,2016-02-26,False
+20097,Luis,Martinez,26.0,Male,51000.0,5,Silver,11182,Retiree,In-Store,104,Houston,TX,South,2018-02-06,True
+20098,Susan,Kim,55.0,Female,41000.0,1,Bronze,5608,Family Household,Mobile App,133,Tucson,AZ,West,2019-04-02,True
+20099,Deborah,Jones,21.0,Female,95300.0,2,Platinum,46577,Bulk Buyer,Online,132,Albuquerque,NM,West,2018-06-24,False
+20100,Karen,Martinez,81.0,Female,87500.0,4,Gold,19928,Bulk Buyer,Mobile App,138,Kansas City,MO,Midwest,2016-07-02,True
+20101,Raj,Edwards,32.0,Male,132800.0,4,Gold,19437,Retiree,Curbside Pickup,103,Chicago,IL,Midwest,2023-01-05,False
+20102,Brian,Patel,26.0,Male,138400.0,5,Platinum,31933,Retiree,Online,132,Albuquerque,NM,West,2024-08-25,True
+20103,Joshua,Nguyen,29.0,Male,168700.0,6,Gold,26251,Retiree,In-Store,107,San Antonio,TX,South,2017-12-09,False
+20104,Susan,Perez,55.0,Female,82100.0,6,Platinum,38616,Budget Shopper,In-Store,114,Columbus,OH,Midwest,2023-08-28,True
+20105,Nicole,Collins,72.0,Female,119900.0,6,Platinum,30050,Tech Enthusiast,Curbside Pickup,129,Memphis,TN,South,2017-10-12,True
+20106,Eric,Brown,56.0,Male,150400.0,6,Platinum,36989,Retiree,Curbside Pickup,118,Seattle,WA,West,2018-07-24,False
+20107,Aisha,Wilson,48.0,Female,31800.0,5,Gold,16148,Young Professional,In-Store,137,Atlanta,GA,South,2021-11-08,True
+20108,Eric,Moore,71.0,Male,91000.0,2,Platinum,44880,Tech Enthusiast,Mobile App,128,Louisville,KY,South,2016-09-12,False
+20109,Raj,Edwards,42.0,Male,130700.0,1,Bronze,1152,Tech Enthusiast,Online,138,Kansas City,MO,Midwest,2016-11-28,True
+20110,Mei,Mitchell,61.0,Female,147800.0,1,Platinum,44021,Young Professional,In-Store,111,Austin,TX,South,2018-03-27,True
+20111,Raj,Phillips,77.0,Male,136300.0,4,Platinum,47903,Tech Enthusiast,Online,121,Nashville,TN,South,2019-07-19,True
+20112,Michael,Collins,20.0,Male,157900.0,3,Gold,19941,Family Household,Mobile App,124,Las Vegas,NV,West,2023-09-09,True
+20113,Angela,Campbell,23.0,Female,71000.0,3,Gold,26353,Retiree,Mobile App,125,Boston,MA,Northeast,2020-03-06,True
+20114,Joshua,Nelson,52.0,Male,178700.0,6,Platinum,42757,Young Professional,Online,132,Albuquerque,NM,West,2023-10-25,True
+20115,Steven,Taylor,70.0,Male,149500.0,6,Silver,8852,Bulk Buyer,In-Store,112,Fort Worth,TX,South,2020-12-23,False
+20116,Susan,Evans,79.0,Female,183300.0,2,Silver,13327,Family Household,In-Store,128,Louisville,KY,South,2021-06-28,True
+20117,Raj,Jones,31.0,Male,168700.0,2,Silver,6509,Young Professional,Online,116,Indianapolis,IN,Midwest,2019-01-01,False
+20118,Sofia,Evans,34.0,Female,71800.0,1,Bronze,677,Family Household,In-Store,146,Tulsa,OK,South,2017-12-15,True
+20119,Riley,Jackson,75.0,Non-Binary,46900.0,5,Platinum,33419,Young Professional,Online,141,Raleigh,NC,South,2019-02-21,False
+20120,Sofia,Gonzalez,76.0,Female,63100.0,5,Platinum,41626,Young Professional,Mobile App,129,Memphis,TN,South,2018-08-26,True
+20121,David,Phillips,67.0,Male,86000.0,1,Silver,10851,Budget Shopper,Online,116,Indianapolis,IN,Midwest,2023-04-01,False
+20122,Raj,Wright,51.0,Male,154300.0,6,Gold,23847,Young Professional,Online,135,Sacramento,CA,West,2024-01-18,True
+20123,Steven,Baker,25.0,Male,177300.0,4,Platinum,31749,Retiree,Mobile App,140,Omaha,NE,Midwest,2021-04-26,True
+20124,Deborah,Wright,73.0,Female,103400.0,4,Silver,11000,Retiree,Mobile App,130,Baltimore,MD,Northeast,2019-10-03,True
+20125,Aisha,Adams,63.0,Female,98700.0,4,Platinum,35075,Budget Shopper,Mobile App,124,Las Vegas,NV,West,2016-10-15,True
+20126,Wei,Brown,71.0,Male,146900.0,2,Silver,10008,Budget Shopper,Mobile App,116,Indianapolis,IN,Midwest,2023-12-22,False
+20127,Joshua,Taylor,30.0,Male,171500.0,1,Platinum,38553,Retiree,Online,147,Tampa,FL,South,2022-03-14,True
+20128,Sofia,Patel,70.0,Female,86400.0,5,Platinum,34120,Tech Enthusiast,Online,129,Memphis,TN,South,2019-12-22,True
+20129,Deborah,Parker,67.0,Female,65300.0,5,Bronze,4151,Bulk Buyer,Online,137,Atlanta,GA,South,2024-01-21,True
+20130,Patricia,Roberts,59.0,Female,37200.0,2,Platinum,47895,Bulk Buyer,Mobile App,101,New York,NY,Northeast,2019-09-17,True
+20131,Eric,Thomas,40.0,Male,166900.0,4,Platinum,36109,Tech Enthusiast,Online,149,Wichita,KS,Midwest,2019-11-02,False
+20132,Nancy,Anderson,82.0,Female,124700.0,6,Gold,19479,Bulk Buyer,In-Store,111,Austin,TX,South,2021-08-16,True
+20133,Jason,Nguyen,79.0,Male,39000.0,6,Gold,19699,Budget Shopper,Mobile App,143,Miami,FL,South,2019-04-26,True
+20134,Elena,Edwards,35.0,Female,31600.0,1,Gold,17227,Family Household,Mobile App,118,Seattle,WA,West,2022-01-12,True
+20135,Brian,Evans,48.0,Male,56100.0,6,Gold,25390,Young Professional,Curbside Pickup,124,Las Vegas,NV,West,2022-08-15,True
+20136,Carlos,Patel,53.0,Male,159500.0,4,Platinum,38862,Tech Enthusiast,Curbside Pickup,141,Raleigh,NC,South,2017-09-23,False
+20137,Luis,Mitchell,53.0,Male,57300.0,5,Silver,14117,Young Professional,Mobile App,140,Omaha,NE,Midwest,2017-09-25,False
+20138,Joshua,Nguyen,46.0,Male,186800.0,3,Bronze,3600,Budget Shopper,Online,119,Denver,CO,West,2018-08-23,True
+20139,Kevin,Collins,32.0,Male,155900.0,2,Silver,14883,Budget Shopper,Online,149,Wichita,KS,Midwest,2024-10-17,False
+20140,Sofia,Adams,82.0,Female,89200.0,3,Gold,16416,Tech Enthusiast,In-Store,143,Miami,FL,South,2021-09-07,False
+20141,Michelle,Hernandez,64.0,Female,119800.0,6,Silver,15924,Tech Enthusiast,In-Store,105,Phoenix,AZ,West,2022-08-02,True
+20142,James,Williams,29.0,Male,56500.0,4,Gold,20515,Budget Shopper,Mobile App,122,Washington,DC,Northeast,2021-08-22,True
+20143,Daniel,Jones,70.0,Male,100800.0,1,Silver,8361,Tech Enthusiast,Curbside Pickup,138,Kansas City,MO,Midwest,2017-10-03,False
+20144,Priya,Nelson,54.0,Female,93400.0,5,Bronze,4811,Young Professional,In-Store,146,Tulsa,OK,South,2022-10-05,True
+20145,Karen,Thomas,73.0,Female,189200.0,4,Silver,11988,Family Household,In-Store,131,Milwaukee,WI,Midwest,2022-02-24,True
+20146,Priya,Adams,67.0,Female,38500.0,2,Gold,23200,Young Professional,Curbside Pickup,139,Colorado Springs,CO,West,2017-03-10,True
+20147,Sofia,Wright,56.0,Female,155800.0,5,Gold,20590,Young Professional,Online,103,Chicago,IL,Midwest,2023-04-06,True
+20148,Angela,Nelson,19.0,Female,48300.0,5,Bronze,2032,Young Professional,Online,124,Las Vegas,NV,West,2018-05-01,False
+20149,Grace,Nelson,72.0,Female,145100.0,5,Silver,6858,Budget Shopper,Mobile App,144,Oakland,CA,West,2018-12-01,True
+20150,Brian,Martin,39.0,Male,103000.0,1,Bronze,3712,Budget Shopper,Curbside Pickup,126,Detroit,MI,Midwest,2019-08-14,False
+20151,Omar,Collins,68.0,Male,159100.0,6,Platinum,35645,Young Professional,Mobile App,150,Cleveland,OH,Midwest,2023-05-26,True
+20152,Angela,Scott,84.0,Female,79700.0,4,Platinum,37029,Tech Enthusiast,Mobile App,109,Dallas,TX,South,2020-10-10,True
+20153,Nancy,Wilson,33.0,Female,30100.0,4,Gold,29758,Young Professional,Online,111,Austin,TX,South,2021-05-16,False
+20154,Sofia,Wright,67.0,Female,148000.0,3,Platinum,31980,Tech Enthusiast,Mobile App,128,Louisville,KY,South,2022-12-20,True
+20155,Linda,Jones,77.0,Female,33200.0,4,Silver,6923,Bulk Buyer,In-Store,122,Washington,DC,Northeast,2019-08-05,True
+20156,Raj,Jackson,82.0,Male,173600.0,5,Platinum,47940,Family Household,Curbside Pickup,132,Albuquerque,NM,West,2023-09-23,True
+20157,Steven,Wilson,45.0,Male,172800.0,4,Gold,29711,Bulk Buyer,In-Store,112,Fort Worth,TX,South,2020-09-26,True
+20158,Nancy,Johnson,31.0,Female,68600.0,1,Bronze,2513,Tech Enthusiast,Curbside Pickup,128,Louisville,KY,South,2017-08-26,True
+20159,Carlos,Perez,39.0,Male,138800.0,5,Bronze,4348,Budget Shopper,Online,147,Tampa,FL,South,2017-06-13,False
+20160,Susan,Chen,41.0,Female,106100.0,6,Bronze,5127,Budget Shopper,In-Store,109,Dallas,TX,South,2016-01-10,True
+20161,Jordan,Adams,68.0,Prefer Not to Say,40100.0,1,Gold,17764,Budget Shopper,Curbside Pickup,112,Fort Worth,TX,South,2019-01-11,True
+20162,Taylor,Campbell,21.0,Prefer Not to Say,104600.0,3,Bronze,2140,Retiree,Online,112,Fort Worth,TX,South,2023-12-22,False
+20163,Michelle,Martin,39.0,Female,108600.0,2,Gold,26948,Tech Enthusiast,In-Store,147,Tampa,FL,South,2023-11-07,True
+20164,Nicole,Miller,63.0,Female,175400.0,6,Silver,14172,Tech Enthusiast,Mobile App,109,Dallas,TX,South,2018-03-15,False
+20165,Omar,Roberts,21.0,Male,111900.0,2,Platinum,34412,Bulk Buyer,Curbside Pickup,149,Wichita,KS,Midwest,2017-03-10,False
+20166,Eric,Turner,21.0,Male,27300.0,5,Gold,28731,Retiree,Curbside Pickup,103,Chicago,IL,Midwest,2024-07-12,False
+20167,Kevin,Phillips,58.0,Male,99700.0,1,Gold,18620,Young Professional,Online,101,New York,NY,Northeast,2016-04-21,True
+20168,Brian,Williams,77.0,Male,130600.0,5,Platinum,37732,Young Professional,Curbside Pickup,119,Denver,CO,West,2020-11-28,True
+20169,Avery,Scott,66.0,Non-Binary,68300.0,5,Bronze,3583,Retiree,Curbside Pickup,140,Omaha,NE,Midwest,2019-08-19,True
+20170,Taylor,Garcia,50.0,Non-Binary,75800.0,6,Gold,24168,Family Household,Online,133,Tucson,AZ,West,2016-07-28,True
+20171,Jennifer,Edwards,63.0,Female,54100.0,2,Platinum,43763,Young Professional,Mobile App,101,New York,NY,Northeast,2019-11-08,False
+20172,Michael,Anderson,34.0,Male,84900.0,2,Gold,24462,Retiree,Online,134,Fresno,CA,West,2018-03-20,True
+20173,Brian,Chen,48.0,Male,123700.0,3,Gold,24340,Young Professional,Online,144,Oakland,CA,West,2021-05-10,True
+20174,Kevin,Hernandez,49.0,Male,22100.0,5,Gold,16351,Tech Enthusiast,Mobile App,139,Colorado Springs,CO,West,2020-05-06,False
+20175,Daniel,Edwards,77.0,Male,97800.0,6,Gold,27523,Budget Shopper,Mobile App,101,New York,NY,Northeast,2016-06-05,False
+20176,Susan,Parker,48.0,Female,109900.0,4,Bronze,752,Bulk Buyer,Online,144,Oakland,CA,West,2024-05-12,True
+20177,Jason,Brown,18.0,Male,117800.0,4,Platinum,34006,Budget Shopper,Online,147,Tampa,FL,South,2019-07-26,True
+20178,Priya,Martinez,57.0,Female,56900.0,1,Gold,24779,Family Household,Mobile App,141,Raleigh,NC,South,2019-01-14,False
+20179,Ryan,Brown,49.0,Male,43100.0,5,None,461,Retiree,Online,109,Dallas,TX,South,2024-07-21,False
+20180,David,Martin,41.0,Male,48100.0,5,Gold,23031,Bulk Buyer,Mobile App,123,El Paso,TX,South,2021-02-26,True
+20181,Morgan,Lopez,40.0,Non-Binary,170400.0,1,Bronze,3482,Bulk Buyer,Mobile App,103,Chicago,IL,Midwest,2016-08-01,True
+20182,James,Rodriguez,19.0,Male,180200.0,6,Platinum,42648,Family Household,Mobile App,118,Seattle,WA,West,2016-10-01,True
+20183,Brian,Johnson,81.0,Male,158200.0,4,Silver,15249,Family Household,In-Store,141,Raleigh,NC,South,2024-06-03,True
+20184,Ryan,Wright,44.0,Male,98000.0,6,Gold,23244,Bulk Buyer,Curbside Pickup,142,Virginia Beach,VA,South,2018-02-12,True
+20185,Nancy,Parker,42.0,Female,146200.0,2,Gold,29537,Tech Enthusiast,Online,119,Denver,CO,West,2022-01-01,False
+20186,Priya,Brown,76.0,Female,108400.0,3,Silver,15023,Bulk Buyer,Curbside Pickup,146,Tulsa,OK,South,2024-03-08,False
+20187,Grace,Lopez,47.0,Female,24500.0,5,Gold,21208,Young Professional,Mobile App,126,Detroit,MI,Midwest,2021-09-15,False
+20188,Robert,Lopez,72.0,Male,159300.0,3,None,225,Family Household,Curbside Pickup,135,Sacramento,CA,West,2023-04-20,True
+20189,Michael,Adams,55.0,Male,84500.0,6,Gold,17962,Family Household,Online,134,Fresno,CA,West,2017-07-10,True
+20190,Casey,Moore,58.0,Non-Binary,79200.0,6,Gold,18816,Family Household,In-Store,141,Raleigh,NC,South,2019-05-11,True
+20191,Eric,Nguyen,28.0,Male,184700.0,3,Platinum,38670,Young Professional,Curbside Pickup,147,Tampa,FL,South,2018-06-21,False
+20192,Robert,Nguyen,20.0,Male,28500.0,3,Silver,8523,Young Professional,Curbside Pickup,114,Columbus,OH,Midwest,2016-08-21,False
+20193,Andrew,Phillips,27.0,Male,78500.0,1,Silver,6743,Young Professional,Mobile App,106,Philadelphia,PA,Northeast,2018-01-19,True
+20194,Patricia,Nelson,56.0,Female,181700.0,1,Platinum,47599,Family Household,In-Store,133,Tucson,AZ,West,2020-11-15,True
+20195,Omar,Rodriguez,51.0,Male,184500.0,2,Platinum,40336,Bulk Buyer,In-Store,148,New Orleans,LA,South,2021-05-28,False
+20196,Linda,Jackson,29.0,Female,136400.0,5,Platinum,45716,Retiree,Mobile App,146,Tulsa,OK,South,2021-11-15,True
+20197,James,Davis,30.0,Male,86200.0,1,Silver,7630,Retiree,Curbside Pickup,108,San Diego,CA,West,2019-09-01,True
+20198,Amy,Kim,50.0,Female,78500.0,4,Gold,28989,Bulk Buyer,Online,145,Minneapolis,MN,Midwest,2016-09-25,False
+20199,Karen,Nelson,67.0,Female,57800.0,6,Silver,8253,Tech Enthusiast,Curbside Pickup,132,Albuquerque,NM,West,2016-03-07,True
+20200,Avery,Taylor,45.0,Prefer Not to Say,152700.0,6,Bronze,3511,Tech Enthusiast,Mobile App,145,Minneapolis,MN,Midwest,2023-03-09,True
+20201,Rachel,Mitchell,35.0,Female,149200.0,3,Platinum,39954,Retiree,Online,128,Louisville,KY,South,2023-04-17,False
+20202,Daniel,Moore,62.0,Male,161400.0,2,Gold,22045,Budget Shopper,Mobile App,134,Fresno,CA,West,2017-10-17,True
+20203,Michelle,Thomas,19.0,Female,116200.0,5,Platinum,39097,Budget Shopper,Curbside Pickup,122,Washington,DC,Northeast,2020-05-17,True
+20204,Jennifer,Moore,80.0,Female,31200.0,3,Platinum,32597,Tech Enthusiast,Online,131,Milwaukee,WI,Midwest,2017-09-12,True
+20205,Robert,Mitchell,48.0,Male,112800.0,3,Platinum,30115,Budget Shopper,Online,129,Memphis,TN,South,2023-04-01,True
+20206,Wei,Brown,51.0,Male,126400.0,1,Platinum,47512,Budget Shopper,Curbside Pickup,126,Detroit,MI,Midwest,2017-09-19,True
+20207,Rachel,Wright,66.0,Female,36800.0,5,Platinum,40506,Tech Enthusiast,Online,133,Tucson,AZ,West,2016-12-17,False
+20208,Daniel,Turner,18.0,Male,63500.0,1,Silver,7842,Bulk Buyer,Curbside Pickup,101,New York,NY,Northeast,2016-09-25,True
+20209,Sofia,Jones,23.0,Female,165200.0,3,Gold,25410,Budget Shopper,In-Store,103,Chicago,IL,Midwest,2016-04-09,True
+20210,Andrew,Kim,74.0,Male,35900.0,1,Platinum,41297,Family Household,Mobile App,129,Memphis,TN,South,2021-02-20,False
+20211,Ryan,Hernandez,37.0,Male,177900.0,2,Silver,6362,Young Professional,Curbside Pickup,125,Boston,MA,Northeast,2024-07-13,True
+20212,Patricia,Kim,23.0,Female,142100.0,4,Gold,29052,Young Professional,Curbside Pickup,146,Tulsa,OK,South,2020-01-01,True
+20213,Casey,Turner,60.0,Non-Binary,50500.0,5,Gold,28198,Young Professional,Curbside Pickup,143,Miami,FL,South,2022-10-07,False
+20214,Andrew,Carter,77.0,Male,128500.0,6,Platinum,35426,Tech Enthusiast,Curbside Pickup,124,Las Vegas,NV,West,2016-09-04,True
+20215,Luis,Chen,76.0,Male,100700.0,6,Platinum,31023,Bulk Buyer,Online,131,Milwaukee,WI,Midwest,2023-12-17,True
+20216,Susan,Jones,51.0,Female,146000.0,1,Bronze,4567,Budget Shopper,Mobile App,131,Milwaukee,WI,Midwest,2023-12-08,False
+20217,Patricia,Adams,65.0,Female,154800.0,2,Silver,7973,Tech Enthusiast,Online,139,Colorado Springs,CO,West,2020-08-04,True
+20218,Avery,Garcia,18.0,Prefer Not to Say,84500.0,2,Silver,9190,Tech Enthusiast,In-Store,128,Louisville,KY,South,2023-04-15,True
+20219,Anthony,Brown,20.0,Male,23600.0,2,Bronze,4972,Family Household,Curbside Pickup,121,Nashville,TN,South,2020-01-09,True
+20220,Robert,Johnson,40.0,Male,114200.0,4,Gold,28628,Family Household,Curbside Pickup,115,Charlotte,NC,South,2022-04-22,False
+20221,Amy,Nguyen,24.0,Female,154200.0,4,Silver,12723,Budget Shopper,In-Store,149,Wichita,KS,Midwest,2018-09-23,True
+20222,Nicole,Patel,27.0,Female,189600.0,5,Platinum,46284,Tech Enthusiast,Curbside Pickup,143,Miami,FL,South,2016-04-22,True
+20223,Karen,Garcia,39.0,Female,129100.0,2,Silver,6722,Retiree,In-Store,124,Las Vegas,NV,West,2019-03-03,True
+20224,Linda,Garcia,77.0,Female,143900.0,1,Platinum,43385,Retiree,Online,126,Detroit,MI,Midwest,2024-09-14,False
+20225,Carlos,Jones,64.0,Male,110600.0,6,Platinum,32803,Young Professional,Curbside Pickup,102,Los Angeles,CA,West,2020-09-08,True
+20226,Daniel,Davis,36.0,Male,101900.0,1,Gold,20384,Bulk Buyer,Curbside Pickup,130,Baltimore,MD,Northeast,2016-12-05,False
+20227,Raj,Carter,30.0,Male,95500.0,4,Bronze,1641,Bulk Buyer,Curbside Pickup,121,Nashville,TN,South,2022-08-07,True
+20228,Jason,Jones,49.0,Male,33300.0,3,Silver,6270,Budget Shopper,Mobile App,126,Detroit,MI,Midwest,2022-08-03,False
+20229,Steven,Williams,64.0,Male,30300.0,5,Gold,18394,Bulk Buyer,Online,135,Sacramento,CA,West,2021-02-21,False
+20230,Elena,Smith,43.0,Female,147800.0,5,Gold,16569,Retiree,In-Store,122,Washington,DC,Northeast,2021-05-07,True
+20231,Karen,Perez,50.0,Female,71400.0,5,Platinum,35732,Tech Enthusiast,Mobile App,113,San Jose,CA,West,2021-04-16,True
+20232,Carlos,Campbell,49.0,Male,87600.0,1,Gold,18141,Retiree,Curbside Pickup,119,Denver,CO,West,2024-07-16,True
+20233,Alex,Thomas,54.0,Non-Binary,155600.0,2,Silver,6956,Bulk Buyer,Curbside Pickup,121,Nashville,TN,South,2017-04-14,False
+20234,Quinn,Evans,65.0,Prefer Not to Say,66600.0,3,Platinum,34471,Bulk Buyer,Mobile App,129,Memphis,TN,South,2022-10-12,True
+20235,Linda,Lopez,18.0,Female,22400.0,3,Platinum,34950,Budget Shopper,Online,129,Memphis,TN,South,2019-01-14,False
+20236,Patricia,Mitchell,60.0,Female,104000.0,2,Platinum,35452,Family Household,Online,144,Oakland,CA,West,2017-06-11,False
+20237,Amy,Mitchell,45.0,Female,78800.0,3,Platinum,34641,Young Professional,Mobile App,106,Philadelphia,PA,Northeast,2022-07-05,True
+20238,Kevin,Chen,84.0,Male,73100.0,1,Bronze,1728,Bulk Buyer,Online,120,Oklahoma City,OK,South,2017-02-14,False
+20239,Raj,Smith,26.0,Male,58700.0,4,Silver,12507,Young Professional,Mobile App,145,Minneapolis,MN,Midwest,2021-01-01,True
+20240,Jennifer,Hernandez,62.0,Female,120500.0,4,Silver,14972,Family Household,In-Store,123,El Paso,TX,South,2019-03-05,False
+20241,Amy,Williams,75.0,Female,112000.0,5,Bronze,5650,Family Household,Curbside Pickup,127,Portland,OR,West,2024-05-23,False
+20242,Karen,Garcia,40.0,Female,163900.0,3,Bronze,836,Family Household,Online,136,Mesa,AZ,West,2021-07-16,True
+20243,David,Parker,23.0,Male,117000.0,5,Silver,10009,Tech Enthusiast,In-Store,147,Tampa,FL,South,2022-02-28,True
+20244,Marcus,Adams,77.0,Male,107800.0,2,Gold,21169,Bulk Buyer,Curbside Pickup,115,Charlotte,NC,South,2023-12-09,True
+20245,Jennifer,Miller,73.0,Female,133000.0,3,Silver,9449,Tech Enthusiast,Mobile App,142,Virginia Beach,VA,South,2021-01-05,True
+20246,Riley,Mitchell,66.0,Non-Binary,163100.0,3,Silver,13636,Bulk Buyer,Online,101,New York,NY,Northeast,2019-12-22,True
+20247,David,Jones,78.0,Male,62800.0,4,Platinum,33832,Tech Enthusiast,Online,135,Sacramento,CA,West,2019-03-13,True
+20248,Michael,Scott,80.0,Male,147600.0,3,Silver,13478,Retiree,Mobile App,150,Cleveland,OH,Midwest,2019-03-03,False
+20249,Deborah,Turner,47.0,Female,46000.0,3,Silver,8340,Young Professional,Online,135,Sacramento,CA,West,2021-12-02,False
+20250,Robert,Baker,80.0,Male,65900.0,3,Gold,20832,Young Professional,Online,137,Atlanta,GA,South,2023-02-14,False
+20251,Sofia,Gonzalez,78.0,Female,113200.0,2,Platinum,43363,Bulk Buyer,In-Store,143,Miami,FL,South,2018-05-18,False
+20252,Anthony,Garcia,39.0,Male,129000.0,4,Platinum,43133,Budget Shopper,In-Store,104,Houston,TX,South,2017-01-23,True
+20253,Steven,Chen,45.0,Male,110000.0,1,Platinum,47887,Tech Enthusiast,Online,116,Indianapolis,IN,Midwest,2023-02-18,True
+20254,Amy,Kim,47.0,Female,82300.0,5,Silver,7944,Family Household,Mobile App,130,Baltimore,MD,Northeast,2022-09-11,True
+20255,Sofia,Phillips,61.0,Female,91400.0,4,Platinum,31072,Tech Enthusiast,In-Store,119,Denver,CO,West,2018-05-16,True
+20256,Lisa,Patel,31.0,Female,139500.0,1,Platinum,36159,Retiree,Curbside Pickup,136,Mesa,AZ,West,2019-12-06,True
+20257,Alex,Phillips,53.0,Prefer Not to Say,26600.0,4,Gold,17702,Family Household,Mobile App,126,Detroit,MI,Midwest,2022-04-09,True
+20258,Carlos,Rodriguez,39.0,Male,26600.0,5,Platinum,33876,Tech Enthusiast,Curbside Pickup,123,El Paso,TX,South,2020-10-15,False
+20259,Karen,Moore,79.0,Female,159600.0,6,Platinum,31203,Family Household,Online,148,New Orleans,LA,South,2016-02-18,True
+20260,Wei,Lopez,72.0,Male,70500.0,3,Platinum,32130,Budget Shopper,Mobile App,142,Virginia Beach,VA,South,2022-09-02,True
+20261,Ryan,Hernandez,71.0,Male,176700.0,1,Silver,8057,Retiree,Mobile App,135,Sacramento,CA,West,2018-09-25,False
+20262,Angela,Campbell,37.0,Female,117000.0,3,Gold,20146,Tech Enthusiast,Curbside Pickup,140,Omaha,NE,Midwest,2022-04-18,True
+20263,Michelle,Garcia,33.0,Female,78600.0,1,Bronze,3799,Family Household,Curbside Pickup,101,New York,NY,Northeast,2022-11-09,True
+20264,Carlos,Nguyen,52.0,Male,91000.0,3,Platinum,33873,Retiree,Mobile App,111,Austin,TX,South,2017-02-21,True
+20265,Andrew,Lopez,35.0,Male,22700.0,5,Silver,7037,Family Household,Curbside Pickup,122,Washington,DC,Northeast,2016-04-26,True
+20266,Nicole,Patel,40.0,Female,82400.0,5,Platinum,38651,Family Household,Mobile App,132,Albuquerque,NM,West,2016-08-04,False
+20267,Jennifer,Parker,63.0,Female,77400.0,4,Gold,22088,Retiree,Mobile App,114,Columbus,OH,Midwest,2017-11-26,False
+20268,Lisa,Jones,28.0,Female,78700.0,3,Platinum,47433,Retiree,Mobile App,116,Indianapolis,IN,Midwest,2021-02-10,True
+20269,Linda,Wright,79.0,Female,176000.0,1,Platinum,39976,Young Professional,Mobile App,116,Indianapolis,IN,Midwest,2024-06-04,True
+20270,Daniel,Campbell,56.0,Male,133300.0,5,Platinum,31259,Family Household,Mobile App,140,Omaha,NE,Midwest,2019-07-07,True
+20271,Raj,Wilson,64.0,Male,150800.0,3,Gold,28335,Budget Shopper,Online,140,Omaha,NE,Midwest,2021-10-14,True
+20272,Aisha,Collins,41.0,Female,126700.0,3,Platinum,44847,Budget Shopper,Mobile App,127,Portland,OR,West,2017-04-15,True
+20273,Wei,Jones,81.0,Male,94900.0,6,Platinum,43481,Family Household,Curbside Pickup,102,Los Angeles,CA,West,2024-05-05,True
+20274,Nicole,Evans,36.0,Female,171200.0,5,Platinum,47390,Young Professional,In-Store,132,Albuquerque,NM,West,2019-03-14,False
+20275,Marcus,Johnson,77.0,Male,144000.0,1,Gold,18266,Bulk Buyer,Curbside Pickup,144,Oakland,CA,West,2020-04-05,True
+20276,James,Perez,41.0,Male,179600.0,4,Platinum,36256,Family Household,Online,127,Portland,OR,West,2024-04-24,True
+20277,James,Williams,52.0,Male,145100.0,4,Gold,28875,Budget Shopper,In-Store,149,Wichita,KS,Midwest,2021-12-10,False
+20278,Nicole,Carter,79.0,Female,50500.0,2,Gold,22874,Tech Enthusiast,Online,116,Indianapolis,IN,Midwest,2022-11-17,True
+20279,Brian,Nguyen,35.0,Male,176000.0,5,Silver,13746,Bulk Buyer,Online,146,Tulsa,OK,South,2016-12-16,False
+20280,Joshua,Mitchell,59.0,Male,59400.0,2,Silver,13625,Young Professional,Online,150,Cleveland,OH,Midwest,2024-01-08,True
+20281,Deborah,Scott,69.0,Female,50200.0,3,Silver,11031,Bulk Buyer,Curbside Pickup,141,Raleigh,NC,South,2020-12-06,True
+20282,Patricia,Roberts,67.0,Female,68400.0,1,Platinum,37789,Budget Shopper,Mobile App,127,Portland,OR,West,2017-08-13,True
+20283,Eric,Miller,81.0,Male,153700.0,1,Bronze,624,Family Household,Online,121,Nashville,TN,South,2021-11-01,True
+20284,Omar,Perez,36.0,Male,106100.0,6,Gold,22518,Young Professional,Online,113,San Jose,CA,West,2024-09-21,True
+20285,Andrew,Scott,81.0,Male,154900.0,2,Gold,18281,Retiree,Online,123,El Paso,TX,South,2016-05-14,False
+20286,Karen,Davis,41.0,Female,170900.0,1,Silver,11993,Budget Shopper,Online,107,San Antonio,TX,South,2020-10-03,True
+20287,Angela,Chen,79.0,Female,113100.0,4,Silver,10253,Retiree,In-Store,140,Omaha,NE,Midwest,2017-06-08,True
+20288,Deborah,Wilson,36.0,Female,80100.0,6,Platinum,34483,Retiree,Curbside Pickup,124,Las Vegas,NV,West,2020-02-18,False
+20289,Robert,Nelson,76.0,Male,90500.0,1,Platinum,37773,Family Household,Online,112,Fort Worth,TX,South,2023-05-23,False
+20290,Michael,Martin,57.0,Male,189000.0,2,Bronze,2126,Family Household,Online,145,Minneapolis,MN,Midwest,2019-05-27,True
+20291,Sofia,Davis,69.0,Female,27500.0,2,Platinum,42004,Retiree,Curbside Pickup,126,Detroit,MI,Midwest,2018-04-19,True
+20292,Jordan,Perez,47.0,Non-Binary,142300.0,2,Silver,15858,Tech Enthusiast,Curbside Pickup,126,Detroit,MI,Midwest,2023-02-15,True
+20293,Steven,Gonzalez,56.0,Male,42600.0,6,Platinum,40648,Bulk Buyer,Curbside Pickup,129,Memphis,TN,South,2018-10-05,True
+20294,Luis,Hernandez,84.0,Male,156900.0,2,Gold,18984,Tech Enthusiast,Online,148,New Orleans,LA,South,2016-05-16,False
+20295,Steven,Nelson,76.0,Male,143400.0,5,Platinum,43845,Young Professional,Mobile App,138,Kansas City,MO,Midwest,2016-02-13,True
+20296,Morgan,Patel,83.0,Non-Binary,74200.0,6,Platinum,35061,Tech Enthusiast,Mobile App,126,Detroit,MI,Midwest,2018-04-03,False
+20297,Priya,Mitchell,59.0,Female,51700.0,4,Silver,7487,Tech Enthusiast,Curbside Pickup,124,Las Vegas,NV,West,2018-04-17,True
+20298,Omar,Hernandez,44.0,Male,55800.0,2,Gold,19071,Bulk Buyer,Mobile App,122,Washington,DC,Northeast,2016-09-19,False
+20299,Jason,Davis,76.0,Male,145700.0,2,Platinum,46952,Bulk Buyer,Mobile App,138,Kansas City,MO,Midwest,2017-06-06,True
+20300,Rachel,Davis,41.0,Female,127200.0,5,Bronze,3608,Bulk Buyer,In-Store,131,Milwaukee,WI,Midwest,2020-05-08,False
+20301,Daniel,Davis,64.0,Male,85300.0,6,Gold,23619,Young Professional,In-Store,145,Minneapolis,MN,Midwest,2018-07-10,False
+20302,Omar,Roberts,46.0,Male,187500.0,6,Gold,17049,Retiree,Mobile App,145,Minneapolis,MN,Midwest,2023-05-15,False
+20303,Jason,Smith,62.0,Male,113700.0,2,Silver,11061,Bulk Buyer,Mobile App,133,Tucson,AZ,West,2020-12-14,False
+20304,Linda,Patel,46.0,Female,31000.0,4,Gold,16072,Budget Shopper,Curbside Pickup,136,Mesa,AZ,West,2016-09-17,False
+20305,Robert,Smith,68.0,Male,37600.0,2,Platinum,44579,Family Household,In-Store,115,Charlotte,NC,South,2022-02-01,False
+20306,Andrew,Anderson,67.0,Male,111400.0,6,Silver,13846,Budget Shopper,Mobile App,104,Houston,TX,South,2017-12-08,False
+20307,Wei,Turner,82.0,Male,130600.0,1,Platinum,47729,Bulk Buyer,Mobile App,124,Las Vegas,NV,West,2018-07-22,False
+20308,Luis,Nelson,18.0,Male,31600.0,3,Bronze,1363,Family Household,Mobile App,104,Houston,TX,South,2019-08-01,False
+20309,Nancy,Scott,84.0,Female,169700.0,2,Bronze,2484,Retiree,Curbside Pickup,126,Detroit,MI,Midwest,2021-01-21,True
+20310,Elena,Johnson,56.0,Female,188900.0,1,Platinum,44484,Retiree,In-Store,131,Milwaukee,WI,Midwest,2023-12-11,True
+20311,James,Gonzalez,83.0,Male,131600.0,3,Gold,17686,Family Household,Mobile App,144,Oakland,CA,West,2024-05-20,False
+20312,Susan,Moore,78.0,Female,92500.0,1,Silver,11412,Bulk Buyer,Mobile App,148,New Orleans,LA,South,2020-12-18,False
+20313,Carlos,Perez,46.0,Male,62400.0,5,Gold,28998,Bulk Buyer,In-Store,137,Atlanta,GA,South,2022-02-23,True
+20314,Mei,Collins,82.0,Female,125500.0,4,Bronze,2232,Family Household,Curbside Pickup,123,El Paso,TX,South,2017-02-23,True
+20315,Amy,Smith,70.0,Female,39900.0,1,Silver,12053,Bulk Buyer,Online,137,Atlanta,GA,South,2024-12-03,True
+20316,Avery,Moore,64.0,Non-Binary,180100.0,3,Platinum,36885,Retiree,In-Store,131,Milwaukee,WI,Midwest,2020-12-04,False
+20317,Nancy,Phillips,53.0,Female,138700.0,1,Gold,20082,Young Professional,Mobile App,136,Mesa,AZ,West,2017-10-11,False
+20318,Anthony,Miller,54.0,Male,177800.0,5,Platinum,46437,Retiree,Mobile App,120,Oklahoma City,OK,South,2022-08-21,False
+20319,Susan,Miller,25.0,Female,56100.0,2,Gold,25332,Bulk Buyer,Mobile App,143,Miami,FL,South,2021-01-07,True
+20320,Eric,Lopez,56.0,Male,35300.0,1,Bronze,5023,Bulk Buyer,Online,111,Austin,TX,South,2019-03-19,False
+20321,Karen,Anderson,47.0,Female,22200.0,6,Platinum,42258,Budget Shopper,In-Store,145,Minneapolis,MN,Midwest,2022-08-20,True
+20322,Linda,Williams,47.0,Female,110000.0,4,Platinum,45418,Tech Enthusiast,In-Store,139,Colorado Springs,CO,West,2019-09-27,True
+20323,Priya,Davis,43.0,Female,83200.0,2,None,57,Family Household,Online,108,San Diego,CA,West,2021-11-06,False
+20324,Karen,Edwards,52.0,Female,161900.0,1,Platinum,31838,Bulk Buyer,Curbside Pickup,132,Albuquerque,NM,West,2021-03-17,True
+20325,Marcus,Evans,53.0,Male,48400.0,6,Bronze,4458,Family Household,Mobile App,109,Dallas,TX,South,2023-06-01,True
+20326,Sofia,Perez,50.0,Female,160100.0,3,Platinum,45811,Family Household,Online,109,Dallas,TX,South,2019-09-25,False
+20327,Eric,Carter,59.0,Male,140800.0,3,Platinum,35084,Budget Shopper,Online,135,Sacramento,CA,West,2019-07-20,False
+20328,Eric,Davis,18.0,Male,112100.0,4,Gold,29432,Bulk Buyer,In-Store,110,Jacksonville,FL,South,2024-07-18,False
+20329,Luis,Perez,55.0,Male,36500.0,5,Bronze,513,Bulk Buyer,Online,149,Wichita,KS,Midwest,2018-06-07,False
+20330,Eric,Moore,43.0,Male,31400.0,4,Bronze,4519,Bulk Buyer,Online,132,Albuquerque,NM,West,2024-05-21,True
+20331,Linda,Martin,74.0,Female,33200.0,3,Platinum,32528,Budget Shopper,Curbside Pickup,149,Wichita,KS,Midwest,2016-09-14,False
+20332,Morgan,Edwards,56.0,Prefer Not to Say,137100.0,3,Platinum,40548,Bulk Buyer,Curbside Pickup,130,Baltimore,MD,Northeast,2019-12-09,False
+20333,Amy,Smith,69.0,Female,49700.0,4,Gold,28888,Budget Shopper,In-Store,148,New Orleans,LA,South,2021-06-25,True
+20334,Carlos,Jones,30.0,Male,32800.0,5,Gold,16659,Retiree,In-Store,147,Tampa,FL,South,2018-09-15,True
+20335,Rachel,Patel,44.0,Female,187400.0,3,Bronze,3710,Tech Enthusiast,In-Store,132,Albuquerque,NM,West,2024-08-26,True
+20336,Grace,Collins,84.0,Female,60800.0,3,Gold,24302,Family Household,In-Store,143,Miami,FL,South,2020-11-19,True
+20337,Carlos,Anderson,35.0,Male,145300.0,1,Platinum,41518,Tech Enthusiast,Curbside Pickup,108,San Diego,CA,West,2021-04-10,False
+20338,Michelle,Miller,19.0,Female,132300.0,1,Platinum,35242,Tech Enthusiast,Curbside Pickup,121,Nashville,TN,South,2020-01-09,True
+20339,Riley,Chen,38.0,Non-Binary,74700.0,3,Gold,26411,Budget Shopper,In-Store,147,Tampa,FL,South,2016-03-01,True
+20340,Eric,Campbell,23.0,Male,42400.0,2,Gold,16476,Retiree,Online,113,San Jose,CA,West,2021-08-25,True
+20341,Nicole,Brown,61.0,Female,114100.0,3,Platinum,44953,Young Professional,Online,140,Omaha,NE,Midwest,2020-12-21,True
+20342,Alex,Davis,47.0,Non-Binary,68700.0,6,Platinum,47210,Bulk Buyer,Mobile App,142,Virginia Beach,VA,South,2018-02-13,True
+20343,Andrew,Wright,84.0,Male,83400.0,6,Platinum,45020,Family Household,Online,139,Colorado Springs,CO,West,2018-06-12,False
+20344,Sofia,Moore,76.0,Female,83600.0,3,Silver,14689,Budget Shopper,Mobile App,122,Washington,DC,Northeast,2018-03-26,True
+20345,Maria,Nelson,55.0,Female,137600.0,1,Silver,8062,Young Professional,Curbside Pickup,146,Tulsa,OK,South,2022-12-23,False
+20346,Rachel,Wilson,19.0,Female,179200.0,4,Platinum,32710,Tech Enthusiast,Online,106,Philadelphia,PA,Northeast,2021-09-27,False
+20347,James,Edwards,81.0,Male,93400.0,1,None,337,Bulk Buyer,Curbside Pickup,109,Dallas,TX,South,2022-09-22,False
+20348,Wei,Nelson,78.0,Male,94100.0,4,Silver,6747,Young Professional,Curbside Pickup,137,Atlanta,GA,South,2022-11-27,False
+20349,Rachel,Turner,41.0,Female,154600.0,2,Gold,17840,Retiree,Online,137,Atlanta,GA,South,2017-03-23,True
+20350,Sofia,Patel,75.0,Female,71000.0,3,Platinum,42933,Family Household,Curbside Pickup,102,Los Angeles,CA,West,2024-03-08,True
+20351,Nicole,Parker,49.0,Female,123500.0,2,Bronze,4426,Family Household,In-Store,115,Charlotte,NC,South,2020-12-14,True
+20352,Michelle,Jones,53.0,Female,133200.0,1,Silver,6153,Bulk Buyer,Curbside Pickup,138,Kansas City,MO,Midwest,2018-06-26,True
+20353,Raj,Chen,20.0,Male,121100.0,1,Bronze,5137,Tech Enthusiast,Mobile App,101,New York,NY,Northeast,2016-04-28,False
+20354,Elena,Martin,55.0,Female,42500.0,5,None,292,Bulk Buyer,Curbside Pickup,147,Tampa,FL,South,2017-04-04,True
+20355,Susan,Edwards,75.0,Female,135100.0,4,Platinum,35765,Budget Shopper,Curbside Pickup,121,Nashville,TN,South,2018-11-26,True
+20356,Patricia,Moore,18.0,Female,80800.0,1,Platinum,46374,Tech Enthusiast,Online,137,Atlanta,GA,South,2018-12-13,False
+20357,Aisha,Collins,51.0,Female,161400.0,3,Platinum,47736,Tech Enthusiast,Curbside Pickup,106,Philadelphia,PA,Northeast,2017-01-14,True
+20358,Nicole,Mitchell,70.0,Female,122800.0,1,Platinum,31339,Budget Shopper,In-Store,125,Boston,MA,Northeast,2017-08-21,True
+20359,Marcus,Mitchell,43.0,Male,28500.0,4,Platinum,35013,Tech Enthusiast,Online,131,Milwaukee,WI,Midwest,2019-08-14,True
+20360,Andrew,Thomas,46.0,Male,158100.0,2,Gold,29926,Budget Shopper,Curbside Pickup,124,Las Vegas,NV,West,2021-06-25,True
+20361,Nancy,Scott,46.0,Female,31300.0,4,Silver,9137,Tech Enthusiast,Online,121,Nashville,TN,South,2021-09-01,True
+20362,Angela,Smith,58.0,Female,143300.0,3,Gold,18796,Retiree,In-Store,106,Philadelphia,PA,Northeast,2020-11-26,False
+20363,Aisha,Thomas,22.0,Female,101500.0,4,Gold,23848,Family Household,Mobile App,138,Kansas City,MO,Midwest,2016-01-16,True
+20364,Jason,Martin,68.0,Male,89300.0,5,Platinum,35356,Young Professional,Curbside Pickup,114,Columbus,OH,Midwest,2020-10-11,True
+20365,Amy,Phillips,52.0,Female,161600.0,4,Platinum,31781,Retiree,Mobile App,107,San Antonio,TX,South,2019-05-22,True
+20366,Casey,Davis,74.0,Prefer Not to Say,156700.0,2,Platinum,30915,Young Professional,In-Store,125,Boston,MA,Northeast,2018-12-08,False
+20367,Lisa,Wilson,75.0,Female,62400.0,6,Silver,10556,Retiree,Mobile App,145,Minneapolis,MN,Midwest,2018-09-14,True
+20368,Steven,Wilson,47.0,Male,116800.0,1,Platinum,43205,Tech Enthusiast,Mobile App,105,Phoenix,AZ,West,2024-11-11,True
+20369,Nicole,Moore,69.0,Female,142500.0,2,Silver,13303,Bulk Buyer,Mobile App,102,Los Angeles,CA,West,2021-05-18,False
+20370,James,Evans,42.0,Male,67400.0,4,Gold,20519,Family Household,Curbside Pickup,136,Mesa,AZ,West,2019-05-07,True
+20371,Deborah,Davis,55.0,Female,24100.0,1,Platinum,41886,Tech Enthusiast,In-Store,120,Oklahoma City,OK,South,2016-08-04,False
+20372,Andrew,Parker,84.0,Male,180500.0,3,Platinum,44368,Budget Shopper,Mobile App,122,Washington,DC,Northeast,2018-04-28,True
+20373,Sofia,Carter,55.0,Female,156200.0,2,Platinum,37432,Tech Enthusiast,In-Store,150,Cleveland,OH,Midwest,2020-05-03,False
+20374,Grace,Collins,31.0,Female,106600.0,3,Gold,21664,Family Household,In-Store,115,Charlotte,NC,South,2016-07-17,True
+20375,Amy,Jones,81.0,Female,176000.0,2,Platinum,31042,Young Professional,Curbside Pickup,109,Dallas,TX,South,2023-04-14,True
+20376,Robert,Patel,50.0,Male,40800.0,3,Platinum,46559,Bulk Buyer,Mobile App,129,Memphis,TN,South,2019-01-25,True
+20377,Omar,Wilson,24.0,Male,166000.0,1,Platinum,46180,Bulk Buyer,In-Store,103,Chicago,IL,Midwest,2016-07-20,True
+20378,Steven,Kim,69.0,Male,76800.0,5,Silver,7411,Tech Enthusiast,Mobile App,103,Chicago,IL,Midwest,2022-10-18,False
+20379,Angela,Adams,50.0,Female,180000.0,5,Gold,18641,Bulk Buyer,Online,105,Phoenix,AZ,West,2019-10-16,True
+20380,Jason,Wright,63.0,Male,117900.0,5,Gold,16990,Young Professional,Online,141,Raleigh,NC,South,2021-12-25,False
+20381,Michael,Perez,77.0,Male,150400.0,5,Platinum,38813,Budget Shopper,In-Store,118,Seattle,WA,West,2021-01-23,True
+20382,Grace,Anderson,64.0,Female,175800.0,1,Gold,29093,Retiree,In-Store,126,Detroit,MI,Midwest,2021-10-24,True
+20383,Priya,Jones,36.0,Female,62300.0,2,Bronze,3582,Budget Shopper,Mobile App,117,San Francisco,CA,West,2023-10-21,False
+20384,Michelle,Hernandez,36.0,Female,105300.0,5,Platinum,33586,Young Professional,Online,115,Charlotte,NC,South,2016-10-10,False
+20385,Omar,Martin,57.0,Male,171000.0,1,Silver,9835,Budget Shopper,Mobile App,115,Charlotte,NC,South,2024-03-05,False
+20386,Mei,Chen,60.0,Female,76000.0,2,Bronze,4988,Bulk Buyer,In-Store,112,Fort Worth,TX,South,2018-03-17,True
+20387,Grace,Nguyen,53.0,Female,105400.0,5,Gold,25451,Tech Enthusiast,Online,146,Tulsa,OK,South,2022-01-03,True
+20388,Marcus,Evans,57.0,Male,120900.0,6,Platinum,42961,Retiree,Online,106,Philadelphia,PA,Northeast,2016-10-07,True
+20389,Riley,Baker,35.0,Non-Binary,158700.0,3,Silver,12188,Bulk Buyer,Mobile App,130,Baltimore,MD,Northeast,2021-12-28,True
+20390,Kevin,Martinez,48.0,Male,78100.0,1,Platinum,39522,Young Professional,Curbside Pickup,113,San Jose,CA,West,2022-12-03,True
+20391,Brian,Turner,24.0,Male,60700.0,6,Bronze,4574,Family Household,Online,119,Denver,CO,West,2016-10-11,True
+20392,Michael,Patel,82.0,Male,164700.0,5,Platinum,34088,Retiree,Online,137,Atlanta,GA,South,2016-12-17,True
+20393,Anthony,Mitchell,69.0,Male,124100.0,3,Platinum,41746,Family Household,Mobile App,110,Jacksonville,FL,South,2016-05-14,True
+20394,Quinn,Patel,33.0,Non-Binary,127400.0,5,Gold,26597,Retiree,Curbside Pickup,123,El Paso,TX,South,2023-02-12,False
+20395,Priya,Rodriguez,44.0,Female,41400.0,3,Gold,20372,Retiree,Mobile App,129,Memphis,TN,South,2024-11-03,False
+20396,Marcus,Johnson,51.0,Male,124700.0,5,Silver,12185,Retiree,Online,148,New Orleans,LA,South,2019-05-24,False
+20397,Nicole,Garcia,73.0,Female,154100.0,5,Gold,23780,Tech Enthusiast,Mobile App,135,Sacramento,CA,West,2017-10-12,False
+20398,Priya,Smith,21.0,Female,46300.0,2,Silver,10574,Young Professional,Curbside Pickup,121,Nashville,TN,South,2018-08-04,False
+20399,Riley,Parker,35.0,Prefer Not to Say,124000.0,1,Platinum,32193,Retiree,In-Store,103,Chicago,IL,Midwest,2022-09-11,False
+20400,Lisa,Mitchell,67.0,Female,88300.0,5,Platinum,43014,Tech Enthusiast,Online,147,Tampa,FL,South,2017-04-17,True
+20401,Michael,Turner,50.0,Male,63400.0,5,Platinum,35535,Budget Shopper,Mobile App,123,El Paso,TX,South,2022-09-25,False
+20402,Eric,Wright,50.0,Male,107700.0,4,Platinum,36908,Retiree,Curbside Pickup,106,Philadelphia,PA,Northeast,2016-01-16,True
+20403,Luis,Williams,45.0,Male,160600.0,4,Bronze,2990,Bulk Buyer,Curbside Pickup,120,Oklahoma City,OK,South,2023-04-02,True
+20404,Linda,Carter,41.0,Female,148500.0,5,Gold,18606,Retiree,In-Store,135,Sacramento,CA,West,2023-08-08,False
+20405,Casey,Nguyen,57.0,Prefer Not to Say,146900.0,5,Bronze,5624,Retiree,Curbside Pickup,126,Detroit,MI,Midwest,2019-06-07,False
+20406,James,Adams,51.0,Male,162700.0,6,Bronze,2285,Bulk Buyer,In-Store,135,Sacramento,CA,West,2023-10-03,False
+20407,David,Nelson,47.0,Male,53900.0,1,Bronze,5692,Young Professional,In-Store,147,Tampa,FL,South,2021-11-08,False
+20408,Michelle,Moore,68.0,Female,43600.0,4,Platinum,40856,Young Professional,Online,117,San Francisco,CA,West,2017-08-10,True
+20409,Aisha,Patel,62.0,Female,121900.0,2,Silver,8682,Tech Enthusiast,Mobile App,142,Virginia Beach,VA,South,2018-03-13,False
+20410,Amy,Wilson,74.0,Female,37000.0,6,Platinum,31019,Bulk Buyer,Online,137,Atlanta,GA,South,2016-02-03,True
+20411,Mei,Edwards,77.0,Female,158400.0,3,Silver,11338,Retiree,In-Store,134,Fresno,CA,West,2023-11-16,False
+20412,Amy,Gonzalez,31.0,Female,181100.0,2,Gold,22785,Young Professional,In-Store,142,Virginia Beach,VA,South,2017-09-06,False
+20413,Nicole,Kim,26.0,Female,177500.0,3,Platinum,36175,Family Household,Curbside Pickup,104,Houston,TX,South,2023-08-05,False
+20414,Maria,Chen,40.0,Female,138500.0,3,Gold,28801,Tech Enthusiast,Mobile App,128,Louisville,KY,South,2017-01-06,True
+20415,Daniel,Taylor,68.0,Male,58500.0,5,Gold,16156,Young Professional,Mobile App,113,San Jose,CA,West,2017-06-19,False
+20416,Kevin,Williams,67.0,Male,106200.0,6,Platinum,33843,Budget Shopper,Mobile App,119,Denver,CO,West,2021-10-22,False
+20417,Sofia,Williams,47.0,Female,165500.0,4,Platinum,38286,Family Household,In-Store,130,Baltimore,MD,Northeast,2021-05-14,False
+20418,Mei,Evans,83.0,Female,152400.0,1,Platinum,33949,Young Professional,Mobile App,109,Dallas,TX,South,2020-03-05,True
+20419,David,Edwards,48.0,Male,189100.0,3,Silver,11487,Bulk Buyer,Mobile App,129,Memphis,TN,South,2024-12-16,True
+20420,Brian,Roberts,76.0,Male,53200.0,3,Gold,20951,Bulk Buyer,Online,115,Charlotte,NC,South,2017-09-28,True
+20421,Marcus,Baker,56.0,Male,175500.0,1,Platinum,36984,Young Professional,In-Store,108,San Diego,CA,West,2021-03-12,True
+20422,Andrew,Wright,65.0,Male,141500.0,6,Silver,10775,Family Household,Online,102,Los Angeles,CA,West,2024-11-02,True
+20423,Ryan,Wright,46.0,Male,150100.0,3,Platinum,40848,Young Professional,Curbside Pickup,121,Nashville,TN,South,2021-10-07,True
+20424,Sofia,Wilson,54.0,Female,92200.0,3,Platinum,42212,Tech Enthusiast,Online,109,Dallas,TX,South,2016-01-09,True
+20425,Ryan,Wilson,55.0,Male,53700.0,4,Platinum,30415,Budget Shopper,In-Store,123,El Paso,TX,South,2024-10-19,False
+20426,Joshua,Smith,79.0,Male,51200.0,6,Platinum,30833,Tech Enthusiast,Online,135,Sacramento,CA,West,2017-09-12,False
+20427,Anthony,Nguyen,76.0,Male,167100.0,5,Silver,10524,Retiree,In-Store,108,San Diego,CA,West,2024-11-08,False
+20428,Brian,Parker,78.0,Male,74000.0,4,Silver,15982,Tech Enthusiast,Curbside Pickup,149,Wichita,KS,Midwest,2016-10-02,False
+20429,Andrew,Taylor,35.0,Male,63400.0,4,Gold,22256,Young Professional,In-Store,114,Columbus,OH,Midwest,2016-10-24,False
+20430,Lisa,Chen,84.0,Female,27400.0,4,Bronze,3444,Family Household,Online,134,Fresno,CA,West,2023-04-20,True
+20431,Raj,Johnson,34.0,Male,71500.0,3,Platinum,38006,Tech Enthusiast,Online,106,Philadelphia,PA,Northeast,2018-04-10,True
+20432,Robert,Johnson,40.0,Male,51900.0,2,Platinum,47977,Family Household,Curbside Pickup,127,Portland,OR,West,2021-05-24,True
+20433,Eric,Jackson,28.0,Male,157200.0,6,Platinum,45321,Retiree,Mobile App,119,Denver,CO,West,2017-05-25,True
+20434,Patricia,Kim,19.0,Female,119000.0,4,Platinum,45626,Young Professional,Mobile App,144,Oakland,CA,West,2019-01-27,True
+20435,Robert,Anderson,84.0,Male,32100.0,4,Gold,24782,Retiree,In-Store,130,Baltimore,MD,Northeast,2017-08-03,False
+20436,Maria,Carter,21.0,Female,103900.0,5,Platinum,34704,Tech Enthusiast,Online,126,Detroit,MI,Midwest,2024-06-05,True
+20437,Raj,Evans,48.0,Male,73200.0,4,Bronze,5051,Young Professional,Curbside Pickup,109,Dallas,TX,South,2016-07-11,True
+20438,Aisha,Phillips,82.0,Female,113100.0,5,Gold,16477,Retiree,Online,141,Raleigh,NC,South,2020-12-01,True
+20439,Lisa,Miller,55.0,Female,176000.0,2,Platinum,36064,Young Professional,In-Store,149,Wichita,KS,Midwest,2021-02-07,False
+20440,Joshua,Scott,82.0,Male,165600.0,1,None,140,Retiree,Curbside Pickup,124,Las Vegas,NV,West,2024-04-03,False
+20441,Nicole,Mitchell,40.0,Female,29300.0,1,Gold,20539,Retiree,In-Store,133,Tucson,AZ,West,2016-02-28,True
+20442,Rachel,Davis,70.0,Female,83500.0,1,Gold,21395,Family Household,Curbside Pickup,143,Miami,FL,South,2020-02-09,True
+20443,Elena,Wilson,58.0,Female,173700.0,1,Bronze,1944,Budget Shopper,Online,121,Nashville,TN,South,2021-04-19,True
+20444,Michelle,Taylor,82.0,Female,131200.0,4,Silver,8182,Tech Enthusiast,Curbside Pickup,137,Atlanta,GA,South,2021-10-12,False
+20445,Amy,Rodriguez,33.0,Female,32800.0,2,Silver,9322,Family Household,Online,142,Virginia Beach,VA,South,2017-11-26,True
+20446,Rachel,Rodriguez,58.0,Female,96000.0,1,Platinum,47278,Family Household,Curbside Pickup,124,Las Vegas,NV,West,2022-04-23,True
+20447,Morgan,Moore,18.0,Non-Binary,160200.0,4,Bronze,543,Budget Shopper,In-Store,114,Columbus,OH,Midwest,2019-08-23,False
+20448,Casey,Collins,51.0,Prefer Not to Say,129200.0,5,Gold,28194,Bulk Buyer,In-Store,132,Albuquerque,NM,West,2018-06-09,True
+20449,Kevin,Turner,32.0,Male,53100.0,3,Platinum,39361,Bulk Buyer,Online,114,Columbus,OH,Midwest,2016-12-21,False
+20450,Elena,Hernandez,62.0,Female,188400.0,1,Platinum,45675,Family Household,In-Store,129,Memphis,TN,South,2020-01-18,True
+20451,Steven,Mitchell,47.0,Male,157200.0,1,Silver,11212,Budget Shopper,Online,103,Chicago,IL,Midwest,2018-01-06,False
+20452,Patricia,Hernandez,18.0,Female,112700.0,4,Platinum,37344,Retiree,Online,126,Detroit,MI,Midwest,2022-01-01,True
+20453,James,Johnson,31.0,Male,101500.0,3,Gold,20005,Retiree,Mobile App,145,Minneapolis,MN,Midwest,2020-01-07,True
+20454,Sofia,Lopez,54.0,Female,35800.0,6,Platinum,46583,Budget Shopper,Mobile App,125,Boston,MA,Northeast,2019-02-25,True
+20455,Carlos,Miller,46.0,Male,35600.0,6,Gold,29497,Family Household,Online,148,New Orleans,LA,South,2021-05-27,False
+20456,Linda,Collins,76.0,Female,114600.0,5,Silver,11476,Family Household,Online,124,Las Vegas,NV,West,2022-12-23,True
+20457,Lisa,Davis,27.0,Female,56700.0,1,Gold,29214,Family Household,In-Store,147,Tampa,FL,South,2017-09-26,True
+20458,Amy,Roberts,65.0,Female,88400.0,5,Gold,27330,Family Household,Curbside Pickup,117,San Francisco,CA,West,2022-10-13,False
+20459,Elena,Thomas,70.0,Female,99500.0,3,Bronze,3348,Bulk Buyer,Mobile App,149,Wichita,KS,Midwest,2024-05-11,True
+20460,Omar,Edwards,39.0,Male,157200.0,3,Platinum,42368,Retiree,In-Store,139,Colorado Springs,CO,West,2023-01-07,True
+20461,Michael,Edwards,43.0,Male,106900.0,5,Gold,25692,Budget Shopper,Online,136,Mesa,AZ,West,2024-11-10,True
+20462,Amy,Johnson,62.0,Female,143100.0,4,Gold,17925,Young Professional,Curbside Pickup,118,Seattle,WA,West,2022-03-03,True
+20463,Kevin,Brown,36.0,Male,119500.0,6,Platinum,41006,Budget Shopper,Mobile App,120,Oklahoma City,OK,South,2022-06-26,True
+20464,Steven,Roberts,66.0,Male,58900.0,2,Platinum,44558,Bulk Buyer,Curbside Pickup,142,Virginia Beach,VA,South,2020-12-14,False
+20465,Michelle,Garcia,30.0,Female,178300.0,1,Silver,12563,Family Household,Curbside Pickup,128,Louisville,KY,South,2018-09-13,True
+20466,Angela,Baker,77.0,Female,29200.0,6,Gold,24777,Tech Enthusiast,Online,145,Minneapolis,MN,Midwest,2020-11-06,False
+20467,Michelle,Moore,75.0,Female,42700.0,6,Gold,28869,Budget Shopper,In-Store,106,Philadelphia,PA,Northeast,2022-06-14,True
+20468,Brian,Williams,63.0,Male,175800.0,2,Bronze,908,Tech Enthusiast,Mobile App,138,Kansas City,MO,Midwest,2017-03-13,True
+20469,Kevin,Wright,22.0,Male,62900.0,2,Platinum,36768,Family Household,Curbside Pickup,146,Tulsa,OK,South,2022-10-16,True
+20470,Lisa,Wright,49.0,Female,48400.0,2,Gold,22597,Young Professional,Mobile App,104,Houston,TX,South,2020-03-06,False
+20471,James,Turner,57.0,Male,35700.0,5,Bronze,3588,Family Household,Mobile App,104,Houston,TX,South,2023-03-04,True
+20472,Linda,Turner,76.0,Female,36500.0,3,Platinum,36239,Budget Shopper,In-Store,138,Kansas City,MO,Midwest,2019-01-24,False
+20473,Anthony,Wright,30.0,Male,153700.0,2,Gold,16513,Retiree,In-Store,101,New York,NY,Northeast,2019-02-10,True
+20474,Patricia,Phillips,46.0,Female,137100.0,6,Gold,25018,Bulk Buyer,Curbside Pickup,119,Denver,CO,West,2024-05-19,True
+20475,Linda,Patel,43.0,Female,111900.0,6,Gold,18616,Young Professional,Online,146,Tulsa,OK,South,2021-10-14,True
+20476,Elena,Martin,80.0,Female,157900.0,1,Gold,21906,Budget Shopper,Online,136,Mesa,AZ,West,2017-11-18,True
+20477,Kevin,Kim,36.0,Male,93600.0,6,Silver,11658,Young Professional,Online,114,Columbus,OH,Midwest,2020-10-14,True
+20478,Elena,Adams,33.0,Female,91900.0,4,Silver,14802,Retiree,In-Store,111,Austin,TX,South,2017-05-14,True
+20479,Marcus,Turner,68.0,Male,34800.0,5,Bronze,2984,Family Household,In-Store,111,Austin,TX,South,2024-05-08,False
+20480,Susan,Smith,58.0,Female,92400.0,5,Silver,12587,Young Professional,Curbside Pickup,105,Phoenix,AZ,West,2024-07-19,True
+20481,Jennifer,Campbell,67.0,Female,155200.0,4,Gold,28832,Family Household,Mobile App,127,Portland,OR,West,2018-04-25,True
+20482,Omar,Edwards,20.0,Male,79800.0,2,Platinum,42141,Young Professional,Curbside Pickup,113,San Jose,CA,West,2020-04-11,False
+20483,Morgan,Taylor,61.0,Prefer Not to Say,79700.0,3,Silver,14922,Bulk Buyer,In-Store,149,Wichita,KS,Midwest,2020-05-27,False
+20484,Nancy,Gonzalez,60.0,Female,151500.0,4,Platinum,41489,Retiree,Mobile App,101,New York,NY,Northeast,2021-08-16,False
+20485,Andrew,Davis,52.0,Male,145500.0,1,Platinum,37971,Bulk Buyer,In-Store,145,Minneapolis,MN,Midwest,2020-01-17,True
+20486,Mei,Lopez,73.0,Female,75600.0,6,Platinum,44358,Tech Enthusiast,In-Store,119,Denver,CO,West,2020-12-08,True
+20487,Patricia,Jackson,44.0,Female,126900.0,1,Platinum,42660,Retiree,In-Store,129,Memphis,TN,South,2023-01-10,True
+20488,Ryan,Scott,28.0,Male,101200.0,2,Platinum,37932,Tech Enthusiast,In-Store,131,Milwaukee,WI,Midwest,2023-06-09,True
+20489,James,Jones,68.0,Male,68600.0,5,Bronze,2706,Young Professional,In-Store,116,Indianapolis,IN,Midwest,2017-05-19,False
+20490,Nancy,Parker,80.0,Female,185700.0,4,Silver,6097,Family Household,In-Store,101,New York,NY,Northeast,2024-12-13,False
+20491,Avery,Campbell,48.0,Non-Binary,157200.0,3,Bronze,2655,Retiree,Online,149,Wichita,KS,Midwest,2021-12-13,True
+20492,Raj,Davis,84.0,Male,101700.0,4,Gold,24620,Bulk Buyer,Online,129,Memphis,TN,South,2018-03-10,True
+20493,Michelle,Parker,58.0,Female,128700.0,2,Silver,6668,Tech Enthusiast,Online,144,Oakland,CA,West,2019-04-08,True
+20494,Raj,Carter,40.0,Male,100700.0,2,Platinum,42647,Tech Enthusiast,Curbside Pickup,109,Dallas,TX,South,2023-02-04,True
+20495,Angela,Nguyen,29.0,Female,174000.0,1,Bronze,3289,Budget Shopper,Online,115,Charlotte,NC,South,2019-06-21,True
+20496,Rachel,Nelson,41.0,Female,41500.0,5,Gold,24998,Bulk Buyer,Online,138,Kansas City,MO,Midwest,2023-12-01,True
+20497,Lisa,Martin,30.0,Female,61800.0,1,Silver,9321,Family Household,In-Store,104,Houston,TX,South,2018-09-04,True
+20498,Ryan,Moore,51.0,Male,86400.0,5,Platinum,30427,Tech Enthusiast,Online,149,Wichita,KS,Midwest,2019-02-17,True
+20499,Nancy,Mitchell,58.0,Female,93000.0,1,Gold,27635,Family Household,In-Store,132,Albuquerque,NM,West,2019-10-28,True
+20500,Casey,Collins,76.0,Non-Binary,119400.0,1,Gold,16876,Budget Shopper,In-Store,121,Nashville,TN,South,2016-04-03,True
+20501,Avery,Baker,42.0,Non-Binary,77100.0,6,Gold,23160,Young Professional,Online,124,Las Vegas,NV,West,2018-07-04,True
+20502,Grace,Wright,55.0,Female,75300.0,5,Silver,9775,Budget Shopper,In-Store,138,Kansas City,MO,Midwest,2021-01-07,True
+20503,Anthony,Parker,73.0,Male,72200.0,1,Platinum,36347,Family Household,Mobile App,110,Jacksonville,FL,South,2019-07-03,False
+20504,Patricia,Phillips,22.0,Female,130900.0,5,Silver,15155,Bulk Buyer,Curbside Pickup,123,El Paso,TX,South,2021-11-26,False
+20505,Lisa,Perez,69.0,Female,69500.0,5,Platinum,33788,Budget Shopper,In-Store,133,Tucson,AZ,West,2023-07-27,False
+20506,Maria,Edwards,83.0,Female,93200.0,5,Platinum,45668,Bulk Buyer,Mobile App,131,Milwaukee,WI,Midwest,2024-01-14,False
+20507,Carlos,Johnson,29.0,Male,152000.0,2,Bronze,901,Bulk Buyer,Mobile App,118,Seattle,WA,West,2020-12-17,False
+20508,Sofia,Turner,51.0,Female,83900.0,2,Gold,20196,Retiree,Mobile App,129,Memphis,TN,South,2024-02-28,True
+20509,James,Thomas,82.0,Male,91100.0,3,Gold,28237,Budget Shopper,Online,145,Minneapolis,MN,Midwest,2017-11-22,True
+20510,Angela,Campbell,43.0,Female,90800.0,1,Gold,23722,Budget Shopper,Mobile App,109,Dallas,TX,South,2024-12-08,False
+20511,Aisha,Wright,75.0,Female,65400.0,3,Platinum,35895,Young Professional,In-Store,113,San Jose,CA,West,2018-09-20,True
+20512,Lisa,Miller,56.0,Female,132100.0,4,Silver,13982,Tech Enthusiast,In-Store,133,Tucson,AZ,West,2021-07-14,True
+20513,Elena,Roberts,70.0,Female,24400.0,1,Gold,17828,Family Household,Online,135,Sacramento,CA,West,2018-12-05,True
+20514,Quinn,Nguyen,23.0,Prefer Not to Say,129000.0,6,Platinum,36622,Young Professional,In-Store,125,Boston,MA,Northeast,2016-11-20,True
+20515,Raj,Johnson,64.0,Male,120700.0,5,Platinum,34088,Budget Shopper,In-Store,109,Dallas,TX,South,2023-05-01,False
+20516,Raj,Evans,20.0,Male,125000.0,2,Platinum,31343,Tech Enthusiast,Mobile App,150,Cleveland,OH,Midwest,2022-03-18,True
+20517,Lisa,Jackson,31.0,Female,23000.0,1,Silver,13395,Retiree,Online,119,Denver,CO,West,2017-03-28,False
+20518,Eric,Kim,61.0,Male,24700.0,5,Platinum,39557,Bulk Buyer,In-Store,105,Phoenix,AZ,West,2023-02-22,True
+20519,Grace,Mitchell,53.0,Female,29600.0,3,Platinum,39949,Budget Shopper,Online,146,Tulsa,OK,South,2019-11-14,False
+20520,Ryan,Rodriguez,78.0,Male,109200.0,5,Gold,24440,Young Professional,Online,129,Memphis,TN,South,2024-08-25,True
+20521,Priya,Wilson,18.0,Female,142800.0,4,Platinum,41670,Retiree,Curbside Pickup,134,Fresno,CA,West,2021-04-09,True
+20522,Deborah,Jones,21.0,Female,132000.0,2,Silver,13794,Young Professional,Mobile App,113,San Jose,CA,West,2017-11-02,True
+20523,Avery,Lopez,66.0,Non-Binary,72900.0,1,Platinum,37721,Young Professional,Curbside Pickup,135,Sacramento,CA,West,2016-09-28,False
+20524,Linda,Perez,53.0,Female,164400.0,6,Gold,28854,Retiree,In-Store,102,Los Angeles,CA,West,2021-01-03,True
+20525,Susan,Turner,80.0,Female,160500.0,4,Platinum,35590,Budget Shopper,Online,135,Sacramento,CA,West,2024-05-16,False
+20526,Anthony,Taylor,33.0,Male,71100.0,2,Silver,6534,Tech Enthusiast,Online,110,Jacksonville,FL,South,2022-11-03,True
+20527,Susan,Smith,63.0,Female,160200.0,3,Silver,9855,Family Household,Online,106,Philadelphia,PA,Northeast,2021-06-27,False
+20528,Raj,Wilson,78.0,Male,151800.0,4,Platinum,39109,Retiree,Online,132,Albuquerque,NM,West,2024-12-24,True
+20529,Raj,Garcia,51.0,Male,83100.0,6,Gold,19030,Family Household,Mobile App,126,Detroit,MI,Midwest,2021-09-19,True
+20530,Nicole,Miller,27.0,Female,98400.0,3,Platinum,38405,Bulk Buyer,Online,110,Jacksonville,FL,South,2021-07-06,False
+20531,Kevin,Nguyen,68.0,Male,149000.0,3,Platinum,32923,Retiree,Online,142,Virginia Beach,VA,South,2016-12-07,True
+20532,Priya,Miller,59.0,Female,85000.0,3,Platinum,35330,Tech Enthusiast,Curbside Pickup,126,Detroit,MI,Midwest,2024-03-09,True
+20533,Steven,Perez,44.0,Male,57600.0,5,Bronze,4970,Tech Enthusiast,Online,116,Indianapolis,IN,Midwest,2019-11-23,True
+20534,Michael,Miller,56.0,Male,45700.0,1,Platinum,33888,Family Household,Online,107,San Antonio,TX,South,2017-08-26,False
+20535,Karen,Miller,70.0,Female,106700.0,4,Gold,25800,Tech Enthusiast,Online,141,Raleigh,NC,South,2019-08-18,True
+20536,Amy,Evans,79.0,Female,100200.0,3,Platinum,33042,Budget Shopper,In-Store,104,Houston,TX,South,2019-05-06,True
+20537,Raj,Roberts,55.0,Male,168100.0,4,Platinum,37955,Budget Shopper,Mobile App,123,El Paso,TX,South,2019-02-27,True
+20538,Nicole,Scott,44.0,Female,102100.0,2,Silver,9877,Tech Enthusiast,In-Store,108,San Diego,CA,West,2021-09-14,True
+20539,Robert,Nguyen,73.0,Male,129400.0,6,Gold,23781,Retiree,Online,126,Detroit,MI,Midwest,2022-03-14,True
+20540,Omar,Scott,50.0,Male,87200.0,3,Gold,29104,Tech Enthusiast,Curbside Pickup,149,Wichita,KS,Midwest,2020-02-23,True
+20541,Quinn,Davis,28.0,Prefer Not to Say,150400.0,5,Gold,18608,Retiree,In-Store,136,Mesa,AZ,West,2024-01-05,True
+20542,Luis,Kim,81.0,Male,134000.0,3,Silver,8818,Bulk Buyer,In-Store,149,Wichita,KS,Midwest,2024-02-03,True
+20543,James,Williams,31.0,Male,182100.0,3,Platinum,43037,Retiree,Online,134,Fresno,CA,West,2020-07-27,True
+20544,David,Davis,62.0,Male,73800.0,1,Platinum,36762,Retiree,Online,102,Los Angeles,CA,West,2018-02-15,True
+20545,James,Jones,52.0,Male,152600.0,2,Platinum,31168,Family Household,In-Store,132,Albuquerque,NM,West,2021-10-10,False
+20546,Mei,Brown,30.0,Female,29800.0,1,Platinum,43890,Retiree,Online,125,Boston,MA,Northeast,2018-02-27,True
+20547,Grace,Campbell,71.0,Female,73500.0,3,Silver,15175,Young Professional,Online,135,Sacramento,CA,West,2016-11-08,True
+20548,Marcus,Perez,24.0,Male,60300.0,4,Platinum,33496,Retiree,Online,136,Mesa,AZ,West,2018-11-13,True
+20549,Michael,Nelson,74.0,Male,114200.0,1,Platinum,39860,Family Household,In-Store,141,Raleigh,NC,South,2019-04-16,False
+20550,Nicole,Phillips,18.0,Female,67200.0,1,Gold,24634,Tech Enthusiast,Online,136,Mesa,AZ,West,2016-12-26,True
+20551,Linda,Scott,42.0,Female,82700.0,2,Bronze,670,Young Professional,Curbside Pickup,132,Albuquerque,NM,West,2023-06-11,False
+20552,Nancy,Wilson,28.0,Female,99200.0,3,Silver,6868,Bulk Buyer,Mobile App,109,Dallas,TX,South,2024-01-18,False
+20553,Lisa,Lopez,52.0,Female,55600.0,4,Platinum,38321,Retiree,Curbside Pickup,111,Austin,TX,South,2021-05-19,False
+20554,Anthony,Nguyen,19.0,Male,88700.0,2,Gold,24006,Young Professional,Mobile App,128,Louisville,KY,South,2018-09-04,False
+20555,Carlos,Adams,70.0,Male,150800.0,6,Silver,11990,Young Professional,In-Store,141,Raleigh,NC,South,2024-06-26,True
+20556,Angela,Nelson,47.0,Female,129500.0,3,Platinum,34708,Retiree,Curbside Pickup,129,Memphis,TN,South,2016-06-14,False
+20557,Lisa,Wright,62.0,Female,138800.0,1,Platinum,38512,Family Household,In-Store,104,Houston,TX,South,2019-05-23,True
+20558,Omar,Johnson,28.0,Male,24900.0,5,Gold,18378,Tech Enthusiast,Online,126,Detroit,MI,Midwest,2018-02-26,False
+20559,Andrew,Garcia,81.0,Male,189800.0,4,Gold,23561,Young Professional,Curbside Pickup,142,Virginia Beach,VA,South,2016-12-01,True
+20560,Casey,Anderson,23.0,Non-Binary,180600.0,1,Bronze,5760,Tech Enthusiast,Mobile App,107,San Antonio,TX,South,2022-01-11,True
+20561,Brian,Miller,57.0,Male,107900.0,5,Platinum,42272,Retiree,In-Store,115,Charlotte,NC,South,2022-11-22,True
+20562,Jordan,Brown,79.0,Non-Binary,185100.0,3,Platinum,36120,Tech Enthusiast,Mobile App,125,Boston,MA,Northeast,2016-02-22,False
+20563,Grace,Mitchell,73.0,Female,161800.0,1,Silver,6595,Retiree,Mobile App,138,Kansas City,MO,Midwest,2018-06-04,False
+20564,Brian,Scott,72.0,Male,135300.0,1,Gold,26392,Young Professional,In-Store,115,Charlotte,NC,South,2023-02-07,True
+20565,Deborah,Kim,45.0,Female,157300.0,6,Gold,25939,Young Professional,Curbside Pickup,121,Nashville,TN,South,2023-10-27,True
+20566,Jason,Nguyen,58.0,Male,170400.0,4,Bronze,3238,Budget Shopper,Curbside Pickup,150,Cleveland,OH,Midwest,2018-06-20,False
+20567,Karen,Nelson,69.0,Female,66700.0,3,Bronze,3748,Family Household,In-Store,130,Baltimore,MD,Northeast,2022-04-28,True
+20568,Michelle,Lopez,84.0,Female,158500.0,4,Platinum,45045,Bulk Buyer,In-Store,108,San Diego,CA,West,2022-10-18,True
+20569,Marcus,Adams,49.0,Male,144900.0,1,None,226,Bulk Buyer,Online,115,Charlotte,NC,South,2018-07-16,True
+20570,Brian,Williams,61.0,Male,183700.0,3,Gold,20003,Family Household,Mobile App,124,Las Vegas,NV,West,2019-05-08,True
+20571,Michael,Garcia,81.0,Male,119300.0,5,Gold,22899,Young Professional,Curbside Pickup,150,Cleveland,OH,Midwest,2020-09-20,True
+20572,James,Moore,49.0,Male,27100.0,6,Platinum,39534,Tech Enthusiast,Mobile App,148,New Orleans,LA,South,2020-05-15,False
+20573,Eric,Wright,62.0,Male,174500.0,5,Gold,24490,Bulk Buyer,Curbside Pickup,128,Louisville,KY,South,2018-02-09,False
+20574,Michelle,Roberts,21.0,Female,121100.0,2,Gold,18665,Retiree,Online,112,Fort Worth,TX,South,2022-03-06,True
+20575,Susan,Nelson,56.0,Female,180400.0,3,Platinum,46752,Family Household,Mobile App,136,Mesa,AZ,West,2023-06-13,True
+20576,Patricia,Miller,31.0,Female,91400.0,4,Platinum,31789,Family Household,Mobile App,107,San Antonio,TX,South,2020-09-25,True
+20577,Sofia,Turner,36.0,Female,56600.0,1,Silver,12520,Budget Shopper,In-Store,129,Memphis,TN,South,2019-08-10,False
+20578,Eric,Carter,82.0,Male,26000.0,1,Silver,6691,Bulk Buyer,Online,142,Virginia Beach,VA,South,2023-03-18,True
+20579,David,Brown,20.0,Male,116600.0,2,Silver,10225,Budget Shopper,Curbside Pickup,150,Cleveland,OH,Midwest,2024-09-24,False
+20580,Nicole,Davis,72.0,Female,179800.0,6,Gold,18629,Retiree,In-Store,102,Los Angeles,CA,West,2023-01-19,True
+20581,Quinn,Kim,55.0,Prefer Not to Say,105400.0,3,Silver,8950,Family Household,In-Store,126,Detroit,MI,Midwest,2021-09-02,True
+20582,Steven,Perez,24.0,Male,30600.0,5,Silver,9150,Tech Enthusiast,Curbside Pickup,102,Los Angeles,CA,West,2019-01-14,False
+20583,Grace,Nelson,67.0,Female,69600.0,1,Silver,11188,Family Household,Curbside Pickup,113,San Jose,CA,West,2017-09-15,True
+20584,Angela,Taylor,52.0,Female,111200.0,1,Silver,14357,Tech Enthusiast,Online,137,Atlanta,GA,South,2024-08-28,False
+20585,Patricia,Jackson,68.0,Female,112700.0,1,Gold,16999,Tech Enthusiast,Mobile App,150,Cleveland,OH,Midwest,2018-06-18,True
+20586,Grace,Miller,54.0,Female,115500.0,6,Gold,20541,Tech Enthusiast,Online,143,Miami,FL,South,2016-07-13,False
+20587,Deborah,Roberts,41.0,Female,59100.0,6,Silver,7477,Tech Enthusiast,In-Store,109,Dallas,TX,South,2023-01-13,False
+20588,Anthony,Campbell,72.0,Male,59100.0,1,Bronze,508,Bulk Buyer,Curbside Pickup,114,Columbus,OH,Midwest,2024-04-27,False
+20589,Nicole,Baker,26.0,Female,157900.0,2,Gold,27882,Young Professional,Curbside Pickup,122,Washington,DC,Northeast,2020-06-28,True
+20590,Angela,Mitchell,81.0,Female,159800.0,3,Platinum,30227,Family Household,Mobile App,109,Dallas,TX,South,2017-01-21,False
+20591,Ryan,Mitchell,32.0,Male,113300.0,2,Platinum,45024,Budget Shopper,Curbside Pickup,130,Baltimore,MD,Northeast,2017-03-23,True
+20592,Mei,Scott,74.0,Female,165500.0,6,Platinum,40722,Young Professional,In-Store,103,Chicago,IL,Midwest,2022-12-21,False
+20593,Riley,Evans,67.0,Non-Binary,106600.0,3,Gold,18993,Family Household,Curbside Pickup,110,Jacksonville,FL,South,2022-07-22,True
+20594,Daniel,Smith,26.0,Male,179400.0,5,Gold,16720,Tech Enthusiast,Mobile App,149,Wichita,KS,Midwest,2020-10-20,False
+20595,Michelle,Nguyen,68.0,Female,103200.0,1,Silver,11612,Tech Enthusiast,Curbside Pickup,112,Fort Worth,TX,South,2024-12-12,True
+20596,Jennifer,Mitchell,75.0,Female,113900.0,1,Platinum,31863,Retiree,Curbside Pickup,134,Fresno,CA,West,2024-09-02,True
+20597,Luis,Rodriguez,77.0,Male,32100.0,4,Gold,26883,Budget Shopper,Online,103,Chicago,IL,Midwest,2020-11-21,False
+20598,Luis,Nelson,57.0,Male,138700.0,5,Gold,22180,Tech Enthusiast,Online,102,Los Angeles,CA,West,2021-10-27,True
+20599,Lisa,Patel,35.0,Female,156500.0,3,Silver,12630,Family Household,In-Store,144,Oakland,CA,West,2016-07-17,True
+20600,Luis,Mitchell,52.0,Male,77900.0,3,Platinum,41900,Budget Shopper,Online,130,Baltimore,MD,Northeast,2024-04-06,False
+20601,Anthony,Williams,23.0,Male,67000.0,5,Silver,9041,Family Household,Curbside Pickup,124,Las Vegas,NV,West,2017-08-19,True
+20602,Susan,Patel,24.0,Female,94400.0,6,Silver,12071,Budget Shopper,Curbside Pickup,148,New Orleans,LA,South,2016-03-18,False
+20603,Joshua,Mitchell,83.0,Male,138500.0,1,Silver,8193,Family Household,Online,112,Fort Worth,TX,South,2017-10-21,True
+20604,Ryan,Patel,49.0,Male,95000.0,2,Bronze,3850,Young Professional,Mobile App,109,Dallas,TX,South,2022-05-20,True
+20605,Jennifer,Anderson,84.0,Female,176200.0,4,Platinum,40583,Retiree,In-Store,133,Tucson,AZ,West,2020-10-12,False
+20606,Elena,Collins,34.0,Female,156200.0,4,Gold,19021,Tech Enthusiast,Curbside Pickup,122,Washington,DC,Northeast,2024-07-11,True
+20607,Jordan,Collins,55.0,Non-Binary,166500.0,2,Bronze,1659,Family Household,In-Store,138,Kansas City,MO,Midwest,2021-09-17,True
+20608,Steven,Jones,45.0,Male,175900.0,3,Silver,10486,Budget Shopper,Mobile App,109,Dallas,TX,South,2018-12-25,False
+20609,Patricia,Scott,53.0,Female,82500.0,4,None,388,Family Household,Online,121,Nashville,TN,South,2018-12-25,False
+20610,Ryan,Rodriguez,76.0,Male,123100.0,6,Silver,10787,Bulk Buyer,Online,124,Las Vegas,NV,West,2020-05-11,False
+20611,Robert,Chen,43.0,Male,69400.0,2,Bronze,1153,Budget Shopper,Online,133,Tucson,AZ,West,2024-01-08,True
+20612,Amy,Martinez,69.0,Female,120700.0,6,Gold,23667,Budget Shopper,Curbside Pickup,112,Fort Worth,TX,South,2018-06-18,True
+20613,Grace,Wright,20.0,Female,98800.0,3,Silver,8529,Family Household,Curbside Pickup,116,Indianapolis,IN,Midwest,2022-12-02,False
+20614,Nicole,Taylor,19.0,Female,159000.0,2,Platinum,40019,Family Household,In-Store,149,Wichita,KS,Midwest,2018-03-06,True
+20615,Maria,Carter,66.0,Female,145900.0,2,Platinum,38700,Budget Shopper,In-Store,125,Boston,MA,Northeast,2023-05-21,True
+20616,Angela,Carter,40.0,Female,36000.0,4,Silver,7093,Family Household,Mobile App,131,Milwaukee,WI,Midwest,2018-06-27,True
+20617,Luis,Turner,83.0,Male,163200.0,5,Silver,8079,Young Professional,Mobile App,137,Atlanta,GA,South,2020-02-10,True
+20618,Aisha,Scott,73.0,Female,167800.0,2,Gold,25692,Tech Enthusiast,Mobile App,112,Fort Worth,TX,South,2018-01-18,False
+20619,Kevin,Martinez,37.0,Male,177400.0,3,Silver,6865,Tech Enthusiast,Curbside Pickup,138,Kansas City,MO,Midwest,2016-11-15,False
+20620,Deborah,Moore,62.0,Female,77400.0,4,Bronze,5742,Retiree,In-Store,120,Oklahoma City,OK,South,2023-08-25,False
+20621,Carlos,Johnson,42.0,Male,46300.0,4,Gold,28750,Tech Enthusiast,Online,117,San Francisco,CA,West,2018-02-23,True
+20622,Jordan,Williams,51.0,Non-Binary,175900.0,5,Gold,29885,Budget Shopper,In-Store,130,Baltimore,MD,Northeast,2016-07-24,False
+20623,Jennifer,Davis,70.0,Female,137700.0,2,Silver,8717,Retiree,Online,130,Baltimore,MD,Northeast,2017-12-11,False
+20624,Mei,Parker,19.0,Female,156600.0,4,Platinum,39571,Bulk Buyer,In-Store,144,Oakland,CA,West,2020-01-13,True
+20625,Michael,Johnson,83.0,Male,97300.0,1,Platinum,37776,Budget Shopper,Curbside Pickup,103,Chicago,IL,Midwest,2024-12-15,False
+20626,Elena,Baker,33.0,Female,87100.0,1,Gold,24366,Tech Enthusiast,Mobile App,115,Charlotte,NC,South,2020-12-24,True
+20627,Brian,Patel,76.0,Male,55300.0,3,Silver,14572,Bulk Buyer,In-Store,115,Charlotte,NC,South,2016-04-18,False
+20628,Eric,Edwards,20.0,Male,94700.0,4,Gold,23449,Tech Enthusiast,Online,111,Austin,TX,South,2020-06-20,True
+20629,Joshua,Carter,81.0,Male,153500.0,1,Gold,28053,Young Professional,Curbside Pickup,125,Boston,MA,Northeast,2020-11-10,True
+20630,Steven,Jackson,81.0,Male,41300.0,6,Platinum,39266,Budget Shopper,Online,119,Denver,CO,West,2020-09-04,True
+20631,Grace,Kim,78.0,Female,115600.0,1,Silver,14542,Retiree,Online,113,San Jose,CA,West,2020-11-21,True
+20632,Alex,Smith,60.0,Prefer Not to Say,157000.0,2,Gold,27236,Bulk Buyer,In-Store,103,Chicago,IL,Midwest,2023-02-12,True
+20633,Brian,Gonzalez,22.0,Male,44800.0,1,Silver,14360,Tech Enthusiast,Online,135,Sacramento,CA,West,2024-06-26,True
+20634,Ryan,Mitchell,29.0,Male,147200.0,1,Silver,13594,Budget Shopper,Mobile App,113,San Jose,CA,West,2022-03-18,True
+20635,Mei,Taylor,61.0,Female,110100.0,5,None,313,Young Professional,Mobile App,101,New York,NY,Northeast,2018-03-10,True
+20636,Mei,Adams,22.0,Female,135400.0,2,Silver,8654,Bulk Buyer,Curbside Pickup,110,Jacksonville,FL,South,2018-10-17,False
+20637,Sofia,Perez,56.0,Female,94800.0,3,Platinum,32382,Retiree,Mobile App,105,Phoenix,AZ,West,2023-10-05,False
+20638,Joshua,Chen,31.0,Male,122600.0,3,Platinum,41205,Budget Shopper,Online,129,Memphis,TN,South,2019-08-09,False
+20639,Jennifer,Roberts,20.0,Female,33300.0,2,Platinum,32209,Family Household,Online,120,Oklahoma City,OK,South,2016-10-09,True
+20640,Maria,Parker,37.0,Female,129200.0,5,Gold,27128,Tech Enthusiast,Online,102,Los Angeles,CA,West,2024-01-11,False
+20641,Robert,Gonzalez,32.0,Male,122000.0,4,Silver,15481,Young Professional,Online,129,Memphis,TN,South,2020-07-08,False
+20642,Raj,Garcia,69.0,Male,51700.0,1,Platinum,44885,Bulk Buyer,Mobile App,127,Portland,OR,West,2019-02-06,True
+20643,Eric,Scott,62.0,Male,118600.0,2,Platinum,37834,Tech Enthusiast,In-Store,118,Seattle,WA,West,2021-11-20,False
+20644,Deborah,Brown,18.0,Female,55500.0,3,Silver,7952,Bulk Buyer,Online,124,Las Vegas,NV,West,2020-03-09,True
+20645,Elena,Anderson,20.0,Female,160900.0,3,Gold,17873,Retiree,Mobile App,114,Columbus,OH,Midwest,2022-08-20,False
+20646,Luis,Evans,66.0,Male,187500.0,6,Platinum,38385,Budget Shopper,In-Store,117,San Francisco,CA,West,2024-01-24,False
+20647,Brian,Patel,31.0,Male,132200.0,6,Gold,29350,Family Household,Online,119,Denver,CO,West,2016-02-01,False
+20648,Brian,Nguyen,18.0,Male,188900.0,6,Silver,15879,Budget Shopper,Mobile App,106,Philadelphia,PA,Northeast,2024-02-11,True
+20649,Susan,Kim,84.0,Female,134600.0,5,Gold,20045,Retiree,Curbside Pickup,147,Tampa,FL,South,2023-07-13,False
+20650,Priya,Parker,54.0,Female,23300.0,3,Bronze,1209,Tech Enthusiast,Online,131,Milwaukee,WI,Midwest,2019-12-24,True
+20651,Priya,Phillips,81.0,Female,139500.0,4,Silver,12637,Tech Enthusiast,Online,112,Fort Worth,TX,South,2020-08-27,False
+20652,Nicole,Campbell,73.0,Female,98900.0,6,Platinum,42094,Budget Shopper,In-Store,114,Columbus,OH,Midwest,2024-07-07,True
+20653,Elena,Perez,31.0,Female,70300.0,3,Platinum,33703,Budget Shopper,Online,130,Baltimore,MD,Northeast,2019-11-02,True
+20654,Linda,Jones,74.0,Female,99100.0,4,Bronze,735,Family Household,In-Store,140,Omaha,NE,Midwest,2019-11-19,False
+20655,Mei,Taylor,58.0,Female,25600.0,5,Gold,20878,Family Household,Mobile App,101,New York,NY,Northeast,2016-08-20,True
+20656,David,Thomas,58.0,Male,35200.0,6,Platinum,43417,Young Professional,Mobile App,141,Raleigh,NC,South,2019-04-28,True
+20657,Susan,Adams,38.0,Female,86100.0,2,Platinum,44848,Bulk Buyer,Mobile App,118,Seattle,WA,West,2017-05-20,False
+20658,Brian,Carter,61.0,Male,48200.0,5,Bronze,1281,Bulk Buyer,Curbside Pickup,124,Las Vegas,NV,West,2020-03-06,True
+20659,Michelle,Johnson,50.0,Female,171400.0,4,Platinum,41969,Family Household,In-Store,105,Phoenix,AZ,West,2019-01-14,True
+20660,Wei,Evans,67.0,Male,92500.0,5,Platinum,31846,Retiree,Mobile App,146,Tulsa,OK,South,2021-03-03,True
+20661,Nancy,Perez,66.0,Female,183500.0,4,Bronze,4523,Tech Enthusiast,Online,111,Austin,TX,South,2022-01-04,True
+20662,Raj,Nguyen,23.0,Male,30600.0,5,Silver,9627,Bulk Buyer,In-Store,146,Tulsa,OK,South,2016-11-21,True
+20663,Priya,Martin,50.0,Female,122200.0,2,Silver,11273,Retiree,Online,141,Raleigh,NC,South,2023-06-19,True
+20664,Jennifer,Miller,28.0,Female,74900.0,3,Platinum,41428,Tech Enthusiast,In-Store,140,Omaha,NE,Midwest,2019-07-23,True
+20665,Elena,Kim,57.0,Female,41400.0,2,Bronze,916,Bulk Buyer,Mobile App,104,Houston,TX,South,2023-08-26,True
+20666,Maria,Kim,44.0,Female,119100.0,1,Silver,13910,Bulk Buyer,Mobile App,108,San Diego,CA,West,2020-04-19,False
+20667,Avery,Edwards,66.0,Prefer Not to Say,153300.0,4,Gold,17096,Budget Shopper,Mobile App,122,Washington,DC,Northeast,2020-01-28,False
+20668,Kevin,Martin,59.0,Male,94100.0,1,Platinum,36056,Young Professional,Curbside Pickup,140,Omaha,NE,Midwest,2021-05-02,False
+20669,Linda,Moore,42.0,Female,121800.0,1,Silver,9981,Bulk Buyer,Mobile App,123,El Paso,TX,South,2021-12-18,False
+20670,Eric,Mitchell,76.0,Male,98500.0,1,Platinum,45210,Family Household,Online,137,Atlanta,GA,South,2024-06-21,True
+20671,Rachel,Brown,59.0,Female,68800.0,5,Gold,21015,Retiree,Mobile App,133,Tucson,AZ,West,2018-11-12,False
+20672,Angela,Roberts,64.0,Female,184000.0,6,Platinum,44698,Bulk Buyer,Mobile App,123,El Paso,TX,South,2021-01-07,False
+20673,Deborah,Thomas,60.0,Female,49500.0,3,Silver,15008,Budget Shopper,Curbside Pickup,126,Detroit,MI,Midwest,2018-11-26,True
+20674,Patricia,Adams,82.0,Female,132400.0,5,Bronze,3558,Bulk Buyer,Online,138,Kansas City,MO,Midwest,2024-09-09,True
+20675,David,Anderson,75.0,Male,174800.0,5,Gold,22235,Tech Enthusiast,In-Store,128,Louisville,KY,South,2022-11-28,False
+20676,Grace,Wilson,77.0,Female,167600.0,5,Platinum,37344,Family Household,Online,125,Boston,MA,Northeast,2016-09-25,False
+20677,Lisa,Moore,45.0,Female,108900.0,5,Platinum,42447,Family Household,Online,111,Austin,TX,South,2018-06-27,True
+20678,Karen,Jackson,61.0,Female,113300.0,3,Platinum,35612,Family Household,Online,120,Oklahoma City,OK,South,2022-03-06,True
+20679,Nancy,Chen,28.0,Female,170800.0,2,Platinum,46309,Bulk Buyer,Online,148,New Orleans,LA,South,2021-01-28,True
+20680,Omar,Baker,25.0,Male,86000.0,1,Bronze,3621,Young Professional,Mobile App,129,Memphis,TN,South,2021-04-24,False
+20681,Jason,Smith,67.0,Male,182100.0,4,Gold,26977,Young Professional,In-Store,120,Oklahoma City,OK,South,2018-10-06,True
+20682,Michelle,Adams,18.0,Female,186000.0,5,Platinum,37951,Bulk Buyer,Mobile App,139,Colorado Springs,CO,West,2022-12-24,True
+20683,Grace,Nguyen,45.0,Female,94100.0,1,Platinum,40304,Tech Enthusiast,In-Store,112,Fort Worth,TX,South,2019-12-07,True
+20684,Lisa,Roberts,78.0,Female,164700.0,2,Silver,6960,Retiree,Mobile App,132,Albuquerque,NM,West,2018-12-13,False
+20685,Raj,Hernandez,27.0,Male,153300.0,2,Silver,15807,Bulk Buyer,In-Store,119,Denver,CO,West,2024-03-20,True
+20686,David,Smith,58.0,Male,75800.0,4,Silver,15548,Young Professional,Online,124,Las Vegas,NV,West,2022-04-12,True
+20687,Kevin,Martin,61.0,Male,165600.0,2,Gold,20097,Bulk Buyer,Mobile App,128,Louisville,KY,South,2022-09-01,True
+20688,Nicole,Collins,36.0,Female,93800.0,2,Platinum,38308,Budget Shopper,Online,110,Jacksonville,FL,South,2016-10-02,False
+20689,Omar,Anderson,67.0,Male,125600.0,1,Platinum,31622,Retiree,Curbside Pickup,110,Jacksonville,FL,South,2022-08-05,False
+20690,Jason,Johnson,44.0,Male,184400.0,5,Silver,10764,Retiree,Curbside Pickup,106,Philadelphia,PA,Northeast,2023-03-23,True
+20691,Casey,Moore,30.0,Prefer Not to Say,142100.0,5,Gold,18235,Budget Shopper,In-Store,113,San Jose,CA,West,2019-02-13,True
+20692,Daniel,Nguyen,80.0,Male,98100.0,3,Silver,12042,Budget Shopper,Mobile App,150,Cleveland,OH,Midwest,2024-03-23,False
+20693,Robert,Phillips,51.0,Male,54000.0,4,Platinum,39072,Young Professional,Mobile App,129,Memphis,TN,South,2018-09-15,True
+20694,Nancy,Johnson,81.0,Female,28400.0,5,Platinum,32883,Budget Shopper,Curbside Pickup,123,El Paso,TX,South,2024-10-17,False
+20695,Jennifer,Brown,22.0,Female,163700.0,5,Platinum,38985,Bulk Buyer,Mobile App,134,Fresno,CA,West,2019-06-12,True
+20696,Nicole,Chen,38.0,Female,106500.0,6,Silver,15404,Young Professional,In-Store,149,Wichita,KS,Midwest,2018-04-26,False
+20697,Sofia,Mitchell,78.0,Female,105700.0,3,Platinum,41674,Young Professional,In-Store,111,Austin,TX,South,2016-10-11,True
+20698,Robert,Carter,75.0,Male,28300.0,4,Platinum,30709,Retiree,In-Store,119,Denver,CO,West,2020-03-21,True
+20699,Grace,Davis,32.0,Female,28300.0,2,Silver,7995,Bulk Buyer,Mobile App,110,Jacksonville,FL,South,2016-11-24,True
+20700,Aisha,Phillips,54.0,Female,133000.0,5,Platinum,41791,Budget Shopper,Mobile App,150,Cleveland,OH,Midwest,2018-06-07,True
+20701,Eric,Chen,59.0,Male,136200.0,1,Platinum,40268,Young Professional,Mobile App,125,Boston,MA,Northeast,2022-09-05,False
+20702,Angela,Roberts,20.0,Female,78800.0,1,Silver,8170,Family Household,Online,116,Indianapolis,IN,Midwest,2018-12-21,True
+20703,Omar,Taylor,66.0,Male,93700.0,2,Platinum,32741,Young Professional,In-Store,101,New York,NY,Northeast,2022-07-04,True
+20704,Ryan,Martinez,71.0,Male,178600.0,3,Silver,9075,Family Household,Curbside Pickup,146,Tulsa,OK,South,2016-05-05,False
+20705,Wei,Nguyen,33.0,Male,26500.0,2,Platinum,42855,Tech Enthusiast,In-Store,103,Chicago,IL,Midwest,2018-05-23,False
+20706,Maria,Evans,80.0,Female,36600.0,2,Silver,7829,Family Household,Curbside Pickup,119,Denver,CO,West,2018-09-14,True
+20707,Marcus,Smith,31.0,Male,129700.0,1,Silver,11132,Young Professional,Online,103,Chicago,IL,Midwest,2019-03-22,True
+20708,Ryan,Smith,66.0,Male,182700.0,2,Silver,15364,Bulk Buyer,Mobile App,131,Milwaukee,WI,Midwest,2021-09-02,True
+20709,Nicole,Williams,31.0,Female,83400.0,4,Platinum,44324,Young Professional,In-Store,115,Charlotte,NC,South,2021-09-20,True
+20710,Wei,Chen,18.0,Male,129000.0,2,Silver,15681,Budget Shopper,Curbside Pickup,138,Kansas City,MO,Midwest,2020-11-04,True
+20711,Rachel,Nelson,32.0,Female,150500.0,4,Gold,24336,Tech Enthusiast,Online,114,Columbus,OH,Midwest,2019-08-15,True
+20712,Aisha,Scott,20.0,Female,46500.0,6,None,156,Family Household,Online,137,Atlanta,GA,South,2023-08-23,False
+20713,Susan,Campbell,29.0,Female,80200.0,6,Gold,19113,Budget Shopper,Online,145,Minneapolis,MN,Midwest,2023-01-25,True
+20714,Priya,Garcia,23.0,Female,151900.0,2,Gold,26255,Bulk Buyer,Online,129,Memphis,TN,South,2023-09-28,False
+20715,Michelle,Miller,59.0,Female,166000.0,3,Gold,23164,Tech Enthusiast,Mobile App,119,Denver,CO,West,2021-02-07,True
+20716,Michael,Thomas,22.0,Male,116300.0,6,Platinum,40374,Young Professional,In-Store,113,San Jose,CA,West,2017-03-08,False
+20717,Linda,Jones,76.0,Female,173400.0,5,Gold,23753,Retiree,In-Store,129,Memphis,TN,South,2022-12-17,True
+20718,Carlos,Wright,63.0,Male,168500.0,2,Silver,14526,Young Professional,Online,136,Mesa,AZ,West,2016-02-01,True
+20719,Nancy,Wright,26.0,Female,187800.0,1,Gold,19289,Young Professional,Online,106,Philadelphia,PA,Northeast,2021-09-11,True
+20720,Aisha,Chen,77.0,Female,122700.0,6,Silver,14612,Budget Shopper,Mobile App,147,Tampa,FL,South,2022-02-01,True
+20721,Avery,Moore,34.0,Non-Binary,131400.0,2,Bronze,1012,Budget Shopper,Mobile App,145,Minneapolis,MN,Midwest,2023-02-05,False
+20722,Ryan,Nguyen,58.0,Male,163200.0,5,Gold,16163,Bulk Buyer,Mobile App,149,Wichita,KS,Midwest,2022-09-13,True
+20723,Andrew,Thomas,42.0,Male,98900.0,6,Gold,25950,Budget Shopper,In-Store,126,Detroit,MI,Midwest,2024-10-27,True
+20724,Grace,Mitchell,41.0,Female,71000.0,3,Gold,23315,Bulk Buyer,Curbside Pickup,150,Cleveland,OH,Midwest,2018-02-19,False
+20725,Alex,Collins,51.0,Non-Binary,102600.0,6,Silver,8663,Bulk Buyer,In-Store,140,Omaha,NE,Midwest,2022-03-17,False
+20726,Amy,Williams,62.0,Female,126700.0,2,Bronze,3829,Bulk Buyer,In-Store,102,Los Angeles,CA,West,2017-10-25,False
+20727,Carlos,Brown,34.0,Male,168300.0,1,Gold,16187,Family Household,Online,117,San Francisco,CA,West,2020-03-14,True
+20728,Carlos,Turner,69.0,Male,123700.0,2,Platinum,45634,Young Professional,Curbside Pickup,145,Minneapolis,MN,Midwest,2021-09-27,True
+20729,Jason,Moore,30.0,Male,127700.0,5,Gold,23448,Budget Shopper,Mobile App,135,Sacramento,CA,West,2021-08-13,True
+20730,Angela,Garcia,58.0,Female,54600.0,2,Gold,28900,Bulk Buyer,Curbside Pickup,128,Louisville,KY,South,2024-06-13,False
+20731,Steven,Parker,68.0,Male,103000.0,3,Platinum,39477,Family Household,Online,139,Colorado Springs,CO,West,2020-01-15,True
+20732,Karen,Nelson,20.0,Female,171200.0,4,Gold,23772,Bulk Buyer,Curbside Pickup,120,Oklahoma City,OK,South,2017-06-01,False
+20733,Deborah,Taylor,84.0,Female,106200.0,4,Gold,20788,Budget Shopper,Curbside Pickup,105,Phoenix,AZ,West,2023-04-15,True
+20734,David,Edwards,44.0,Male,30500.0,1,Silver,13551,Tech Enthusiast,In-Store,129,Memphis,TN,South,2024-01-22,False
+20735,Karen,Collins,55.0,Female,29100.0,2,Gold,29533,Family Household,Mobile App,124,Las Vegas,NV,West,2022-12-28,False
+20736,James,Perez,26.0,Male,82300.0,2,Platinum,41245,Family Household,Curbside Pickup,138,Kansas City,MO,Midwest,2016-01-07,False
+20737,Daniel,Patel,49.0,Male,68000.0,1,Platinum,41402,Bulk Buyer,Mobile App,123,El Paso,TX,South,2017-03-01,True
+20738,Linda,Edwards,42.0,Female,180300.0,1,Bronze,1597,Bulk Buyer,In-Store,125,Boston,MA,Northeast,2023-09-08,True
+20739,Wei,Roberts,48.0,Male,166400.0,1,Silver,10615,Tech Enthusiast,Online,103,Chicago,IL,Midwest,2019-08-12,False
+20740,Ryan,Davis,83.0,Male,107200.0,2,Platinum,35700,Tech Enthusiast,Mobile App,148,New Orleans,LA,South,2024-06-20,True
+20741,Elena,Davis,76.0,Female,87200.0,5,Bronze,2442,Budget Shopper,Online,145,Minneapolis,MN,Midwest,2018-12-27,True
+20742,Taylor,Patel,35.0,Prefer Not to Say,39300.0,1,Silver,11802,Family Household,Mobile App,106,Philadelphia,PA,Northeast,2019-11-02,True
+20743,Jennifer,Scott,22.0,Female,62000.0,1,Silver,6131,Retiree,Online,104,Houston,TX,South,2016-10-15,True
+20744,Casey,Wright,75.0,Non-Binary,152300.0,2,Bronze,4496,Tech Enthusiast,In-Store,111,Austin,TX,South,2023-03-06,True
+20745,Patricia,Phillips,31.0,Female,53600.0,1,Silver,11014,Retiree,In-Store,131,Milwaukee,WI,Midwest,2024-01-26,False
+20746,Nancy,Phillips,42.0,Female,186600.0,6,Silver,11826,Family Household,Curbside Pickup,124,Las Vegas,NV,West,2023-11-16,False
+20747,Anthony,Roberts,73.0,Male,117200.0,2,Gold,24572,Bulk Buyer,Curbside Pickup,133,Tucson,AZ,West,2021-03-11,True
+20748,Rachel,Kim,57.0,Female,141500.0,1,Gold,17064,Bulk Buyer,Online,115,Charlotte,NC,South,2016-03-08,True
+20749,Maria,Jones,60.0,Female,182700.0,3,Gold,17127,Retiree,Curbside Pickup,105,Phoenix,AZ,West,2020-06-03,True
+20750,Joshua,Thomas,67.0,Male,129800.0,2,Silver,8429,Family Household,Curbside Pickup,145,Minneapolis,MN,Midwest,2018-08-28,False
+20751,Jason,Martin,46.0,Male,154900.0,5,Platinum,45098,Retiree,In-Store,117,San Francisco,CA,West,2024-05-17,True
+20752,David,Chen,22.0,Male,92400.0,6,Platinum,43054,Retiree,In-Store,108,San Diego,CA,West,2018-12-04,True
+20753,Amy,Thomas,70.0,Female,153100.0,1,Silver,12753,Retiree,Mobile App,110,Jacksonville,FL,South,2016-06-28,True
+20754,Michael,Davis,67.0,Male,120800.0,4,Platinum,31901,Tech Enthusiast,Curbside Pickup,124,Las Vegas,NV,West,2018-10-16,False
+20755,Daniel,Roberts,57.0,Male,76800.0,1,Platinum,45586,Retiree,Online,114,Columbus,OH,Midwest,2020-04-11,True
+20756,Sofia,Adams,70.0,Female,141400.0,5,Platinum,33627,Retiree,Mobile App,148,New Orleans,LA,South,2016-04-19,True
+20757,Robert,Carter,77.0,Male,39300.0,6,Platinum,46371,Budget Shopper,Curbside Pickup,141,Raleigh,NC,South,2023-06-17,False
+20758,Quinn,Thomas,70.0,Non-Binary,187900.0,1,Bronze,5814,Tech Enthusiast,Curbside Pickup,105,Phoenix,AZ,West,2020-04-25,True
+20759,Nicole,Turner,28.0,Female,50500.0,6,Platinum,43613,Budget Shopper,Curbside Pickup,134,Fresno,CA,West,2016-08-09,True
+20760,Elena,Parker,48.0,Female,104200.0,4,Silver,11702,Tech Enthusiast,Curbside Pickup,134,Fresno,CA,West,2016-01-18,True
+20761,Priya,Moore,38.0,Female,79400.0,6,Platinum,47970,Bulk Buyer,Curbside Pickup,108,San Diego,CA,West,2021-03-20,False
+20762,Kevin,Wilson,73.0,Male,148800.0,6,Platinum,47960,Young Professional,Mobile App,136,Mesa,AZ,West,2021-12-19,True
+20763,Daniel,Jackson,37.0,Male,87100.0,4,Bronze,1159,Family Household,In-Store,135,Sacramento,CA,West,2020-05-15,True
+20764,Nicole,Turner,25.0,Female,161000.0,6,Platinum,43176,Family Household,Online,102,Los Angeles,CA,West,2024-12-05,False
+20765,Riley,Miller,69.0,Non-Binary,56100.0,2,Bronze,5101,Budget Shopper,Curbside Pickup,128,Louisville,KY,South,2022-01-24,True
+20766,Jennifer,Kim,27.0,Female,56200.0,5,Platinum,39930,Young Professional,Curbside Pickup,143,Miami,FL,South,2017-04-07,True
+20767,Brian,Turner,75.0,Male,183500.0,2,Gold,20987,Retiree,Curbside Pickup,108,San Diego,CA,West,2023-11-04,True
+20768,David,Collins,82.0,Male,89200.0,1,Gold,20101,Tech Enthusiast,In-Store,139,Colorado Springs,CO,West,2020-05-07,False
+20769,Maria,Martinez,38.0,Female,157800.0,3,Silver,8659,Bulk Buyer,Online,122,Washington,DC,Northeast,2024-04-05,True
+20770,James,Smith,36.0,Male,74100.0,6,Gold,27302,Tech Enthusiast,Curbside Pickup,112,Fort Worth,TX,South,2020-10-20,False
+20771,Nicole,Moore,60.0,Female,91700.0,5,Gold,19741,Retiree,In-Store,108,San Diego,CA,West,2017-12-27,False
+20772,Kevin,Evans,47.0,Male,65400.0,6,Bronze,5424,Tech Enthusiast,Online,140,Omaha,NE,Midwest,2023-08-10,True
+20773,Amy,Brown,83.0,Female,83200.0,4,Silver,11395,Retiree,Curbside Pickup,132,Albuquerque,NM,West,2021-02-09,False
+20774,Marcus,Miller,41.0,Male,136500.0,4,Gold,26322,Tech Enthusiast,In-Store,121,Nashville,TN,South,2024-08-07,True
+20775,Brian,Johnson,69.0,Male,52000.0,2,Platinum,45890,Family Household,Mobile App,109,Dallas,TX,South,2021-08-10,False
+20776,Maria,Taylor,62.0,Female,68200.0,4,Platinum,42215,Family Household,Curbside Pickup,114,Columbus,OH,Midwest,2016-08-04,False
+20777,Deborah,Taylor,53.0,Female,150100.0,5,Platinum,33100,Bulk Buyer,In-Store,124,Las Vegas,NV,West,2020-12-03,False
+20778,Andrew,Miller,80.0,Male,105400.0,1,Bronze,4791,Young Professional,Online,112,Fort Worth,TX,South,2020-04-27,False
+20779,Brian,Johnson,37.0,Male,159900.0,3,Platinum,37676,Budget Shopper,Online,105,Phoenix,AZ,West,2021-08-06,True
+20780,James,Jackson,84.0,Male,138600.0,4,Platinum,33907,Budget Shopper,Online,110,Jacksonville,FL,South,2018-02-19,True
+20781,Omar,Mitchell,75.0,Male,126300.0,2,Gold,28423,Retiree,Online,128,Louisville,KY,South,2016-12-01,True
+20782,Amy,Johnson,23.0,Female,161800.0,2,Silver,8104,Retiree,Curbside Pickup,125,Boston,MA,Northeast,2020-05-04,False
+20783,Andrew,Perez,50.0,Male,77100.0,6,Silver,6313,Bulk Buyer,Online,108,San Diego,CA,West,2016-01-20,True
+20784,Nicole,Nelson,22.0,Female,125900.0,5,Platinum,43491,Budget Shopper,Curbside Pickup,107,San Antonio,TX,South,2017-10-25,True
+20785,Priya,Lopez,54.0,Female,32000.0,2,Platinum,37605,Retiree,Online,129,Memphis,TN,South,2024-11-25,True
+20786,Steven,Martinez,21.0,Male,92200.0,2,Gold,29810,Tech Enthusiast,In-Store,141,Raleigh,NC,South,2017-08-08,False
+20787,Andrew,Kim,82.0,Male,110100.0,3,Platinum,33566,Budget Shopper,Curbside Pickup,115,Charlotte,NC,South,2018-07-05,True
+20788,Jennifer,Hernandez,18.0,Female,89700.0,6,Gold,17100,Bulk Buyer,In-Store,134,Fresno,CA,West,2020-02-15,True
+20789,Rachel,Miller,54.0,Female,38900.0,4,Silver,14290,Budget Shopper,Online,148,New Orleans,LA,South,2021-05-04,True
+20790,Lisa,Martin,39.0,Female,45600.0,6,Platinum,44453,Tech Enthusiast,In-Store,143,Miami,FL,South,2022-02-21,True
+20791,Taylor,Davis,64.0,Non-Binary,87600.0,5,Platinum,38082,Budget Shopper,In-Store,119,Denver,CO,West,2023-02-11,True
+20792,Aisha,Campbell,21.0,Female,155000.0,3,Bronze,5911,Tech Enthusiast,Online,104,Houston,TX,South,2021-05-05,False
+20793,James,Perez,54.0,Male,100600.0,6,Platinum,30933,Retiree,Mobile App,121,Nashville,TN,South,2023-09-12,True
+20794,Susan,Scott,32.0,Female,128700.0,4,Silver,11031,Retiree,Mobile App,134,Fresno,CA,West,2017-04-06,True
+20795,Eric,Parker,31.0,Male,41000.0,1,Platinum,36715,Young Professional,Online,129,Memphis,TN,South,2021-07-12,True
+20796,Sofia,Mitchell,75.0,Female,135100.0,1,Silver,13733,Budget Shopper,In-Store,121,Nashville,TN,South,2018-06-16,False
+20797,Michelle,Hernandez,50.0,Female,187400.0,3,Gold,28996,Family Household,In-Store,147,Tampa,FL,South,2017-10-28,False
+20798,Marcus,Perez,65.0,Male,136600.0,6,Platinum,34156,Young Professional,Online,137,Atlanta,GA,South,2016-07-08,True
+20799,David,Chen,57.0,Male,41600.0,5,Platinum,33525,Tech Enthusiast,Online,121,Nashville,TN,South,2020-01-15,False
+20800,Marcus,Kim,55.0,Male,43500.0,6,Gold,29438,Family Household,Curbside Pickup,149,Wichita,KS,Midwest,2021-11-21,True
+20801,Robert,Nelson,70.0,Male,29200.0,1,None,30,Bulk Buyer,Curbside Pickup,111,Austin,TX,South,2016-05-22,True
+20802,Michael,Lopez,53.0,Male,43500.0,4,Gold,27458,Bulk Buyer,Curbside Pickup,142,Virginia Beach,VA,South,2017-11-07,False
+20803,Luis,Smith,37.0,Male,108600.0,5,Platinum,35693,Family Household,Mobile App,113,San Jose,CA,West,2023-12-13,True
+20804,Mei,Carter,41.0,Female,135600.0,1,Platinum,44830,Family Household,Online,127,Portland,OR,West,2020-12-23,False
+20805,Grace,Brown,49.0,Female,87800.0,5,Silver,6783,Tech Enthusiast,In-Store,105,Phoenix,AZ,West,2020-01-14,False
+20806,Lisa,Anderson,34.0,Female,145800.0,6,Gold,26389,Retiree,Online,129,Memphis,TN,South,2021-06-23,False
+20807,Steven,Roberts,51.0,Male,112300.0,5,Gold,24888,Family Household,Curbside Pickup,119,Denver,CO,West,2016-05-06,False
+20808,Jordan,Jones,80.0,Non-Binary,48800.0,5,Silver,13589,Family Household,Online,145,Minneapolis,MN,Midwest,2022-07-10,True
+20809,Amy,Chen,78.0,Female,73800.0,4,Gold,28984,Bulk Buyer,Mobile App,137,Atlanta,GA,South,2017-01-15,False
+20810,Aisha,Nelson,82.0,Female,126400.0,6,Platinum,42744,Young Professional,Online,118,Seattle,WA,West,2018-03-27,True
+20811,Susan,Wilson,23.0,Female,136200.0,1,Gold,18703,Budget Shopper,In-Store,149,Wichita,KS,Midwest,2018-05-21,False
+20812,Eric,Brown,40.0,Male,135800.0,6,Platinum,32472,Budget Shopper,Online,121,Nashville,TN,South,2018-01-15,True
+20813,Rachel,Davis,22.0,Female,52200.0,1,Gold,23717,Bulk Buyer,In-Store,128,Louisville,KY,South,2024-05-02,True
+20814,Wei,Jackson,60.0,Male,152500.0,3,Silver,14048,Tech Enthusiast,Mobile App,122,Washington,DC,Northeast,2020-05-04,False
+20815,Anthony,Evans,19.0,Male,31000.0,5,Gold,24264,Young Professional,Mobile App,117,San Francisco,CA,West,2016-03-25,False
+20816,David,Wright,80.0,Male,179100.0,4,Gold,22205,Bulk Buyer,Mobile App,101,New York,NY,Northeast,2023-06-23,False
+20817,Brian,Rodriguez,27.0,Male,39600.0,3,Bronze,5171,Budget Shopper,Curbside Pickup,105,Phoenix,AZ,West,2021-02-21,True
+20818,Angela,Collins,63.0,Female,186600.0,1,Platinum,35098,Budget Shopper,In-Store,136,Mesa,AZ,West,2018-10-14,False
+20819,Anthony,Perez,25.0,Male,61700.0,6,Platinum,34712,Family Household,Online,142,Virginia Beach,VA,South,2017-02-17,True
+20820,Aisha,Campbell,78.0,Female,134400.0,5,Silver,9725,Family Household,Mobile App,138,Kansas City,MO,Midwest,2016-09-05,True
+20821,Wei,Martin,81.0,Male,167400.0,3,Silver,12182,Budget Shopper,Mobile App,150,Cleveland,OH,Midwest,2016-06-15,False
+20822,Riley,Perez,76.0,Non-Binary,51700.0,6,Silver,15974,Family Household,In-Store,137,Atlanta,GA,South,2024-09-25,False
+20823,Luis,Williams,33.0,Male,122000.0,5,Gold,22756,Family Household,In-Store,108,San Diego,CA,West,2019-11-13,True
+20824,Kevin,Brown,55.0,Male,151600.0,1,Silver,7953,Young Professional,In-Store,120,Oklahoma City,OK,South,2023-02-05,True
+20825,Sofia,Davis,60.0,Female,151100.0,4,Platinum,45777,Bulk Buyer,In-Store,102,Los Angeles,CA,West,2016-04-06,True
+20826,Michelle,Gonzalez,23.0,Female,30100.0,1,Gold,21204,Tech Enthusiast,Online,142,Virginia Beach,VA,South,2018-06-21,False
+20827,Anthony,Mitchell,65.0,Male,90700.0,6,Bronze,4671,Family Household,In-Store,135,Sacramento,CA,West,2024-07-17,True
+20828,Nicole,Parker,59.0,Female,171100.0,5,Silver,11455,Young Professional,Mobile App,138,Kansas City,MO,Midwest,2020-07-21,True
+20829,Luis,Nelson,57.0,Male,95900.0,1,Platinum,42712,Young Professional,Mobile App,124,Las Vegas,NV,West,2021-09-23,True
+20830,Andrew,Chen,22.0,Male,116100.0,5,Platinum,32566,Young Professional,Online,134,Fresno,CA,West,2018-07-22,True
+20831,Robert,Baker,56.0,Male,187800.0,6,Gold,17331,Tech Enthusiast,Mobile App,142,Virginia Beach,VA,South,2020-06-16,False
+20832,Daniel,Lopez,69.0,Male,125600.0,6,Platinum,44648,Family Household,In-Store,107,San Antonio,TX,South,2022-10-21,True
+20833,Alex,Mitchell,59.0,Non-Binary,160500.0,3,Gold,18669,Young Professional,In-Store,136,Mesa,AZ,West,2018-09-28,True
+20834,Nicole,Martin,73.0,Female,80500.0,1,Bronze,5531,Bulk Buyer,Mobile App,149,Wichita,KS,Midwest,2017-02-06,True
+20835,James,Johnson,46.0,Male,101400.0,2,Platinum,42192,Bulk Buyer,In-Store,120,Oklahoma City,OK,South,2022-06-02,True
+20836,Carlos,Turner,61.0,Male,70000.0,2,Platinum,43046,Bulk Buyer,Curbside Pickup,111,Austin,TX,South,2017-07-10,True
+20837,Raj,Davis,72.0,Male,28500.0,3,Gold,19856,Tech Enthusiast,In-Store,126,Detroit,MI,Midwest,2017-05-01,True
+20838,Taylor,Parker,81.0,Non-Binary,132800.0,5,Platinum,36785,Retiree,Mobile App,143,Miami,FL,South,2021-04-01,False
+20839,David,Roberts,64.0,Male,34100.0,4,Gold,18433,Bulk Buyer,In-Store,134,Fresno,CA,West,2024-07-02,False
+20840,Nicole,Johnson,54.0,Female,138600.0,1,Platinum,39137,Family Household,In-Store,126,Detroit,MI,Midwest,2023-11-18,False
+20841,Ryan,Phillips,54.0,Male,167700.0,4,Gold,24759,Budget Shopper,Curbside Pickup,138,Kansas City,MO,Midwest,2017-02-06,True
+20842,Nicole,Martinez,27.0,Female,95100.0,6,Gold,25954,Family Household,In-Store,104,Houston,TX,South,2018-10-23,True
+20843,Lisa,Wilson,28.0,Female,44100.0,6,Silver,11823,Bulk Buyer,Mobile App,107,San Antonio,TX,South,2024-11-25,False
+20844,Lisa,Wright,34.0,Female,175500.0,3,Gold,18304,Budget Shopper,In-Store,140,Omaha,NE,Midwest,2018-06-09,True
+20845,Sofia,Perez,70.0,Female,142600.0,3,Gold,17219,Young Professional,Mobile App,132,Albuquerque,NM,West,2019-02-17,True
+20846,Kevin,Edwards,82.0,Male,178600.0,4,Platinum,40827,Bulk Buyer,Online,116,Indianapolis,IN,Midwest,2017-12-14,True
+20847,Andrew,Brown,24.0,Male,98700.0,3,Platinum,35994,Bulk Buyer,In-Store,104,Houston,TX,South,2024-06-28,True
+20848,Elena,Garcia,81.0,Female,103900.0,4,Gold,29564,Tech Enthusiast,Mobile App,134,Fresno,CA,West,2019-06-18,False
+20849,Daniel,Martin,68.0,Male,144000.0,5,Gold,18993,Family Household,Curbside Pickup,146,Tulsa,OK,South,2016-03-02,False
+20850,Omar,Evans,66.0,Male,111200.0,1,Platinum,35980,Young Professional,Mobile App,102,Los Angeles,CA,West,2017-07-23,True
+20851,Marcus,Campbell,36.0,Male,159600.0,6,Gold,24505,Family Household,Online,147,Tampa,FL,South,2019-04-05,False
+20852,Sofia,Evans,82.0,Female,131100.0,5,Bronze,5642,Tech Enthusiast,Online,136,Mesa,AZ,West,2016-08-21,True
+20853,Mei,Kim,32.0,Female,47100.0,1,Platinum,40639,Tech Enthusiast,Mobile App,122,Washington,DC,Northeast,2022-07-03,True
+20854,Michelle,Hernandez,57.0,Female,80100.0,3,Gold,29401,Tech Enthusiast,Curbside Pickup,101,New York,NY,Northeast,2016-12-10,False
+20855,Andrew,Parker,18.0,Male,89300.0,3,Platinum,35193,Family Household,Mobile App,122,Washington,DC,Northeast,2022-10-15,True
+20856,Grace,Garcia,37.0,Female,69800.0,5,Bronze,4264,Bulk Buyer,Curbside Pickup,116,Indianapolis,IN,Midwest,2020-03-04,True
+20857,Nicole,Jones,84.0,Female,183400.0,3,Platinum,46469,Budget Shopper,In-Store,122,Washington,DC,Northeast,2022-02-11,True
+20858,Andrew,Anderson,50.0,Male,68500.0,4,Bronze,4523,Budget Shopper,In-Store,150,Cleveland,OH,Midwest,2023-08-06,False
+20859,Marcus,Jackson,47.0,Male,153400.0,4,Gold,22273,Family Household,Curbside Pickup,127,Portland,OR,West,2020-05-17,True
+20860,Susan,Nguyen,42.0,Female,87100.0,6,Platinum,45579,Bulk Buyer,Mobile App,138,Kansas City,MO,Midwest,2020-09-17,False
+20861,Omar,Thomas,23.0,Male,84200.0,2,Gold,20216,Tech Enthusiast,In-Store,105,Phoenix,AZ,West,2024-11-16,True
+20862,Michelle,Scott,27.0,Female,77900.0,4,Gold,29849,Budget Shopper,Curbside Pickup,141,Raleigh,NC,South,2021-10-21,False
+20863,Kevin,Collins,27.0,Male,184600.0,4,Gold,19359,Retiree,Online,125,Boston,MA,Northeast,2018-11-17,False
+20864,Anthony,Gonzalez,29.0,Male,97900.0,3,Platinum,37049,Tech Enthusiast,Mobile App,133,Tucson,AZ,West,2022-07-28,True
+20865,Michelle,Rodriguez,69.0,Female,32600.0,6,Silver,14820,Young Professional,In-Store,117,San Francisco,CA,West,2019-08-24,False
+20866,Maria,Roberts,48.0,Female,187000.0,1,Bronze,2974,Young Professional,Curbside Pickup,118,Seattle,WA,West,2017-02-17,True
+20867,Kevin,Davis,79.0,Male,118200.0,1,Platinum,32820,Retiree,In-Store,120,Oklahoma City,OK,South,2024-12-14,True
+20868,Raj,Garcia,81.0,Male,133500.0,3,Bronze,2257,Bulk Buyer,Online,147,Tampa,FL,South,2019-01-27,False
+20869,Eric,Baker,74.0,Male,146300.0,6,Platinum,47472,Budget Shopper,In-Store,110,Jacksonville,FL,South,2018-11-11,True
+20870,Eric,Mitchell,30.0,Male,189500.0,6,Bronze,4886,Budget Shopper,In-Store,120,Oklahoma City,OK,South,2024-07-11,True
+20871,Nancy,Collins,81.0,Female,94900.0,3,Platinum,34276,Young Professional,Mobile App,136,Mesa,AZ,West,2021-02-21,True
+20872,Nicole,Smith,69.0,Female,78800.0,5,Gold,16191,Budget Shopper,Mobile App,144,Oakland,CA,West,2021-07-02,False
+20873,Anthony,Garcia,81.0,Male,131500.0,6,Silver,12665,Retiree,Curbside Pickup,111,Austin,TX,South,2024-01-21,False
+20874,Susan,Moore,81.0,Female,97100.0,1,Platinum,34719,Family Household,Curbside Pickup,133,Tucson,AZ,West,2020-07-08,True
+20875,Deborah,Thomas,31.0,Female,109600.0,3,Bronze,1060,Tech Enthusiast,Mobile App,123,El Paso,TX,South,2023-09-16,False
+20876,Nicole,Johnson,27.0,Female,147700.0,6,Platinum,42701,Family Household,In-Store,122,Washington,DC,Northeast,2018-02-08,False
+20877,Lisa,Nguyen,71.0,Female,38600.0,3,Bronze,5683,Tech Enthusiast,Curbside Pickup,128,Louisville,KY,South,2018-05-10,False
+20878,Andrew,Gonzalez,39.0,Male,65600.0,2,Bronze,5504,Young Professional,Online,105,Phoenix,AZ,West,2022-06-08,True
+20879,Marcus,Rodriguez,24.0,Male,179300.0,4,Gold,19295,Family Household,Curbside Pickup,129,Memphis,TN,South,2021-05-10,False
+20880,Aisha,Rodriguez,81.0,Female,75300.0,1,Silver,7679,Bulk Buyer,Online,130,Baltimore,MD,Northeast,2019-07-08,True
+20881,Raj,Campbell,34.0,Male,133500.0,5,Platinum,34470,Bulk Buyer,Curbside Pickup,138,Kansas City,MO,Midwest,2016-07-03,True
+20882,Karen,Adams,20.0,Female,138000.0,3,Platinum,34112,Family Household,Curbside Pickup,143,Miami,FL,South,2021-03-25,False
+20883,Daniel,Miller,60.0,Male,103300.0,4,Platinum,39510,Family Household,Online,108,San Diego,CA,West,2023-01-25,False
+20884,Angela,Parker,63.0,Female,44200.0,6,Platinum,43565,Tech Enthusiast,Curbside Pickup,125,Boston,MA,Northeast,2019-09-08,True
+20885,Grace,Anderson,45.0,Female,114400.0,4,Platinum,45575,Tech Enthusiast,Curbside Pickup,127,Portland,OR,West,2021-08-06,False
+20886,Jennifer,Campbell,45.0,Female,130100.0,3,Gold,21838,Young Professional,Mobile App,115,Charlotte,NC,South,2022-11-15,False
+20887,Anthony,Lopez,34.0,Male,144700.0,6,Bronze,2718,Bulk Buyer,In-Store,138,Kansas City,MO,Midwest,2020-07-17,True
+20888,Casey,Collins,63.0,Non-Binary,177300.0,1,Gold,27524,Retiree,Online,120,Oklahoma City,OK,South,2017-05-02,False
+20889,Andrew,Jackson,28.0,Male,105400.0,3,Platinum,41799,Retiree,In-Store,116,Indianapolis,IN,Midwest,2022-12-10,True
+20890,Casey,Carter,33.0,Non-Binary,71200.0,5,Silver,8124,Budget Shopper,Mobile App,113,San Jose,CA,West,2018-11-05,True
+20891,Jennifer,Wright,27.0,Female,152000.0,5,None,0,Bulk Buyer,In-Store,139,Colorado Springs,CO,West,2022-10-08,False
+20892,Carlos,Collins,80.0,Male,104600.0,5,Platinum,33325,Young Professional,Online,131,Milwaukee,WI,Midwest,2019-10-06,True
+20893,Raj,Smith,81.0,Male,119500.0,5,Platinum,31915,Tech Enthusiast,Curbside Pickup,120,Oklahoma City,OK,South,2018-02-10,True
+20894,Deborah,Turner,62.0,Female,178500.0,5,Platinum,38955,Family Household,In-Store,120,Oklahoma City,OK,South,2020-11-11,False
+20895,Joshua,Campbell,49.0,Male,127000.0,6,Platinum,37978,Young Professional,In-Store,125,Boston,MA,Northeast,2019-10-19,True
+20896,Andrew,Perez,54.0,Male,159700.0,3,Gold,29981,Young Professional,Online,107,San Antonio,TX,South,2018-03-22,True
+20897,Joshua,Nguyen,58.0,Male,148100.0,5,Bronze,1569,Family Household,Mobile App,140,Omaha,NE,Midwest,2024-03-06,False
+20898,Daniel,Thomas,53.0,Male,112300.0,6,Silver,12156,Retiree,In-Store,101,New York,NY,Northeast,2020-08-23,False
+20899,Wei,Taylor,50.0,Male,160900.0,1,Platinum,37943,Bulk Buyer,Mobile App,124,Las Vegas,NV,West,2024-04-16,True
+20900,Raj,Wright,78.0,Male,171700.0,1,Gold,27445,Bulk Buyer,In-Store,147,Tampa,FL,South,2024-06-25,True
+20901,Sofia,Kim,22.0,Female,162500.0,2,Silver,9149,Tech Enthusiast,In-Store,114,Columbus,OH,Midwest,2019-04-19,True
+20902,Riley,Baker,35.0,Non-Binary,67300.0,5,Platinum,46599,Bulk Buyer,Mobile App,119,Denver,CO,West,2017-01-22,True
+20903,Raj,Smith,78.0,Male,44500.0,3,Platinum,34641,Young Professional,In-Store,136,Mesa,AZ,West,2022-07-23,True
+20904,Lisa,Rodriguez,73.0,Female,33800.0,5,Platinum,39023,Budget Shopper,Mobile App,104,Houston,TX,South,2023-08-18,True
+20905,Jason,Anderson,20.0,Male,82600.0,6,Platinum,41686,Tech Enthusiast,In-Store,120,Oklahoma City,OK,South,2023-03-05,True
+20906,Raj,Adams,25.0,Male,31700.0,5,Platinum,47550,Retiree,In-Store,132,Albuquerque,NM,West,2021-06-23,True
+20907,Karen,Collins,61.0,Female,27900.0,1,Platinum,36022,Family Household,In-Store,128,Louisville,KY,South,2023-07-22,True
+20908,Mei,Mitchell,58.0,Female,184900.0,5,Gold,26612,Retiree,Online,131,Milwaukee,WI,Midwest,2016-01-23,True
+20909,Raj,Parker,71.0,Male,83600.0,1,Platinum,32515,Family Household,Mobile App,145,Minneapolis,MN,Midwest,2023-11-11,True
+20910,Michelle,Davis,61.0,Female,90300.0,3,Silver,7734,Retiree,Online,113,San Jose,CA,West,2021-04-06,True
+20911,Alex,Lopez,56.0,Prefer Not to Say,41200.0,4,Gold,19407,Tech Enthusiast,In-Store,129,Memphis,TN,South,2024-04-15,False
+20912,Jennifer,Carter,67.0,Female,115800.0,3,Platinum,34126,Bulk Buyer,In-Store,139,Colorado Springs,CO,West,2019-08-28,True
+20913,Brian,Thomas,41.0,Male,109000.0,5,Silver,7111,Budget Shopper,Online,119,Denver,CO,West,2023-04-07,True
+20914,Amy,Moore,41.0,Female,70900.0,4,Silver,12706,Bulk Buyer,In-Store,144,Oakland,CA,West,2018-11-21,True
+20915,Andrew,Scott,59.0,Male,144000.0,6,Platinum,38810,Bulk Buyer,In-Store,127,Portland,OR,West,2024-04-18,True
+20916,Luis,Kim,69.0,Male,71400.0,1,Gold,18545,Bulk Buyer,In-Store,148,New Orleans,LA,South,2018-12-02,True
+20917,Luis,Wright,53.0,Male,80600.0,5,Platinum,44325,Tech Enthusiast,In-Store,148,New Orleans,LA,South,2022-11-05,False
+20918,Andrew,Parker,31.0,Male,152200.0,1,Gold,21661,Retiree,Curbside Pickup,138,Kansas City,MO,Midwest,2018-07-26,False
+20919,Nancy,Anderson,55.0,Female,64800.0,3,Gold,25769,Bulk Buyer,Mobile App,115,Charlotte,NC,South,2020-11-27,False
+20920,Marcus,Adams,26.0,Male,130000.0,4,Silver,14290,Young Professional,Curbside Pickup,106,Philadelphia,PA,Northeast,2024-10-13,True
+20921,Daniel,Jackson,46.0,Male,76200.0,5,Platinum,37640,Retiree,Curbside Pickup,142,Virginia Beach,VA,South,2018-02-07,True
+20922,Elena,Thomas,31.0,Female,85900.0,3,Platinum,40955,Family Household,In-Store,109,Dallas,TX,South,2017-01-08,False
+20923,Steven,Perez,18.0,Male,61700.0,2,Gold,29954,Bulk Buyer,Online,115,Charlotte,NC,South,2022-06-05,True
+20924,Joshua,Martin,48.0,Male,93200.0,1,Gold,25613,Tech Enthusiast,Mobile App,145,Minneapolis,MN,Midwest,2019-01-05,True
+20925,Omar,Perez,59.0,Male,184700.0,4,Silver,15674,Tech Enthusiast,In-Store,106,Philadelphia,PA,Northeast,2016-08-21,True
+20926,James,Hernandez,31.0,Male,118900.0,2,Silver,10348,Budget Shopper,In-Store,149,Wichita,KS,Midwest,2022-06-25,True
+20927,Marcus,Martinez,45.0,Male,111500.0,2,Silver,13253,Young Professional,Online,112,Fort Worth,TX,South,2023-02-04,True
+20928,Raj,Phillips,18.0,Male,174200.0,5,Gold,27445,Retiree,Curbside Pickup,137,Atlanta,GA,South,2023-09-03,True
+20929,Elena,Johnson,25.0,Female,178700.0,4,Gold,24914,Bulk Buyer,Curbside Pickup,135,Sacramento,CA,West,2024-08-18,True
+20930,Andrew,Anderson,73.0,Male,130400.0,1,Silver,12109,Retiree,Mobile App,129,Memphis,TN,South,2018-11-12,True
+20931,Omar,Edwards,28.0,Male,176900.0,4,Platinum,44344,Retiree,Curbside Pickup,102,Los Angeles,CA,West,2021-04-26,True
+20932,Andrew,Evans,22.0,Male,132700.0,3,Platinum,35623,Retiree,In-Store,137,Atlanta,GA,South,2019-02-18,False
+20933,Avery,Evans,68.0,Non-Binary,164700.0,1,Silver,10950,Budget Shopper,Online,106,Philadelphia,PA,Northeast,2023-09-05,True
+20934,Amy,Wilson,40.0,Female,125400.0,2,Silver,10709,Bulk Buyer,Mobile App,130,Baltimore,MD,Northeast,2017-02-04,True
+20935,Steven,Edwards,22.0,Male,188100.0,6,Platinum,38653,Family Household,In-Store,132,Albuquerque,NM,West,2023-03-25,True
+20936,Priya,Gonzalez,39.0,Female,58500.0,6,Bronze,1448,Bulk Buyer,Mobile App,150,Cleveland,OH,Midwest,2022-07-06,True
+20937,Rachel,Campbell,31.0,Female,70800.0,1,Platinum,34766,Retiree,Mobile App,149,Wichita,KS,Midwest,2022-12-13,True
+20938,Taylor,Scott,76.0,Non-Binary,67700.0,6,Gold,24592,Young Professional,Curbside Pickup,131,Milwaukee,WI,Midwest,2018-07-07,True
+20939,Omar,Nguyen,24.0,Male,135000.0,1,Platinum,33041,Bulk Buyer,In-Store,124,Las Vegas,NV,West,2016-08-17,True
+20940,James,Kim,56.0,Male,114300.0,1,Gold,28705,Bulk Buyer,Mobile App,140,Omaha,NE,Midwest,2021-07-14,True
+20941,Patricia,Anderson,39.0,Female,162200.0,4,Platinum,43951,Family Household,Mobile App,121,Nashville,TN,South,2018-05-20,False
+20942,Luis,Kim,49.0,Male,34600.0,5,Platinum,31552,Young Professional,Online,142,Virginia Beach,VA,South,2022-03-06,True
+20943,Patricia,Wilson,38.0,Female,170900.0,5,Platinum,40218,Family Household,Mobile App,146,Tulsa,OK,South,2017-07-07,True
+20944,Joshua,Brown,23.0,Male,126100.0,3,Silver,14719,Bulk Buyer,Online,121,Nashville,TN,South,2024-06-18,False
+20945,Alex,Carter,58.0,Prefer Not to Say,107700.0,5,Platinum,35634,Budget Shopper,In-Store,122,Washington,DC,Northeast,2023-03-17,True
+20946,Kevin,Hernandez,30.0,Male,37500.0,1,Platinum,36768,Retiree,Curbside Pickup,121,Nashville,TN,South,2017-06-05,True
+20947,Jason,Hernandez,39.0,Male,81000.0,5,Silver,9637,Young Professional,In-Store,150,Cleveland,OH,Midwest,2023-07-20,True
+20948,Kevin,Davis,84.0,Male,115500.0,5,Bronze,723,Bulk Buyer,Online,134,Fresno,CA,West,2019-05-04,True
+20949,Lisa,Nguyen,72.0,Female,36200.0,1,Bronze,5032,Budget Shopper,Curbside Pickup,121,Nashville,TN,South,2020-08-01,True
+20950,Sofia,Collins,28.0,Female,82200.0,1,Platinum,43377,Young Professional,Mobile App,148,New Orleans,LA,South,2024-05-07,True
+20951,Maria,Miller,34.0,Female,185700.0,2,Gold,20807,Bulk Buyer,Curbside Pickup,147,Tampa,FL,South,2016-04-11,False
+20952,Lisa,Martinez,55.0,Female,180900.0,2,Bronze,4179,Family Household,In-Store,139,Colorado Springs,CO,West,2022-06-21,True
+20953,James,Collins,81.0,Male,39800.0,6,Gold,19611,Young Professional,Online,102,Los Angeles,CA,West,2022-04-20,False
+20954,Luis,Martinez,81.0,Male,79600.0,1,Gold,18245,Young Professional,Mobile App,103,Chicago,IL,Midwest,2019-11-23,True
+20955,Kevin,Moore,56.0,Male,83900.0,1,Bronze,4864,Tech Enthusiast,In-Store,116,Indianapolis,IN,Midwest,2022-03-14,True
+20956,James,Smith,60.0,Male,58700.0,6,Bronze,1711,Bulk Buyer,Online,109,Dallas,TX,South,2020-06-24,True
+20957,Andrew,Lopez,79.0,Male,175500.0,4,Gold,18194,Family Household,In-Store,130,Baltimore,MD,Northeast,2023-06-03,True
+20958,Angela,Phillips,68.0,Female,59500.0,2,Platinum,40832,Bulk Buyer,Mobile App,120,Oklahoma City,OK,South,2021-01-19,False
+20959,Omar,Carter,68.0,Male,32800.0,1,None,324,Young Professional,Mobile App,116,Indianapolis,IN,Midwest,2017-06-26,True
+20960,Wei,Patel,26.0,Male,35300.0,4,Silver,14472,Bulk Buyer,Online,140,Omaha,NE,Midwest,2024-08-16,True
+20961,Amy,Wilson,27.0,Female,43800.0,5,Gold,17339,Bulk Buyer,Mobile App,141,Raleigh,NC,South,2018-11-01,True
+20962,Raj,Edwards,59.0,Male,134300.0,2,Platinum,47154,Bulk Buyer,In-Store,126,Detroit,MI,Midwest,2020-10-05,False
+20963,Deborah,Martinez,31.0,Female,54300.0,6,Bronze,5184,Young Professional,In-Store,136,Mesa,AZ,West,2018-07-12,True
+20964,Nicole,Garcia,27.0,Female,93400.0,3,Platinum,43356,Family Household,Online,107,San Antonio,TX,South,2022-01-06,True
+20965,Michelle,Gonzalez,35.0,Female,66200.0,5,Gold,28968,Retiree,Online,114,Columbus,OH,Midwest,2022-12-18,False
+20966,Aisha,Lopez,60.0,Female,41200.0,6,Gold,18809,Budget Shopper,Mobile App,142,Virginia Beach,VA,South,2020-04-20,False
+20967,Casey,Perez,44.0,Non-Binary,169300.0,4,Gold,18547,Bulk Buyer,Mobile App,145,Minneapolis,MN,Midwest,2021-12-02,True
+20968,Susan,Miller,79.0,Female,167300.0,1,None,92,Retiree,Curbside Pickup,116,Indianapolis,IN,Midwest,2020-12-19,True
+20969,Rachel,Wilson,22.0,Female,175200.0,4,Platinum,34465,Budget Shopper,Online,101,New York,NY,Northeast,2019-02-18,False
+20970,Aisha,Scott,75.0,Female,182600.0,6,Platinum,30589,Family Household,Mobile App,131,Milwaukee,WI,Midwest,2024-11-13,True
+20971,Maria,Rodriguez,50.0,Female,186900.0,1,Gold,27477,Young Professional,Curbside Pickup,140,Omaha,NE,Midwest,2017-03-09,False
+20972,Karen,Jones,47.0,Female,144200.0,1,Gold,27930,Bulk Buyer,Online,125,Boston,MA,Northeast,2019-03-24,True
+20973,Joshua,Rodriguez,72.0,Male,146300.0,3,Silver,11194,Budget Shopper,Curbside Pickup,124,Las Vegas,NV,West,2016-08-01,True
+20974,Jennifer,Martinez,39.0,Female,109600.0,1,Silver,15210,Tech Enthusiast,Online,125,Boston,MA,Northeast,2018-12-18,False
+20975,Taylor,Martin,73.0,Prefer Not to Say,141500.0,4,Platinum,39981,Budget Shopper,Online,104,Houston,TX,South,2019-07-11,True
+20976,David,Baker,41.0,Male,157200.0,5,Silver,14489,Bulk Buyer,Curbside Pickup,106,Philadelphia,PA,Northeast,2020-12-11,True
+20977,Casey,Smith,26.0,Prefer Not to Say,140300.0,5,Platinum,42605,Tech Enthusiast,Online,147,Tampa,FL,South,2021-06-23,True
+20978,Carlos,Edwards,58.0,Male,189600.0,5,Platinum,41769,Family Household,In-Store,107,San Antonio,TX,South,2023-09-20,True
+20979,Nicole,Turner,84.0,Female,125700.0,5,Platinum,42041,Budget Shopper,Mobile App,146,Tulsa,OK,South,2018-08-03,False
+20980,Joshua,Martinez,42.0,Male,69600.0,3,Platinum,30469,Tech Enthusiast,Mobile App,132,Albuquerque,NM,West,2024-04-26,True
+20981,Michael,Scott,67.0,Male,99700.0,5,Bronze,3823,Tech Enthusiast,Mobile App,139,Colorado Springs,CO,West,2022-02-11,True
+20982,Raj,Rodriguez,24.0,Male,92600.0,4,Gold,23230,Retiree,In-Store,134,Fresno,CA,West,2018-04-13,True
+20983,Marcus,Chen,19.0,Male,56400.0,3,Bronze,4608,Budget Shopper,Curbside Pickup,140,Omaha,NE,Midwest,2018-04-06,False
+20984,Maria,Patel,56.0,Female,130200.0,1,Gold,25864,Tech Enthusiast,In-Store,106,Philadelphia,PA,Northeast,2016-11-14,False
+20985,Grace,Evans,58.0,Female,40800.0,1,Platinum,35061,Bulk Buyer,Curbside Pickup,138,Kansas City,MO,Midwest,2017-02-27,True
+20986,Elena,Phillips,52.0,Female,189700.0,4,Gold,17123,Retiree,Curbside Pickup,149,Wichita,KS,Midwest,2022-02-20,False
+20987,Jason,Johnson,47.0,Male,103500.0,5,Platinum,40070,Family Household,Curbside Pickup,112,Fort Worth,TX,South,2017-02-07,True
+20988,Linda,Jackson,24.0,Female,91300.0,2,Platinum,43268,Budget Shopper,Online,110,Jacksonville,FL,South,2020-02-25,False
+20989,Maria,Roberts,63.0,Female,67200.0,6,Silver,9566,Budget Shopper,Mobile App,107,San Antonio,TX,South,2022-09-04,False
+20990,Steven,Gonzalez,68.0,Male,93600.0,5,Platinum,46240,Retiree,Curbside Pickup,117,San Francisco,CA,West,2020-05-12,True
+20991,Priya,Evans,76.0,Female,24600.0,5,Gold,22348,Tech Enthusiast,In-Store,110,Jacksonville,FL,South,2021-03-18,True
+20992,Mei,Davis,82.0,Female,154600.0,1,Platinum,39367,Retiree,In-Store,142,Virginia Beach,VA,South,2016-09-07,False
+20993,Quinn,Mitchell,42.0,Prefer Not to Say,172600.0,5,Bronze,4563,Tech Enthusiast,Curbside Pickup,131,Milwaukee,WI,Midwest,2021-04-18,False
+20994,Eric,Jackson,65.0,Male,167300.0,5,Bronze,2930,Bulk Buyer,Mobile App,146,Tulsa,OK,South,2016-05-12,True
+20995,Nancy,Brown,18.0,Female,146300.0,5,Platinum,43941,Retiree,Online,110,Jacksonville,FL,South,2020-11-09,True
+20996,Wei,Hernandez,39.0,Male,51900.0,1,Bronze,763,Bulk Buyer,Online,114,Columbus,OH,Midwest,2021-11-10,True
+20997,Raj,Jackson,74.0,Male,125900.0,3,Platinum,37120,Bulk Buyer,In-Store,147,Tampa,FL,South,2017-02-10,False
+20998,Taylor,Kim,81.0,Prefer Not to Say,39300.0,5,Platinum,45586,Young Professional,In-Store,109,Dallas,TX,South,2022-07-27,False
+20999,Jason,Anderson,69.0,Male,160200.0,5,Silver,13791,Young Professional,Curbside Pickup,126,Detroit,MI,Midwest,2024-08-11,True
+21000,James,Carter,52.0,Male,166800.0,3,Gold,22125,Tech Enthusiast,In-Store,132,Albuquerque,NM,West,2019-06-04,True
+21001,Maria,Evans,62.0,Female,161600.0,5,Platinum,36721,Bulk Buyer,Mobile App,133,Tucson,AZ,West,2019-03-17,True
+21002,Linda,Nguyen,53.0,Female,28200.0,4,Gold,17823,Family Household,In-Store,118,Seattle,WA,West,2017-04-17,False
+21003,Michael,Kim,43.0,Male,73300.0,2,Platinum,37460,Bulk Buyer,Online,148,New Orleans,LA,South,2018-11-11,True
+21004,Ryan,Nguyen,58.0,Male,43700.0,6,Silver,8522,Budget Shopper,In-Store,138,Kansas City,MO,Midwest,2023-11-18,True
+21005,Jennifer,Miller,33.0,Female,97100.0,5,Platinum,32570,Young Professional,Curbside Pickup,141,Raleigh,NC,South,2017-04-25,False
+21006,Sofia,Baker,18.0,Female,142100.0,2,Platinum,36560,Budget Shopper,Online,116,Indianapolis,IN,Midwest,2016-10-24,True
+21007,Brian,Perez,23.0,Male,137700.0,4,Silver,8457,Retiree,Online,102,Los Angeles,CA,West,2016-01-03,False
+21008,Priya,Hernandez,77.0,Female,53100.0,5,Platinum,42453,Tech Enthusiast,Online,118,Seattle,WA,West,2020-10-24,True
+21009,Amy,Kim,29.0,Female,152400.0,5,Gold,25239,Budget Shopper,In-Store,111,Austin,TX,South,2024-06-02,False
+21010,Steven,Mitchell,22.0,Male,80200.0,5,Platinum,32437,Retiree,Curbside Pickup,141,Raleigh,NC,South,2024-09-15,False
+21011,Carlos,Johnson,66.0,Male,112900.0,5,Gold,27749,Retiree,Mobile App,125,Boston,MA,Northeast,2020-12-25,True
+21012,Mei,Edwards,30.0,Female,175900.0,5,Platinum,43354,Young Professional,Online,125,Boston,MA,Northeast,2024-08-16,True
+21013,Aisha,Wilson,27.0,Female,108800.0,6,Gold,23896,Bulk Buyer,In-Store,122,Washington,DC,Northeast,2017-05-16,False
+21014,Susan,Chen,79.0,Female,106300.0,1,Platinum,44016,Family Household,Mobile App,126,Detroit,MI,Midwest,2019-03-01,False
+21015,Omar,Edwards,82.0,Male,130100.0,6,Bronze,5303,Retiree,Online,113,San Jose,CA,West,2021-02-17,False
+21016,Mei,Gonzalez,47.0,Female,145800.0,6,Silver,13283,Tech Enthusiast,Mobile App,150,Cleveland,OH,Midwest,2022-06-10,True
+21017,Luis,Roberts,73.0,Male,93300.0,3,Bronze,3655,Family Household,In-Store,124,Las Vegas,NV,West,2017-06-05,False
+21018,Robert,Williams,63.0,Male,75300.0,5,Gold,22452,Family Household,Curbside Pickup,124,Las Vegas,NV,West,2021-04-25,True
+21019,Joshua,Baker,42.0,Male,142000.0,4,Platinum,34161,Family Household,Online,133,Tucson,AZ,West,2016-08-26,True
+21020,Anthony,Turner,59.0,Male,122800.0,1,Platinum,36188,Family Household,Online,101,New York,NY,Northeast,2022-07-02,True
+21021,Patricia,Gonzalez,83.0,Female,96900.0,2,Gold,22680,Budget Shopper,Online,104,Houston,TX,South,2019-03-21,True
+21022,Mei,Nelson,57.0,Female,134500.0,6,Gold,28570,Family Household,In-Store,113,San Jose,CA,West,2016-11-06,True
+21023,Angela,Moore,63.0,Female,100500.0,5,Gold,27438,Bulk Buyer,Mobile App,113,San Jose,CA,West,2022-02-27,True
+21024,Priya,Baker,70.0,Female,47500.0,6,Gold,29341,Family Household,Online,135,Sacramento,CA,West,2016-03-03,False
+21025,Priya,Johnson,71.0,Female,42300.0,5,Gold,17097,Budget Shopper,Mobile App,149,Wichita,KS,Midwest,2021-04-02,False
+21026,Priya,Miller,46.0,Female,138000.0,4,Gold,24440,Bulk Buyer,Mobile App,147,Tampa,FL,South,2017-03-13,False
+21027,James,Anderson,37.0,Male,171400.0,2,Gold,28474,Tech Enthusiast,In-Store,102,Los Angeles,CA,West,2022-04-01,False
+21028,Marcus,Rodriguez,33.0,Male,94100.0,2,Silver,6702,Family Household,In-Store,139,Colorado Springs,CO,West,2018-07-21,True
+21029,Brian,Anderson,66.0,Male,177800.0,3,Platinum,34703,Retiree,Curbside Pickup,116,Indianapolis,IN,Midwest,2019-01-17,True
+21030,Rachel,Moore,25.0,Female,67800.0,6,Silver,12168,Budget Shopper,Online,104,Houston,TX,South,2020-12-03,True
+21031,Eric,Nguyen,55.0,Male,88800.0,1,Gold,29902,Family Household,Online,135,Sacramento,CA,West,2019-09-26,True
+21032,Rachel,Evans,66.0,Female,109100.0,4,Platinum,43293,Tech Enthusiast,Online,120,Oklahoma City,OK,South,2022-10-05,False
+21033,Raj,Nguyen,46.0,Male,72500.0,2,Silver,14202,Family Household,Curbside Pickup,108,San Diego,CA,West,2017-09-08,True
+21034,Jennifer,Evans,19.0,Female,25900.0,1,Gold,28980,Budget Shopper,Online,137,Atlanta,GA,South,2017-06-23,True
+21035,Taylor,Lopez,38.0,Non-Binary,68300.0,4,Platinum,39830,Retiree,In-Store,125,Boston,MA,Northeast,2022-04-10,False
+21036,Nancy,Baker,58.0,Female,189400.0,1,Platinum,32324,Bulk Buyer,In-Store,123,El Paso,TX,South,2017-11-28,True
+21037,Andrew,Baker,23.0,Male,186700.0,6,Platinum,36477,Tech Enthusiast,In-Store,131,Milwaukee,WI,Midwest,2016-03-05,True
+21038,Taylor,Martinez,34.0,Prefer Not to Say,87300.0,5,Silver,15209,Young Professional,Curbside Pickup,142,Virginia Beach,VA,South,2017-09-14,True
+21039,James,Mitchell,64.0,Male,46800.0,3,Bronze,1032,Retiree,Curbside Pickup,139,Colorado Springs,CO,West,2022-09-12,True
+21040,Eric,Nelson,30.0,Male,126500.0,6,Silver,15888,Family Household,In-Store,106,Philadelphia,PA,Northeast,2020-06-12,True
+21041,Andrew,Jones,51.0,Male,59600.0,1,Silver,10141,Young Professional,Curbside Pickup,110,Jacksonville,FL,South,2024-06-16,True
+21042,Wei,Gonzalez,54.0,Male,185600.0,3,Platinum,41476,Tech Enthusiast,Mobile App,148,New Orleans,LA,South,2017-07-04,True
+21043,Marcus,Nguyen,41.0,Male,146200.0,1,Gold,25085,Family Household,Curbside Pickup,146,Tulsa,OK,South,2020-07-22,False
+21044,Amy,Collins,73.0,Female,53400.0,6,Platinum,32301,Budget Shopper,Mobile App,147,Tampa,FL,South,2020-04-01,True
+21045,Kevin,Phillips,72.0,Male,171900.0,3,Platinum,41594,Young Professional,In-Store,115,Charlotte,NC,South,2021-10-01,False
+21046,Aisha,Patel,78.0,Female,64200.0,2,Gold,21788,Tech Enthusiast,Online,127,Portland,OR,West,2022-07-09,True
+21047,Mei,Davis,24.0,Female,160700.0,4,Silver,12815,Budget Shopper,Curbside Pickup,132,Albuquerque,NM,West,2016-04-01,True
+21048,Mei,Edwards,46.0,Female,52300.0,4,Gold,28523,Budget Shopper,Mobile App,105,Phoenix,AZ,West,2017-01-18,True
+21049,Karen,Nguyen,33.0,Female,170400.0,3,Bronze,3989,Retiree,Mobile App,103,Chicago,IL,Midwest,2023-06-08,False
+21050,Eric,Edwards,20.0,Male,120100.0,2,Platinum,43930,Tech Enthusiast,In-Store,104,Houston,TX,South,2020-11-03,True
+21051,Brian,Lopez,21.0,Male,39500.0,2,Platinum,41741,Budget Shopper,In-Store,142,Virginia Beach,VA,South,2018-12-23,True
+21052,Amy,Johnson,50.0,Female,26400.0,4,Gold,22062,Family Household,In-Store,141,Raleigh,NC,South,2019-10-09,True
+21053,Michelle,Perez,28.0,Female,72100.0,6,Gold,29682,Bulk Buyer,Mobile App,105,Phoenix,AZ,West,2019-10-01,True
+21054,Eric,Miller,31.0,Male,124800.0,6,Silver,8649,Young Professional,Mobile App,133,Tucson,AZ,West,2019-02-03,True
+21055,Brian,Parker,52.0,Male,65100.0,4,Platinum,38038,Young Professional,Mobile App,150,Cleveland,OH,Midwest,2024-03-16,False
+21056,Taylor,Jones,57.0,Non-Binary,40500.0,2,Gold,29175,Retiree,Online,116,Indianapolis,IN,Midwest,2020-05-22,True
+21057,Michael,Johnson,27.0,Male,86300.0,1,Platinum,43771,Retiree,In-Store,105,Phoenix,AZ,West,2023-02-19,False
+21058,Nicole,Patel,67.0,Female,172200.0,3,Platinum,39902,Retiree,Mobile App,132,Albuquerque,NM,West,2017-10-09,True
+21059,Morgan,Nelson,61.0,Non-Binary,140200.0,4,Platinum,38464,Family Household,Curbside Pickup,116,Indianapolis,IN,Midwest,2021-03-13,False
+21060,Elena,Turner,42.0,Female,180900.0,2,Platinum,45700,Budget Shopper,Curbside Pickup,129,Memphis,TN,South,2019-05-10,False
+21061,Elena,Campbell,32.0,Female,89000.0,3,Platinum,40514,Budget Shopper,Mobile App,137,Atlanta,GA,South,2023-04-16,True
+21062,Susan,Gonzalez,80.0,Female,96700.0,2,Platinum,43874,Young Professional,In-Store,101,New York,NY,Northeast,2019-06-21,False
+21063,Brian,Mitchell,33.0,Male,164100.0,5,Silver,10386,Young Professional,In-Store,136,Mesa,AZ,West,2018-11-26,True
+21064,James,Brown,58.0,Male,140600.0,4,Gold,18014,Family Household,In-Store,102,Los Angeles,CA,West,2016-03-24,True
+21065,Joshua,Baker,33.0,Male,116800.0,5,Platinum,33014,Tech Enthusiast,Online,112,Fort Worth,TX,South,2016-02-22,True
+21066,Nicole,Kim,73.0,Female,97200.0,1,Silver,12806,Budget Shopper,In-Store,135,Sacramento,CA,West,2024-07-03,False
+21067,Priya,Garcia,80.0,Female,75300.0,2,Platinum,35036,Young Professional,Mobile App,122,Washington,DC,Northeast,2022-01-01,True
+21068,Angela,Edwards,72.0,Female,169600.0,2,Gold,29435,Bulk Buyer,In-Store,103,Chicago,IL,Midwest,2019-09-17,True
+21069,Grace,Anderson,42.0,Female,25400.0,1,Platinum,41372,Retiree,In-Store,144,Oakland,CA,West,2017-09-06,True
+21070,Amy,Chen,29.0,Female,24000.0,2,Bronze,5055,Retiree,Online,147,Tampa,FL,South,2017-12-14,True
+21071,Ryan,Chen,70.0,Male,79900.0,5,Platinum,34537,Retiree,Mobile App,132,Albuquerque,NM,West,2019-08-15,True
+21072,Wei,Kim,71.0,Male,112400.0,5,Gold,18351,Tech Enthusiast,In-Store,124,Las Vegas,NV,West,2016-11-28,True
+21073,Andrew,Campbell,24.0,Male,100300.0,5,Platinum,37806,Young Professional,Online,124,Las Vegas,NV,West,2018-08-03,True
+21074,Joshua,Perez,66.0,Male,83700.0,6,Gold,16629,Tech Enthusiast,In-Store,128,Louisville,KY,South,2017-09-24,False
+21075,Joshua,Moore,55.0,Male,70700.0,4,Silver,11828,Young Professional,Curbside Pickup,150,Cleveland,OH,Midwest,2016-04-07,False
+21076,Jennifer,Miller,27.0,Female,57900.0,6,Silver,8482,Tech Enthusiast,Mobile App,141,Raleigh,NC,South,2018-03-22,True
+21077,Luis,Scott,49.0,Male,133000.0,2,Platinum,41795,Young Professional,Curbside Pickup,109,Dallas,TX,South,2017-02-24,True
+21078,Karen,Scott,48.0,Female,25600.0,3,Silver,8404,Young Professional,Online,107,San Antonio,TX,South,2024-09-06,False
+21079,Elena,Johnson,61.0,Female,127700.0,4,Gold,23014,Bulk Buyer,Curbside Pickup,117,San Francisco,CA,West,2020-08-15,False
+21080,Daniel,Davis,44.0,Male,176800.0,6,Platinum,42303,Retiree,Online,119,Denver,CO,West,2021-04-20,True
+21081,Angela,Smith,54.0,Female,42300.0,5,Platinum,35987,Family Household,Curbside Pickup,105,Phoenix,AZ,West,2018-12-28,True
+21082,Aisha,Nguyen,32.0,Female,96700.0,4,Gold,25366,Bulk Buyer,Curbside Pickup,105,Phoenix,AZ,West,2017-02-26,False
+21083,Marcus,Wright,48.0,Male,177400.0,4,Platinum,37330,Retiree,In-Store,115,Charlotte,NC,South,2016-10-08,True
+21084,Michael,Martin,27.0,Male,35300.0,6,Bronze,2981,Bulk Buyer,Curbside Pickup,111,Austin,TX,South,2020-03-06,False
+21085,Andrew,Perez,68.0,Male,163200.0,6,Gold,20687,Budget Shopper,Online,128,Louisville,KY,South,2023-09-18,True
+21086,Robert,Anderson,18.0,Male,53800.0,2,Platinum,47138,Bulk Buyer,In-Store,107,San Antonio,TX,South,2016-07-04,True
+21087,Jason,Gonzalez,71.0,Male,190000.0,2,Platinum,39881,Bulk Buyer,Curbside Pickup,104,Houston,TX,South,2022-04-16,True
+21088,Amy,Edwards,79.0,Female,158700.0,1,Silver,12585,Family Household,Curbside Pickup,145,Minneapolis,MN,Midwest,2024-05-23,True
+21089,Nicole,Evans,22.0,Female,96100.0,3,Gold,26139,Young Professional,In-Store,125,Boston,MA,Northeast,2024-06-15,False
+21090,Andrew,Lopez,19.0,Male,57500.0,5,Platinum,41518,Tech Enthusiast,Curbside Pickup,126,Detroit,MI,Midwest,2016-05-03,True
+21091,Jason,Adams,81.0,Male,143000.0,2,Gold,27938,Tech Enthusiast,In-Store,127,Portland,OR,West,2021-02-02,True
+21092,Andrew,Davis,33.0,Male,81200.0,4,Silver,8886,Bulk Buyer,Curbside Pickup,101,New York,NY,Northeast,2017-10-27,True
+21093,Casey,Mitchell,32.0,Non-Binary,111300.0,4,Platinum,42705,Family Household,Curbside Pickup,103,Chicago,IL,Midwest,2019-08-28,True
+21094,Jennifer,Garcia,61.0,Female,72400.0,2,Gold,25092,Budget Shopper,Online,145,Minneapolis,MN,Midwest,2022-04-22,True
+21095,Jennifer,Rodriguez,53.0,Female,187000.0,5,Gold,23157,Family Household,Online,109,Dallas,TX,South,2020-03-23,True
+21096,Raj,Thomas,43.0,Male,133900.0,5,Gold,18839,Family Household,Mobile App,132,Albuquerque,NM,West,2019-02-16,True
+21097,James,Kim,48.0,Male,152000.0,3,Gold,24587,Family Household,Online,135,Sacramento,CA,West,2023-01-18,True
+21098,Aisha,Nguyen,78.0,Female,188600.0,2,None,384,Family Household,Mobile App,136,Mesa,AZ,West,2017-04-04,False
+21099,Nancy,Gonzalez,69.0,Female,107300.0,2,Gold,16957,Family Household,Online,141,Raleigh,NC,South,2022-04-26,True
+21100,Raj,Garcia,54.0,Male,124900.0,5,Gold,22932,Young Professional,In-Store,141,Raleigh,NC,South,2017-06-24,True
+21101,Joshua,Miller,41.0,Male,40400.0,1,Platinum,30104,Young Professional,Online,145,Minneapolis,MN,Midwest,2018-11-17,False
+21102,Anthony,Gonzalez,18.0,Male,117700.0,4,Platinum,46896,Young Professional,Mobile App,146,Tulsa,OK,South,2022-02-12,True
+21103,Luis,Nguyen,60.0,Male,101600.0,1,Gold,28022,Retiree,Online,146,Tulsa,OK,South,2024-10-02,True
+21104,Deborah,Hernandez,64.0,Female,85700.0,3,None,107,Budget Shopper,Curbside Pickup,127,Portland,OR,West,2016-04-23,False
+21105,Raj,Miller,56.0,Male,174900.0,1,Platinum,43917,Young Professional,Mobile App,142,Virginia Beach,VA,South,2020-03-12,True
+21106,Grace,Nguyen,50.0,Female,177800.0,5,Silver,8628,Bulk Buyer,Mobile App,103,Chicago,IL,Midwest,2022-10-07,False
+21107,Joshua,Taylor,29.0,Male,23100.0,3,Silver,6023,Budget Shopper,In-Store,111,Austin,TX,South,2018-06-09,True
+21108,Robert,Nguyen,36.0,Male,129500.0,4,Silver,8645,Bulk Buyer,Online,146,Tulsa,OK,South,2020-10-21,True
+21109,Daniel,Jones,76.0,Male,44800.0,4,Silver,15685,Retiree,Online,117,San Francisco,CA,West,2017-01-23,True
+21110,Andrew,Jones,53.0,Male,66400.0,1,Silver,6021,Young Professional,In-Store,147,Tampa,FL,South,2021-11-01,False
+21111,Jason,Edwards,53.0,Male,139800.0,4,Bronze,1655,Budget Shopper,Online,141,Raleigh,NC,South,2022-11-12,True
+21112,Deborah,Parker,50.0,Female,38300.0,3,Platinum,38547,Tech Enthusiast,Online,106,Philadelphia,PA,Northeast,2021-03-25,True
+21113,Joshua,Evans,52.0,Male,166100.0,3,Gold,16288,Young Professional,Curbside Pickup,104,Houston,TX,South,2023-09-13,False
+21114,Rachel,Wilson,18.0,Female,125600.0,2,Platinum,37243,Tech Enthusiast,In-Store,133,Tucson,AZ,West,2017-01-13,False
+21115,Elena,Roberts,46.0,Female,188000.0,6,Platinum,30627,Young Professional,Curbside Pickup,123,El Paso,TX,South,2019-02-04,True
+21116,Ryan,Martin,55.0,Male,61500.0,6,Gold,19189,Retiree,Online,107,San Antonio,TX,South,2021-03-27,False
+21117,Mei,Jackson,40.0,Female,120700.0,1,Silver,12302,Family Household,Online,117,San Francisco,CA,West,2016-06-07,True
+21118,Linda,Kim,23.0,Female,23600.0,6,Platinum,39360,Budget Shopper,Curbside Pickup,147,Tampa,FL,South,2018-04-25,False
+21119,Joshua,Nguyen,72.0,Male,155400.0,4,Gold,28222,Budget Shopper,Mobile App,139,Colorado Springs,CO,West,2018-12-02,True
+21120,Susan,Rodriguez,79.0,Female,75600.0,5,Gold,16969,Tech Enthusiast,Online,127,Portland,OR,West,2023-05-23,True
+21121,Andrew,Brown,84.0,Male,123000.0,1,Gold,27415,Retiree,In-Store,139,Colorado Springs,CO,West,2021-01-18,True
+21122,Andrew,Campbell,43.0,Male,145900.0,6,Gold,28486,Family Household,Curbside Pickup,127,Portland,OR,West,2017-05-07,True
+21123,Anthony,Kim,31.0,Male,175300.0,6,Bronze,3784,Tech Enthusiast,Curbside Pickup,139,Colorado Springs,CO,West,2019-11-24,False
+21124,Mei,Martin,62.0,Female,97600.0,4,Platinum,44243,Bulk Buyer,In-Store,125,Boston,MA,Northeast,2020-05-17,True
+21125,Maria,Moore,56.0,Female,180000.0,5,Bronze,2119,Tech Enthusiast,In-Store,140,Omaha,NE,Midwest,2021-03-03,False
+21126,Ryan,Chen,78.0,Male,109500.0,3,Gold,19945,Tech Enthusiast,Online,130,Baltimore,MD,Northeast,2024-01-15,True
+21127,Mei,Garcia,64.0,Female,28500.0,1,Gold,26191,Bulk Buyer,In-Store,150,Cleveland,OH,Midwest,2022-08-03,True
+21128,Jennifer,Rodriguez,30.0,Female,105500.0,4,Gold,26249,Budget Shopper,Online,102,Los Angeles,CA,West,2016-09-04,True
+21129,Joshua,Taylor,80.0,Male,183700.0,5,Platinum,41653,Family Household,Curbside Pickup,123,El Paso,TX,South,2024-04-03,True
+21130,Lisa,Johnson,36.0,Female,124100.0,1,Platinum,46181,Young Professional,Online,106,Philadelphia,PA,Northeast,2016-07-28,True
+21131,Nicole,Moore,39.0,Female,129600.0,2,Gold,16024,Tech Enthusiast,Mobile App,130,Baltimore,MD,Northeast,2020-04-14,True
+21132,Joshua,Nguyen,27.0,Male,144900.0,4,Silver,8618,Retiree,In-Store,134,Fresno,CA,West,2022-10-13,True
+21133,Eric,Nelson,71.0,Male,69400.0,3,Bronze,5054,Bulk Buyer,In-Store,112,Fort Worth,TX,South,2017-08-15,True
+21134,Michelle,Martinez,19.0,Female,129800.0,4,Platinum,39293,Budget Shopper,Online,113,San Jose,CA,West,2020-10-01,True
+21135,Luis,Scott,54.0,Male,77700.0,4,Bronze,4255,Bulk Buyer,Curbside Pickup,111,Austin,TX,South,2017-12-21,True
+21136,Susan,Moore,19.0,Female,167100.0,1,Platinum,30243,Retiree,Mobile App,145,Minneapolis,MN,Midwest,2022-10-16,False
+21137,Wei,Smith,56.0,Male,40000.0,6,Bronze,3039,Budget Shopper,Curbside Pickup,108,San Diego,CA,West,2022-02-22,True
+21138,Karen,Scott,40.0,Female,142200.0,6,Platinum,34463,Budget Shopper,Mobile App,142,Virginia Beach,VA,South,2020-12-01,True
+21139,Susan,Rodriguez,21.0,Female,180300.0,3,Platinum,38820,Bulk Buyer,Online,139,Colorado Springs,CO,West,2023-06-03,True
+21140,Sofia,Gonzalez,73.0,Female,170200.0,5,Gold,16591,Bulk Buyer,Online,109,Dallas,TX,South,2022-09-27,False
+21141,Carlos,Turner,75.0,Male,121800.0,4,Platinum,33641,Family Household,In-Store,121,Nashville,TN,South,2020-02-03,True
+21142,Mei,Moore,22.0,Female,136300.0,2,Platinum,31082,Tech Enthusiast,In-Store,121,Nashville,TN,South,2017-08-16,True
+21143,Ryan,Gonzalez,52.0,Male,156800.0,4,Platinum,41551,Tech Enthusiast,Curbside Pickup,110,Jacksonville,FL,South,2018-07-07,True
+21144,Sofia,Kim,37.0,Female,93200.0,2,None,14,Budget Shopper,Curbside Pickup,103,Chicago,IL,Midwest,2020-12-21,False
+21145,Kevin,Rodriguez,80.0,Male,28100.0,1,Bronze,4540,Tech Enthusiast,In-Store,113,San Jose,CA,West,2023-10-09,False
+21146,Nancy,Gonzalez,25.0,Female,148900.0,4,Platinum,33266,Budget Shopper,Online,105,Phoenix,AZ,West,2021-04-13,True
+21147,Mei,Nelson,81.0,Female,61400.0,4,Silver,13821,Budget Shopper,In-Store,141,Raleigh,NC,South,2024-06-28,True
+21148,Morgan,Adams,39.0,Non-Binary,84800.0,3,Platinum,37557,Bulk Buyer,Curbside Pickup,120,Oklahoma City,OK,South,2018-06-09,False
+21149,Steven,Jackson,81.0,Male,73700.0,4,Silver,15854,Young Professional,In-Store,103,Chicago,IL,Midwest,2021-05-22,True
+21150,Ryan,Gonzalez,44.0,Male,25300.0,3,Bronze,4192,Tech Enthusiast,Online,117,San Francisco,CA,West,2021-10-10,False
+21151,Riley,Mitchell,72.0,Non-Binary,48200.0,6,Platinum,42376,Tech Enthusiast,Mobile App,101,New York,NY,Northeast,2021-07-17,True
+21152,Anthony,Evans,59.0,Male,183100.0,2,Platinum,30515,Budget Shopper,Curbside Pickup,134,Fresno,CA,West,2022-08-07,False
+21153,Brian,Kim,42.0,Male,111500.0,5,Gold,17024,Bulk Buyer,Mobile App,141,Raleigh,NC,South,2022-03-16,False
+21154,Kevin,Rodriguez,33.0,Male,126800.0,2,Bronze,5402,Budget Shopper,Mobile App,108,San Diego,CA,West,2020-10-04,False
+21155,Linda,Moore,52.0,Female,59100.0,6,Silver,14904,Family Household,Mobile App,106,Philadelphia,PA,Northeast,2024-11-02,True
+21156,Anthony,Roberts,43.0,Male,108600.0,1,Silver,6236,Young Professional,Curbside Pickup,119,Denver,CO,West,2020-04-07,True
+21157,Omar,Baker,20.0,Male,174800.0,4,Platinum,39088,Tech Enthusiast,Mobile App,114,Columbus,OH,Midwest,2021-06-13,True
+21158,Kevin,Martin,61.0,Male,165600.0,5,Silver,15070,Tech Enthusiast,Curbside Pickup,126,Detroit,MI,Midwest,2023-10-21,True
+21159,Carlos,Wilson,81.0,Male,185800.0,1,Bronze,4070,Tech Enthusiast,Curbside Pickup,115,Charlotte,NC,South,2023-07-21,True
+21160,Ryan,Parker,24.0,Male,128700.0,6,Silver,8558,Retiree,Online,129,Memphis,TN,South,2023-01-15,True
+21161,Lisa,Johnson,54.0,Female,120200.0,5,Silver,15008,Family Household,Curbside Pickup,112,Fort Worth,TX,South,2024-11-07,True
+21162,Linda,Martinez,60.0,Female,58200.0,4,Silver,13348,Tech Enthusiast,Curbside Pickup,127,Portland,OR,West,2020-08-07,True
+21163,James,Baker,68.0,Male,48100.0,5,Silver,14473,Budget Shopper,Mobile App,147,Tampa,FL,South,2022-01-02,True
+21164,Linda,Wilson,64.0,Female,145700.0,6,Platinum,38892,Bulk Buyer,Online,137,Atlanta,GA,South,2017-11-02,True
+21165,Linda,Martin,52.0,Female,136100.0,5,Platinum,30090,Budget Shopper,Online,147,Tampa,FL,South,2018-12-23,False
+21166,Robert,Carter,78.0,Male,150800.0,2,Platinum,36358,Young Professional,Online,111,Austin,TX,South,2023-06-26,True
+21167,Anthony,Wilson,18.0,Male,123400.0,5,Gold,25295,Retiree,Curbside Pickup,146,Tulsa,OK,South,2016-06-03,True
+21168,Michelle,Wright,18.0,Female,60400.0,3,Silver,6168,Bulk Buyer,In-Store,114,Columbus,OH,Midwest,2017-06-28,False
+21169,Brian,Phillips,51.0,Male,101900.0,5,Gold,20201,Budget Shopper,In-Store,137,Atlanta,GA,South,2016-12-08,True
+21170,Avery,Martin,35.0,Prefer Not to Say,65800.0,4,Bronze,4251,Family Household,In-Store,143,Miami,FL,South,2016-08-25,True
+21171,Raj,Patel,22.0,Male,135800.0,6,Silver,8158,Family Household,Curbside Pickup,106,Philadelphia,PA,Northeast,2022-04-26,False
+21172,Michael,Nguyen,23.0,Male,93400.0,4,Gold,27525,Budget Shopper,Online,125,Boston,MA,Northeast,2022-09-02,True
+21173,Lisa,Lopez,50.0,Female,96700.0,2,Silver,9870,Tech Enthusiast,Online,122,Washington,DC,Northeast,2016-02-20,False
+21174,Steven,Williams,46.0,Male,41000.0,6,Gold,20792,Budget Shopper,Mobile App,105,Phoenix,AZ,West,2016-09-11,True
+21175,Nancy,Miller,34.0,Female,149600.0,5,Platinum,38446,Tech Enthusiast,Mobile App,111,Austin,TX,South,2019-11-21,True
+21176,Robert,Williams,24.0,Male,71600.0,4,Silver,8050,Budget Shopper,In-Store,150,Cleveland,OH,Midwest,2016-10-13,False
+21177,Sofia,Parker,23.0,Female,163200.0,6,Platinum,37979,Budget Shopper,Online,104,Houston,TX,South,2023-06-19,False
+21178,Eric,Carter,64.0,Male,188000.0,4,Bronze,5639,Bulk Buyer,Curbside Pickup,138,Kansas City,MO,Midwest,2018-05-05,True
+21179,Riley,Phillips,74.0,Prefer Not to Say,56600.0,2,Gold,17398,Young Professional,Mobile App,150,Cleveland,OH,Midwest,2020-10-22,False
+21180,Riley,Mitchell,70.0,Prefer Not to Say,176900.0,4,Platinum,42009,Tech Enthusiast,Curbside Pickup,123,El Paso,TX,South,2020-03-17,False
+21181,Andrew,Rodriguez,19.0,Male,67200.0,3,Bronze,847,Retiree,Mobile App,109,Dallas,TX,South,2020-08-12,True
+21182,Nicole,Collins,58.0,Female,182700.0,3,Gold,17894,Young Professional,Curbside Pickup,132,Albuquerque,NM,West,2024-09-03,True
+21183,Patricia,Adams,55.0,Female,84600.0,5,Platinum,45864,Tech Enthusiast,In-Store,115,Charlotte,NC,South,2024-10-28,False
+21184,Anthony,Kim,75.0,Male,49700.0,4,Gold,20289,Bulk Buyer,Mobile App,121,Nashville,TN,South,2018-01-16,True
+21185,Elena,Moore,37.0,Female,80600.0,2,Silver,9477,Young Professional,Online,107,San Antonio,TX,South,2016-06-27,True
+21186,Rachel,Jones,18.0,Female,168500.0,6,Silver,6753,Family Household,In-Store,139,Colorado Springs,CO,West,2016-07-04,False
+21187,Nicole,Nguyen,77.0,Female,51400.0,3,Platinum,42447,Bulk Buyer,Online,122,Washington,DC,Northeast,2021-09-04,True
+21188,Rachel,Mitchell,75.0,Female,149500.0,6,Platinum,32212,Bulk Buyer,Online,145,Minneapolis,MN,Midwest,2019-03-09,False
+21189,James,Roberts,76.0,Male,49900.0,3,Gold,22369,Young Professional,Mobile App,144,Oakland,CA,West,2016-02-26,True
+21190,Michael,Martin,73.0,Male,136400.0,5,Gold,25450,Family Household,Curbside Pickup,117,San Francisco,CA,West,2017-07-21,True
+21191,Omar,Martinez,72.0,Male,161800.0,3,Platinum,40598,Tech Enthusiast,Curbside Pickup,118,Seattle,WA,West,2017-02-24,True
+21192,Ryan,Lopez,41.0,Male,166900.0,6,Bronze,1979,Budget Shopper,Curbside Pickup,113,San Jose,CA,West,2019-02-26,False
+21193,Grace,Campbell,32.0,Female,141000.0,3,Silver,6338,Budget Shopper,In-Store,111,Austin,TX,South,2018-09-28,True
+21194,Linda,Edwards,28.0,Female,110200.0,1,Gold,23645,Tech Enthusiast,Curbside Pickup,114,Columbus,OH,Midwest,2017-09-13,False
+21195,Kevin,Smith,78.0,Male,153600.0,1,Platinum,30719,Family Household,Mobile App,101,New York,NY,Northeast,2024-04-15,True
+21196,Alex,Anderson,66.0,Non-Binary,131900.0,5,Platinum,47549,Retiree,Curbside Pickup,141,Raleigh,NC,South,2018-02-05,True
+21197,Michael,Anderson,72.0,Male,63600.0,1,Bronze,2690,Bulk Buyer,Curbside Pickup,134,Fresno,CA,West,2024-07-02,False
+21198,Andrew,Kim,49.0,Male,176300.0,2,Bronze,5241,Young Professional,Curbside Pickup,119,Denver,CO,West,2019-06-01,True
+21199,Wei,Campbell,19.0,Male,103800.0,3,Gold,18961,Bulk Buyer,Online,121,Nashville,TN,South,2020-11-18,True
+21200,Andrew,Martinez,45.0,Male,108800.0,6,Platinum,36374,Bulk Buyer,Online,106,Philadelphia,PA,Northeast,2018-04-23,True

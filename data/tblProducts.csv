@@ -1,0 +1,51 @@
+product_id,product_name,category,subcategory,brand,unit_cost,list_price,supplier_id,supplier_name,supplier_lead_time_days,reorder_point,reorder_quantity,launch_date,active_flag
+1001,"4K Smart TV 55""",Electronics,Television,Sonivex,419.73,649.99,5001,Northwind Distribution,15,87,110,2020-08-28,True
+1002,"4K Smart TV 75""",Electronics,Television,Aurelio,759.3,1299.99,5002,Pacific Source Co,8,100,117,2023-10-21,True
+1003,"OLED TV 65""",Electronics,Television,Nimbus,1394.94,1899.99,5003,Atlas Wholesale,19,105,89,2020-03-23,True
+1004,Smartphone Standard,Electronics,Mobile,Kestrel,445.03,699.0,5004,Meridian Supply,9,112,355,2023-05-08,True
+1005,Smartphone Pro,Electronics,Mobile,Voltra,774.22,1149.0,5005,Crestline Partners,5,52,182,2021-10-05,True
+1006,Smartphone Budget,Electronics,Mobile,Sonivex,163.55,279.0,5006,Vantage Global,6,64,356,2024-06-22,True
+1007,"Laptop 14"" Ultrabook",Electronics,Computing,Aurelio,637.12,1099.0,5007,Redstone Logistics,16,31,256,2020-07-24,True
+1008,"Laptop 15"" Everyday",Electronics,Computing,Nimbus,397.4,649.0,5008,Harborline Trading,7,58,190,2023-05-20,True
+1009,"Gaming Laptop 16""",Electronics,Computing,Kestrel,1077.88,1799.0,5001,Northwind Distribution,7,33,284,2024-06-01,True
+1010,"Tablet 10""",Electronics,Computing,Voltra,261.42,399.0,5002,Pacific Source Co,6,101,218,2020-04-12,True
+1011,"Tablet Pro 12""",Electronics,Computing,Sonivex,618.67,899.0,5003,Atlas Wholesale,2,75,207,2024-08-20,True
+1012,"27"" Monitor",Electronics,Computing,Aurelio,173.37,249.99,5004,Meridian Supply,21,40,232,2022-04-14,True
+1013,External SSD 2TB,Electronics,Computing,Nimbus,118.75,179.99,5005,Crestline Partners,14,60,332,2022-01-18,True
+1014,All-in-One Printer,Electronics,Computing,Kestrel,172.18,229.99,5006,Vantage Global,11,39,249,2020-10-28,True
+1015,Wireless Headphones,Electronics,Audio,Voltra,149.38,249.99,5007,Redstone Logistics,3,114,80,2024-07-20,True
+1016,Noise-Cancel Headphones,Electronics,Audio,Sonivex,263.25,379.99,5008,Harborline Trading,19,43,332,2021-10-09,True
+1017,Bluetooth Speaker,Electronics,Audio,Aurelio,93.3,129.99,5001,Northwind Distribution,16,103,328,2021-01-10,True
+1018,Soundbar with Subwoofer,Electronics,Audio,Nimbus,198.14,349.99,5002,Pacific Source Co,2,45,235,2022-11-09,True
+1019,Mirrorless Camera,Electronics,Camera,Kestrel,867.36,1299.0,5003,Atlas Wholesale,15,112,289,2023-09-14,True
+1020,Action Camera,Electronics,Camera,Voltra,190.07,349.0,5004,Meridian Supply,10,52,290,2022-03-19,True
+1021,Webcam 1080p,Electronics,Camera,Sonivex,45.04,79.99,5005,Crestline Partners,4,74,390,2021-03-10,True
+1022,Smartwatch,Electronics,Wearables,Aurelio,187.99,329.0,5006,Vantage Global,8,68,218,2022-10-23,True
+1023,Fitness Tracker,Electronics,Wearables,Nimbus,70.74,129.0,5007,Redstone Logistics,14,59,83,2024-05-01,True
+1024,Gaming Console,Electronics,Gaming,Kestrel,283.62,499.0,5008,Harborline Trading,16,90,174,2019-02-22,True
+1025,VR Headset,Electronics,Gaming,Voltra,301.28,549.0,5001,Northwind Distribution,3,109,174,2021-12-09,True
+1026,Mesh Wi-Fi Router,Electronics,Networking,Sonivex,130.01,229.99,5002,Pacific Source Co,21,45,306,2020-03-17,True
+1027,Power Bank 20K,Electronics,Accessories,Aurelio,37.44,59.99,5003,Atlas Wholesale,16,73,293,2023-04-15,True
+1028,Drone 4K,Electronics,Accessories,Nimbus,494.36,799.0,5004,Meridian Supply,2,33,223,2020-02-22,True
+1029,French Door Refrigerator,Appliances,Refrigeration,Ironvale,1429.66,2199.0,5005,Crestline Partners,13,54,202,2021-09-18,True
+1030,Top Freezer Refrigerator,Appliances,Refrigeration,Belmore,569.19,899.0,5006,Vantage Global,20,82,191,2022-04-27,True
+1031,Chest Freezer,Appliances,Refrigeration,HomeCrest,402.09,549.0,5007,Redstone Logistics,9,114,392,2020-01-12,True
+1032,Front Load Washer,Appliances,Laundry,Maytron,572.31,949.0,5008,Harborline Trading,19,49,384,2021-05-05,True
+1033,Electric Dryer,Appliances,Laundry,Cascade,465.85,849.0,5001,Northwind Distribution,15,110,157,2024-10-14,True
+1034,Washer Dryer Combo,Appliances,Laundry,Ironvale,1145.68,1599.0,5002,Pacific Source Co,3,111,311,2022-08-16,True
+1035,Dishwasher,Appliances,Kitchen Major,Belmore,403.28,749.0,5003,Atlas Wholesale,16,116,234,2022-04-24,True
+1036,Electric Range Oven,Appliances,Kitchen Major,HomeCrest,738.32,1099.0,5004,Meridian Supply,20,100,144,2020-02-07,True
+1037,Over-Range Microwave,Appliances,Kitchen Major,Maytron,270.26,399.0,5005,Crestline Partners,16,40,341,2024-10-20,True
+1038,Air Fryer,Appliances,Kitchen Small,Cascade,88.81,149.99,5006,Vantage Global,3,44,171,2023-03-05,True
+1039,Countertop Blender,Appliances,Kitchen Small,Ironvale,71.53,99.99,5007,Redstone Logistics,14,111,115,2021-01-10,True
+1040,Drip Coffee Maker,Appliances,Kitchen Small,Belmore,47.28,89.99,5008,Harborline Trading,14,77,90,2020-10-14,True
+1041,Espresso Machine,Appliances,Kitchen Small,HomeCrest,486.05,649.0,5001,Northwind Distribution,8,31,256,2021-08-18,True
+1042,Stand Mixer,Appliances,Kitchen Small,Maytron,233.03,429.0,5002,Pacific Source Co,21,100,330,2023-06-02,True
+1043,Electric Pressure Cooker,Appliances,Kitchen Small,Cascade,75.88,119.99,5003,Atlas Wholesale,10,67,390,2020-09-27,True
+1044,4-Slice Toaster,Appliances,Kitchen Small,Ironvale,46.06,69.99,5004,Meridian Supply,12,90,301,2021-09-15,True
+1045,Upright Vacuum,Appliances,Floor Care,Belmore,159.92,229.0,5005,Crestline Partners,19,69,164,2020-01-05,True
+1046,Robot Vacuum,Appliances,Floor Care,HomeCrest,345.33,549.0,5006,Vantage Global,13,118,328,2019-12-23,True
+1047,Cordless Stick Vacuum,Appliances,Floor Care,Maytron,273.17,399.0,5007,Redstone Logistics,15,33,328,2023-12-19,True
+1048,HEPA Air Purifier,Appliances,Climate,Cascade,184.37,279.0,5008,Harborline Trading,11,23,285,2023-06-26,True
+1049,"Ceiling Fan 52""",Appliances,Climate,Ironvale,117.26,159.0,5001,Northwind Distribution,10,25,374,2019-12-12,True
+1050,Tankless Water Heater,Appliances,Climate,Belmore,742.28,1299.0,5002,Pacific Source Co,17,58,127,2022-12-23,True
